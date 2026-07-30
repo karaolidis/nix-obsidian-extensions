@@ -1,0 +1,41 @@
+name: update
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Install Nix
+        uses: cachix/install-nix-action@v31.11.0
+      - name: Refresh hashes
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: nix run .#update
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase --autostash
+          if [ -n "$(git ls-files --unmerged)" ]; then
+            echo "autostash conflicted with upstream changes to data/"
+            exit 1
+          fi
+
+          git add -A data/
+          if git diff --cached --quiet -- data/; then
+            echo "data unchanged"
+            exit 0
+          fi
+
+          git commit -m "data: refresh plugins and themes"
+          git push

@@ -1,0 +1,19 @@
+name: check
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Install Nix
+        uses: cachix/install-nix-action@v31.11.0
+      - name: Run check
+        run: nix flake check
+      - name: Evaluate sets
+        run: |
+          nix eval .#legacyPackages.x86_64-linux.obsidianPlugins --apply builtins.attrNames >/dev/null
+          nix eval .#legacyPackages.x86_64-linux.obsidianThemes --apply builtins.attrNames >/dev/null
