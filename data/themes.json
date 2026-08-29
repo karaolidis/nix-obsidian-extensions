@@ -479,8 +479,8 @@
   },
   "aubade": {
     "files": {
-      "manifest.json": "sha256-eU+QNqGLL0ZD1+C9ec7IHYsXMkhMUj3UUvQD4of0TCw=",
-      "theme.css": "sha256-yZcVsvKW2YfAgVauTExYV1XABWORPbWpwp6CQfmjJp8="
+      "manifest.json": "sha256-LAvJXoEgDYzsFCSRYxjSiB022iM1XJ0lt93CkNtNR7U=",
+      "theme.css": "sha256-a9lVdOv4zKGqiDKcaBkFOaftgAz9REjuJ3dHV3r/SSE="
     },
     "modes": [
       "dark",
@@ -488,7 +488,7 @@
     ],
     "name": "Aubade",
     "repo": "ducktapekiller/obsidian-aubade",
-    "rev": "68257f1b60947c11ab899a5bbe994d0cc2e1a0d3"
+    "rev": "99e3a88df52a24b50c0ca9fbf84629d0711a5738"
   },
   "auger": {
     "files": {
@@ -3096,7 +3096,7 @@
     ],
     "name": "GitHubDHC",
     "repo": "scottkirvan/GitHubDHC",
-    "rev": "e348719447fc91856b55828baa67379894f9f832"
+    "rev": "a7f9bd320704403fdc2e74caee8dd6f528ccc1db"
   },
   "gitsidian": {
     "files": {
@@ -4080,6 +4080,19 @@
     "repo": "paddychenc75/obsidian-lumen",
     "rev": "d1b7ed71bab2fa3122d9b6776bc3acefd7e2badf"
   },
+  "lumin": {
+    "files": {
+      "manifest.json": "sha256-fpu9veWI9HmJ5iq53/otdi8oqG9Y2ux/zyuksTqGo+U=",
+      "theme.css": "sha256-GWvFVmceWQm6AsW60Lno2VoN2xt8JbBfL+GX0n9Ab00="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "Lumin",
+    "repo": "yixuan-space/obsidian-lumin",
+    "rev": "b2140d435e8cefdeb87e5ae6981aa2b0e1189ea0"
+  },
   "lumines": {
     "files": {
       "manifest.json": "sha256-o3Fr4UUvYimY/fRGQ0QH5qpAkOEgsRKJjUMoGRYDM/I=",
@@ -4626,15 +4639,15 @@
   },
   "monospace-dark": {
     "files": {
-      "manifest.json": "sha256-KlP88ZBkk+AqwDSaMhhoeJQ69MmoiMUUTglViWZSNWk=",
-      "theme.css": "sha256-HPXtErjPsqAUIGQxOlRXzXWHMSDCWBkNg6IKr8+fRKk="
+      "manifest.json": "sha256-cGnbVXXIry4flUbuKzULVxn0ZMifFbf/aUK7BHehrGs=",
+      "theme.css": "sha256-+L07kIuo1L0XlZx10pdJSWFpsbtxsfV93ztQqoOyjig="
     },
     "modes": [
       "dark"
     ],
     "name": "Monospace Dark",
     "repo": "pearcepunisher/monospace-obsidian",
-    "rev": "a1f897aadfd20533ba74aa379db4e9bc4c5f4b1d"
+    "rev": "c88c0771899aea629537fb890c812c980b69bff4"
   },
   "moonlight": {
     "files": {
@@ -4724,6 +4737,19 @@
     "name": "Muted-Blue",
     "repo": "hasanthesyrian/Muted-Blue-Obsidian",
     "rev": "1fa4c8e8fa246a7459af104ddb85203d71eaa276"
+  },
+  "myicor-inkline": {
+    "files": {
+      "manifest.json": "sha256-zS8INTR3aug6IweyDPcZ3abudY0KOB90WX+obJoFoKA=",
+      "theme.css": "sha256-ssUgpk8mW42tTghyYT8duD3EvXkE8goqARbGwqyRKic="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "myICOR INKLINE",
+    "repo": "myicor/inkline-obsidian",
+    "rev": "baf82c03bd289bd1bf94dfe37a110d8a5009b6ff"
   },
   "myst": {
     "files": {
@@ -6145,7 +6171,7 @@
     ],
     "name": "Plainpage",
     "repo": "pgyogesh/obsidian-plainpage-theme",
-    "rev": "5e3c8270e10b15ae36126e62ae5ef72bf537b26d"
+    "rev": "6e64dae5a99fe8f79027711fd4632ad18af158f7"
   },
   "planetary": {
     "files": {
@@ -8693,8 +8719,8 @@
   },
   "weave-surface": {
     "files": {
-      "manifest.json": "sha256-P/7XDr9Vjb7RcK0D3Hsg+actwCDYCvQCnyDmC5ca/70=",
-      "theme.css": "sha256-iZVyBFdF8JZka4lDfF/qwKkw7aQThKJ0asSOLadiSTk="
+      "manifest.json": "sha256-4AM98lL7Afxut6bVzxvQERIEfYD2ltXQbMWHhb+IR2c=",
+      "theme.css": "sha256-4meqsF9BQ5VjzgTQvMSOOQnN+87SOxfBl586TWJrNak="
     },
     "modes": [
       "dark",
@@ -8702,7 +8728,7 @@
     ],
     "name": "Weave Surface",
     "repo": "zhuzhige123/obsidian-weave-surface",
-    "rev": "fa950ec6f82b1d8d70795a0f3b3fd1ab841b3bc0"
+    "rev": "74f9ceac639f3e808b5bd15ca49463c10e9a6ebf"
   },
   "weiya": {
     "files": {
@@ -8897,8 +8923,8 @@
   },
   "zen-forest": {
     "files": {
-      "manifest.json": "sha256-uQ4+WSrNgR0O0KZrsBT896ftSoFPepEnc++9jI6E528=",
-      "theme.css": "sha256-5/FBiMUWagEl/Bku742JFW5ccf70budQs+zfNISJgDE="
+      "manifest.json": "sha256-V3aTUsjCBlo4JP77NHXUrIyhFpDoJYfA+q6xxzFi538=",
+      "theme.css": "sha256-u12+dRk+cDWuJg3hDpqiYKg/+lRcqhsHHRijYa0IANs="
     },
     "modes": [
       "dark",
@@ -8906,7 +8932,7 @@
     ],
     "name": "Zen Forest",
     "repo": "hobbysoftwaredeveloper/Zen-Forest",
-    "rev": "b32a1b27c70868ad555a6ce00747276120c37e48"
+    "rev": "558b34f738e55754f5210089ceb9d13d47a123f8"
   },
   "zenburn": {
     "files": {
