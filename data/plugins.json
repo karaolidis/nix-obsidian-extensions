@@ -116,6 +116,16 @@
     "repo": "etudes-informatiques-et-services35/abal-lang-highlighter",
     "version": "1.0.1"
   },
+  "abap-syntax-highlight": {
+    "files": {
+      "main.js": "sha256-UaLq7gJJF2Twluc5vl2QMk8lQiIDprlYeXiIajDx/es=",
+      "manifest.json": "sha256-hDlvt2W7xb8A4VACClFi3Qh3vt7Gb7YNA8G9V1flwMU=",
+      "styles.css": "sha256-nUafFmIFGIDhuoFkrxXG54d4KvTxokzQWoUe9Xql9f8="
+    },
+    "name": "ABAP Syntax Highlight",
+    "repo": "laurinsorgend/ObsidianABAPSyntaxHighlight",
+    "version": "1.0.1"
+  },
   "abbreviations": {
     "files": {
       "main.js": "sha256-ft+rvoDXwzeZNQ93G5eeXVisYLtuUXslgVyDKQml2Q8=",
@@ -354,13 +364,13 @@
   },
   "adamantine-pick": {
     "files": {
-      "main.js": "sha256-ScMjxVGLjb3YrXdQzi0NPJ6Mxb1tQo8yBgJ6TD5Eixg=",
-      "manifest.json": "sha256-VqMsq1xptTZatt4OMrXfN6lPD8P3UTwgUzvl5AI3mDk=",
+      "main.js": "sha256-NJ8dQe7htQqlJotMPVFTZPg6frOYJlT5gcUHcyslK2w=",
+      "manifest.json": "sha256-BNHiHOyvMtHxx8aWpeMTgi6p+nw9RWIBmDSsKkifmKg=",
       "styles.css": "sha256-h2QkPK4DUevbt253DE/v/LGVb/QkINTsFZIS3HqFNe0="
     },
     "name": "Adamantine Pick",
     "repo": "notlibrary/obsidian-adamantine-pick",
-    "version": "0.5.6"
+    "version": "0.5.7"
   },
   "adapt-to-current-view": {
     "files": {
@@ -611,13 +621,13 @@
   },
   "advanced-rename-and-delete-handler": {
     "files": {
-      "main.js": "sha256-AkGNzZ5d7iVlwGiqJwuV4599uJJIjAOjKqPt+Jt+A7E=",
-      "manifest.json": "sha256-oO0FKJ7JWiwP8cUecT98K3n4HKmVVfxOicgU56ACna0=",
+      "main.js": "sha256-9/uGEjyh+qM/p8UVN3bjzvSt9rKojzirn7n/0SofcoI=",
+      "manifest.json": "sha256-W1Q1h+J0l/X+XeWVGnVHqebFcSBYf2tCWnFLZVwacJ8=",
       "styles.css": "sha256-n6EzOtX9DcpI7AFgQbfdcaoW5UGtUiJDsn103ZYCoxY="
     },
     "name": "Advanced Rename and Delete Handler",
     "repo": "mnaoumov/obsidian-advanced-rename-and-delete-handler",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "advanced-ruby": {
     "files": {
@@ -841,13 +851,13 @@
   },
   "agentic-chat": {
     "files": {
-      "main.js": "sha256-a5tDYieXEjVTckr5w3O2IgaHf0gSg9CFLcbDwnx91bI=",
-      "manifest.json": "sha256-gcCsjTJymZWFAWN8WPawY6rYM6rGQ2Ehae+zDt9EDos=",
-      "styles.css": "sha256-bmshnbG1apDpe3TbxXx0NKRxiJY56VQ59gcZAl2qa14="
+      "main.js": "sha256-0tu0hjqQLVZfDSxEKmxV6OdMglySr7i7Ugd6aoiREUA=",
+      "manifest.json": "sha256-+U8yI1h671vqDcKTCSK6g5L75jekSmxQ3H/+jg/T5AE=",
+      "styles.css": "sha256-waaigk0OmeBx9FwtbLQIDinCVBwQTnM4PX/CUSRUgQQ="
     },
     "name": "Agentic Chat",
     "repo": "tardigrde/obsidian-agentic-chat",
-    "version": "0.49.6"
+    "version": "0.49.9"
   },
   "agentic-git-sync": {
     "files": {
@@ -937,6 +947,16 @@
     "name": "AI Agent",
     "repo": "themanuelml/obsidian-agent",
     "version": "2.0.3"
+  },
+  "ai-agent-panel": {
+    "files": {
+      "main.js": "sha256-rhCebN1hauA+5UPc7Ym/yOD2Hst4Xy+P4kO9D7ipRHk=",
+      "manifest.json": "sha256-TjtZIiNc8ihHpWrRymChB3YlUNZ0FF6vMBwnQ72ZPNw=",
+      "styles.css": "sha256-o9aFRc5DrbOyKxR9OAcPXz7HN2wS8gU7mJXpo0e953o="
+    },
+    "name": "AI Agent Panel",
+    "repo": "yoava/obsidian-ai-agent-panel",
+    "version": "0.3.4"
   },
   "ai-alias": {
     "files": {
@@ -1501,13 +1521,13 @@
   },
   "ai-transcribe-summary": {
     "files": {
-      "main.js": "sha256-PFTN5tmNb+75UtlUj4On3h66CZ5rWzW9kt/ZFnGiEQg=",
-      "manifest.json": "sha256-NsQ3sIhWnWy6yubrgwbpptu5d/k+ATRvjWsi8LO9lBo=",
+      "main.js": "sha256-dqVNOR3zTSh4MGprSblSBruCxBL4iridjW7bt3SW0Pk=",
+      "manifest.json": "sha256-L+LfVMmW0CGIV6jP0GggjO40SzHz+71y5olVOEEUm0g=",
       "styles.css": "sha256-yE05xlywle0aK5fHlHOYi6Qo0ZUk9CxrNsJFfg1sijI="
     },
     "name": "AI Transcribe and Summary",
     "repo": "onlyutkarsh/ai-transcribe-summary",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "ai-transcriber": {
     "files": {
@@ -1558,6 +1578,16 @@
     "name": "AI Voice Polish",
     "repo": "pangtouyu717/obsidian-ai-voice-polish",
     "version": "0.1.19"
+  },
+  "ai-wiki": {
+    "files": {
+      "main.js": "sha256-NpLEloi7WueUxlRv8FgUHjzsHf36qrOVqEbpyNdrfgk=",
+      "manifest.json": "sha256-tjv+l5s1glMHb7eubEo7Wfp0AEw8r6r3B6sEc03LRVg=",
+      "styles.css": "sha256-Cr4ozZtDCWubfi6krcF+0bKlhvoXKTg+PBtxZpc7+w0="
+    },
+    "name": "AI Wiki",
+    "repo": "ikeniborn/obsidian-ai-wiki",
+    "version": "0.3.14"
   },
   "ai-writer": {
     "files": {
@@ -2041,13 +2071,13 @@
   },
   "android-ntfy-notifier": {
     "files": {
-      "main.js": "sha256-/rlkqlfyDm6L84pdbEy+f81Kvh65L29IkAUcaOah7Yk=",
-      "manifest.json": "sha256-epDEorEdVVgHoJor2LGrs2rOxfSIfS2AfoKD4mQHJZc=",
+      "main.js": "sha256-JMBOQKW8wLQNKgt+u0CjfJCxw4kzI2p3I6B4bVGPrbs=",
+      "manifest.json": "sha256-a523SbKpo8ssb7saMAxOjTn8B8r4wNWuUALT9WOmpIk=",
       "styles.css": "sha256-dJntwpEbCp6REGpw3pZ0dzm7i7NAT5wuEQ9EGPWzma0="
     },
     "name": "Ntfy Notifications",
     "repo": "arias007/obsidian-ntfy",
-    "version": "1.2.10"
+    "version": "1.2.34"
   },
   "angle-guard": {
     "files": {
@@ -2216,6 +2246,15 @@
     "name": "Annotation Marker",
     "repo": "uuq007/obsidian-annotation-marker",
     "version": "3.0.18"
+  },
+  "annotator-explorer-companion": {
+    "files": {
+      "main.js": "sha256-8ftJsXwVgoysHexBpb1R3VMXAX/PZA/gMFlUyd+ZSGA=",
+      "manifest.json": "sha256-K0Hu4RtLEsInsMTNlDeNf6SXBazyC/a5ss4TJJmE8m4="
+    },
+    "name": "Annotator Explorer Companion",
+    "repo": "zharliesinefine/annotator-explorer-companion",
+    "version": "1.1.1"
   },
   "annoteca": {
     "files": {
@@ -2418,13 +2457,13 @@
   },
   "apex-dashboard": {
     "files": {
-      "main.js": "sha256-m4Zb6dKXznRXC8fLQb0yVE67teJcmJi4iCcRzkQzBV0=",
-      "manifest.json": "sha256-KLhup1MfmUiTe3dmiP4y0MiUCXWG+p0Q4orvPonh758=",
-      "styles.css": "sha256-rz4rmF5MYv/GPfhU665mOUtXqJegGdIb2Lmh8WbCv4U="
+      "main.js": "sha256-pHKLrhJJfH7S+y6vOnH3ujYPtIxh8CR9YFVDhH3IQIA=",
+      "manifest.json": "sha256-idm2QMa9VtMjDv2dzLxgHVPiT3TeQdixZapwEXUZl7M=",
+      "styles.css": "sha256-CNbCnn241PsQ99VXPRuFe5KjCD1UNRQDz/Sc/G8ySYY="
     },
     "name": "Apex Dashboard",
     "repo": "pandorareads/apex-dashboard",
-    "version": "2.1.2"
+    "version": "2.2.0"
   },
   "api-designer": {
     "files": {
@@ -2852,23 +2891,23 @@
   },
   "article-navigator": {
     "files": {
-      "main.js": "sha256-/OCzv45lxMTQz01X//u6NJTXr+yP3zqXbkiHFTHRLCc=",
-      "manifest.json": "sha256-TuuUx9ln/emOTLLCQn6969tP1QVdVkQPRfm35oGMEgc=",
-      "styles.css": "sha256-94KtIn/k5QANotG5A1JLwoWfpZFmoAEaxgCWNKUrbuk="
+      "main.js": "sha256-n7kHxHhFFn0DsDVeTpyEYvftQum7q6XeWZ6md1ftGQw=",
+      "manifest.json": "sha256-+Um4AW/vOLzoRUu5eto9GQ/Rtkz4M9HPxxLZ0fyKRvY=",
+      "styles.css": "sha256-oC5Gj5lJdHubchGAG5mRuWilOKQoqY5/T1Ot43zE+7U="
     },
     "name": "Article Navigator",
     "repo": "ivanhanloth/Obsidian-Article-Navigator",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "articlewriter": {
     "files": {
-      "main.js": "sha256-S6EKw+MCfgsHMlmEHi9/iJvwkIju8suYY284duyYK0Y=",
-      "manifest.json": "sha256-1Nk3jww8xEB1SA+U7x9yBj+tfdBYDq5acQGd4Mba6XE=",
-      "styles.css": "sha256-QctXBb1QjOcapSPUOkggo9oaYpAyz406jMlXk5Wnwo0="
+      "main.js": "sha256-fIVtX7iM1yIVi8YUMt6lQTlHVU7Qxrs3MpGWEU2YdiE=",
+      "manifest.json": "sha256-+B4cIYateh0J9Aij/gr62p9If/bmMZoe0DX2SQ38inM=",
+      "styles.css": "sha256-pSMDtgMgrbzg7VuipBwCP3I/PYNbnqQCekvnpE/0w5s="
     },
     "name": "ArticleWriter",
     "repo": "gengbl/articlewriter-obsidian",
-    "version": "0.0.12"
+    "version": "0.0.14"
   },
   "artifact-embed": {
     "files": {
@@ -3128,13 +3167,13 @@
   },
   "athree-problem-solving": {
     "files": {
-      "main.js": "sha256-OvLDy/XGMcz9DXfptFpT4DziY8oPLFdutsErRSHgtCI=",
-      "manifest.json": "sha256-SFB4ahacP9XO/dfKTv24EKYzslUPhlOARA/VXAVTe8k=",
-      "styles.css": "sha256-6l2uLH+E5bOk0MTE+LIcbrHqX7oXl/MuO2KomMEyeR4="
+      "main.js": "sha256-PMvpl3XRPL9xRJRMrY8Xv6hYYz4EfADGjQoUNaj2owI=",
+      "manifest.json": "sha256-wHsoJQEoeEPDnHVNRcItbHmThAa0YdrB9DxLIf/XFWg=",
+      "styles.css": "sha256-NPQye5N136orPTyvtv1sjqxrwb6SZmNlBePKlGWP9bc="
     },
     "name": "A3 Problem-Solving",
-    "repo": "fabriceb/obsidian-a3-plugin",
-    "version": "0.1.6"
+    "repo": "fabriceb/vscode-obsidian-a3-plugin",
+    "version": "0.2.1"
   },
   "atlassian-jira-auto-linker": {
     "files": {
@@ -4242,6 +4281,16 @@
     "repo": "saltyfireball/obsidian-auto-view-mode",
     "version": "1.1.9"
   },
+  "auto-webp-image-manager": {
+    "files": {
+      "main.js": "sha256-D3toqC2ojicJ/YmVPjlRDLvIQ0dvFW6RBHHZ9cnUKsA=",
+      "manifest.json": "sha256-0kvUH9yB5UroMYz5kEBsRtqD2HXN3QspXug9WD7TKJU=",
+      "styles.css": "sha256-TolLhZKoQWeAzn6isPsbUXzZ4klNrI5X8lrv+S7RW/Q="
+    },
+    "name": "Auto WebP Image Manager",
+    "repo": "gmsz-1603/obsidian-auto-webp-image-manager",
+    "version": "1.0.9"
+  },
   "auto-zettelkasten": {
     "files": {
       "main.js": "sha256-r1kqaO4VNtFFhJc5DyJU2/khb3HBDDVrEga+khtzZpQ=",
@@ -4454,6 +4503,15 @@
     "name": "ActivityWatch",
     "repo": "lordgrimmauld/aw-watcher-obsidian",
     "version": "1.3.0"
+  },
+  "aware-line-capitalizer": {
+    "files": {
+      "main.js": "sha256-gE7+qqekoGVJgTYcBrKRYqmwhpyHGKqBFhj4mlGu7dk=",
+      "manifest.json": "sha256-VkUFkHqqU9FYm3Ygo5kpSsY31l5tHuF/qvDNUVWBvrA="
+    },
+    "name": "Aware Line Capitalizer",
+    "repo": "ehrentheman/aware-obsidian-line-capitalizer",
+    "version": "1.0.0"
   },
   "awesome-image": {
     "files": {
@@ -4799,13 +4857,13 @@
   },
   "base-form": {
     "files": {
-      "main.js": "sha256-0PeVCiJ70wGYWqfwOdlX3LT6Ez4EglKIESwrVFKP9TY=",
-      "manifest.json": "sha256-Rvts+FYsjsmPKWFUcMPftL8bcU4fQqnoWIQ6ly42uXc=",
-      "styles.css": "sha256-oWbHicZ9EC7TBIRJRxP852mAFn9fWCG/rAhT045mhJE="
+      "main.js": "sha256-XRB8NrCZKTnHGfpY/jN4C8480bc9VlolJUbQVD7eQcs=",
+      "manifest.json": "sha256-9bzcX3lXxGpJ0L4EMBLfrrlpvO8Xa8qhu5uWMvL7Gm0=",
+      "styles.css": "sha256-IGG5m0ihjX85E6lT6ysaMrplUxloCzud6MEszT8SvSg="
     },
     "name": "BaseForm",
     "repo": "tylercarrol/obsidian-base-form",
-    "version": "0.6.0"
+    "version": "0.6.2"
   },
   "base-view-switcher": {
     "files": {
@@ -5007,13 +5065,13 @@
   },
   "bases-pill-colors": {
     "files": {
-      "main.js": "sha256-H1T/Cqx4l6/+Tq0d5DCbwmzMcz/vEs/Q5AyUhBcI1hc=",
-      "manifest.json": "sha256-geIJl7AYZL9UIJvKnrpL6g0UglG9HL1ZiXNt3yfuaYI=",
+      "main.js": "sha256-ATFqrO9U4Gp38Hdk3VyBjpy/3tnQliIVw77U2tJQQpo=",
+      "manifest.json": "sha256-QcnfpeZteNKEKAhhw9h3VyzTDS24pgCc0h4LNe3TPVM=",
       "styles.css": "sha256-8Wxh/xIFII1PuEQClfqMe++yjamBXr8rgSHQlgOThno="
     },
     "name": "Bases Visuals",
     "repo": "gabrielbacha/obsidian-base-visuals",
-    "version": "0.13.2"
+    "version": "0.14.0"
   },
   "bases-plus": {
     "files": {
@@ -5342,6 +5400,16 @@
     "repo": "lualum/obsidian-better-bullets",
     "version": "1.1.1"
   },
+  "better-calendar": {
+    "files": {
+      "main.js": "sha256-gBwpaHe9Zq4FAGnsA5cU8e5zdtpuBJ7EkDJZ/eyaFBQ=",
+      "manifest.json": "sha256-d5tpx3FfRJVgJolU8hSeKhEe783jVZqAB38vOfKTT1E=",
+      "styles.css": "sha256-uh5Xe7CLAWaAxpZj1mTbLFVtqxb9e6r/eadRxCgIyU4="
+    },
+    "name": "Better Calendar",
+    "repo": "xheldon/Obsidian-Better-Calendar",
+    "version": "1.3.1"
+  },
   "better-canvas-lock": {
     "files": {
       "main.js": "sha256-DtQGM5ScEwb+okKjVHyiyiLd5QAmC53kKToXM64EWRI=",
@@ -5552,13 +5620,13 @@
   },
   "better-mermaid": {
     "files": {
-      "main.js": "sha256-7/QdJoVy9hV0rpoK0Tk2qGm5VpACeUi3NnORdY/mFzo=",
-      "manifest.json": "sha256-3qfL+LVHZcgSmz2penAXxl70En2ykz06U5DC8LCBH3Q=",
-      "styles.css": "sha256-faEFCtK18jxpRBomjspJ21U5V22psrx9mmjLZ6qQOH0="
+      "main.js": "sha256-KKoB7BlAMnkPN4+wkScsJwwLqs4EOnI0TKZfYXY5MmA=",
+      "manifest.json": "sha256-tz4XgssSWrHAEi129OKHQGCobF2+5BXjslArJNYBor0=",
+      "styles.css": "sha256-z12DMmkFlMaJTuJJJPvKmkDHEwBmkeUobxO57nQ4V4A="
     },
     "name": "Better Mermaid",
     "repo": "joven-lynn/obsidian-better-mermaid",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "better-mindmap": {
     "files": {
@@ -6886,23 +6954,33 @@
   },
   "buddybridge": {
     "files": {
-      "main.js": "sha256-swM/F5tcjPTAQIKxgCtL12dSZB+FVsSq2gvEv+cD+Ic=",
-      "manifest.json": "sha256-2ZAMoipsJFAp/LPjaL7nJ0c+EOpJa5yGYPVNG7ueA6c=",
+      "main.js": "sha256-cq+62U3TZ2ZR361BJvDjlX3Exgj4Tauyr+WSFaMK340=",
+      "manifest.json": "sha256-JoTUb6xTaKTP9xaGV6pRDEKuxpOBXrqZY7n+8BLHofk=",
       "styles.css": "sha256-20/6rtXozHR/RgBIzLfmcfu+Wwk0+NW64tsZRTCb0ms="
     },
     "name": "BuddyBridge",
     "repo": "ben4202121/buddybridge",
-    "version": "2.3.0"
+    "version": "2.3.1"
+  },
+  "buddybridge-deep": {
+    "files": {
+      "main.js": "sha256-uKEOMGPPFTmj2IQCvu2hA5Xfvj2Vv6b73NIg3RYl8K4=",
+      "manifest.json": "sha256-W0gQ5dPHD3knSoj6PGldjVul7KWGe0TJvoddCvcUpLU=",
+      "styles.css": "sha256-OhFhxDroNnbM56qpWOn5DlChAqnhOuBLxXspgNnEjg0="
+    },
+    "name": "BuddyBridge Deep",
+    "repo": "ben4202121/buddybridge-deep",
+    "version": "0.2.0"
   },
   "budget-app": {
     "files": {
-      "main.js": "sha256-5tGxQcXNlltop55vl3Zjt0QXkmgDb1CO6GSpwEU/K5g=",
-      "manifest.json": "sha256-iZb3qfaIW6ImeAotAo/7RfAuAcrz9Cr3OhGfL1OZqYU=",
-      "styles.css": "sha256-qemSUyCyBAMthXm/Gw1Q6ZkXVI3UM9w/jThmLbZo8YU="
+      "main.js": "sha256-oPF+rMD/9uthHc9S1VRe7jptDiJvqwYdKwrf65Wy5ZU=",
+      "manifest.json": "sha256-+X0+FPiigFLpWHFbcG1KSANS273QV7P34IftH0vzZTs=",
+      "styles.css": "sha256-ohkzkAD0YRlwNjV70T/Q/ssnWZeDGpv4bELYDa8NJLA="
     },
     "name": "Budget Vault",
     "repo": "ruanpienaarcode/budget-vault",
-    "version": "1.34.0"
+    "version": "1.37.0"
   },
   "budget-planner": {
     "files": {
@@ -7596,13 +7674,13 @@
   },
   "cammvas": {
     "files": {
-      "main.js": "sha256-Mg+TVMFnzeF3mX5ONIN6fWDThiGn6pAmvxaaQF5Po2s=",
-      "manifest.json": "sha256-Xs1ygw9+qIA3Hboxq8BrojW+/lpbfQvGWshipq0c7Z8=",
+      "main.js": "sha256-5JLxrSY7qWPHAkwNx99mPoxrszwtpBnoT4LO1XhxvAA=",
+      "manifest.json": "sha256-IgVVrAlq/B/U422Wobzs9+ApYkUF9mXeKLyKc59KXhY=",
       "styles.css": "sha256-oNUl1GG8GDOU7lVcvw0qJQYBuSXZ1Da1F7PskrQOf9k="
     },
     "name": "Cammvas",
     "repo": "cuatrecasespro/cammvas",
-    "version": "1.2.29"
+    "version": "1.3.0"
   },
   "canary-edge": {
     "files": {
@@ -8980,13 +9058,13 @@
   },
   "checklist-progress-bar": {
     "files": {
-      "main.js": "sha256-JSH3YoWaPPRp1jn1EpXrGJyMjfnPooEHnofvXP1cGOs=",
-      "manifest.json": "sha256-Q1NVj15htdeIKndf1ksGJ3kYMFqihTIIevN9Ri5oFqw=",
+      "main.js": "sha256-sjW104uGtuhX46hwsTTWdN6hwyDQZoWpIBajuaAAa6c=",
+      "manifest.json": "sha256-Vays6NUJ/JWOqGhxKVIFAE8P3duP5mwRqc42BNHWyZQ=",
       "styles.css": "sha256-8ng6w3GDLDSTQ8p75t/hUjiaPoQ87G0wU9MJDr3HDYk="
     },
     "name": "Checklist Progress Bar",
     "repo": "profesr-chaos/obsidian-checklist-progress-bar",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "checklist-sort": {
     "files": {
@@ -9157,13 +9235,13 @@
   },
   "chicago": {
     "files": {
-      "main.js": "sha256-qN323GkthL/vlraBHubrB0tKJj+ChQ4FaC9i0FXNm0o=",
-      "manifest.json": "sha256-OzsoMPa+x0MEM4bnriWNDkc79nNu8rcd+LFe+UTT7Qg=",
-      "styles.css": "sha256-DT3RwJdMvzrYByZsan+bLTHl7TVElYo/SVH8WqjJecI="
+      "main.js": "sha256-aYTrlA0eThZf5vm++Evm8QBTZEsHbbmHoEYEIATNyI4=",
+      "manifest.json": "sha256-SEYiDA3tT/wNh7bgK2HyqGrzJ113mB/NfxZNP7woreg=",
+      "styles.css": "sha256-Dtk1dgqJAGk9jxydnntQyASNE1/Fw7DRIVxda028FuU="
     },
     "name": "Chicago",
     "repo": "desynkd/chicago",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "chillight-graph": {
     "files": {
@@ -9334,13 +9412,13 @@
   },
   "chronoboard": {
     "files": {
-      "main.js": "sha256-aYc1+cofGPDkvQrcRHz4H/GH0YfDggl28tGkHP3wgEI=",
-      "manifest.json": "sha256-eT9l1zNdSC8Dgw9oA7Nv3dGg35Kcsy1/ptUVD0Yn2Xo=",
-      "styles.css": "sha256-1vueWSJx/AAchndKGdLFVUL+CsMOOsqyNlNvVCDSsYY="
+      "main.js": "sha256-VOtfziqVdAd90sDdKXn3Js2pi0oeKUSJoFuIob2QEZM=",
+      "manifest.json": "sha256-f8Z5xGVrNZLrCR9FPj7m9toNZQrxR0kvif880BupPuw=",
+      "styles.css": "sha256-pxxAYK2EMk8eXTsQxZQkmBD0xVAm5yj9C4xO1SNxOA0="
     },
     "name": "Chronoboard",
     "repo": "emberleif/Chronoboard",
-    "version": "0.7.1"
+    "version": "0.8.0"
   },
   "chronology": {
     "files": {
@@ -9773,12 +9851,12 @@
   },
   "clean-ai-paste": {
     "files": {
-      "main.js": "sha256-ZFYizu1aQJ4w3nl44fzPDEdMK5kHoiLq1A+5H8hgU1E=",
-      "manifest.json": "sha256-vSz5FqtcJWtd9Q1X0cjIvA1G8zC0XHRhnbA/orbYbLY="
+      "main.js": "sha256-AIDKiIOyWVpoN12N2gNaSLc4wrWjw8+2u0SlnJ3u+kI=",
+      "manifest.json": "sha256-eMH0mWDi/AZvlyetpH4lb/bk1RrGrToqWQts4GrICT4="
     },
     "name": "Clean AI Paste",
     "repo": "goslowpoke168/obsidian-clean-ai-paste",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "clean-copy": {
     "files": {
@@ -10006,13 +10084,13 @@
   },
   "clipmd": {
     "files": {
-      "main.js": "sha256-fFoNVlSIkk+qGz5rbRe9isaSLJMwo3VMd1yFOBWFHAI=",
-      "manifest.json": "sha256-6s+SNZcpkx8BrmHeI+i3RDfEq+oQoMIUyQ2IMUIgeD4=",
-      "styles.css": "sha256-1H1/LralWSCzSOf+HjDkc+HlqpupUfd8rsJ5D50FdJ8="
+      "main.js": "sha256-qXODeQ5YZHU4RAmdSB9vhaxQK3mXnwF0+F+v4K9zvZ0=",
+      "manifest.json": "sha256-/R8bvz+YZ1x69Kv0SXKmbn2rkMreg8Fy48Gu2QRw61E=",
+      "styles.css": "sha256-7ZiM75B9Ac7uLMdFfFRiyhWAFKWwNwsTARRY/zB/CWU="
     },
     "name": "Clip2MD",
     "repo": "clip2md/clip2md-plugin",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "clipper-catalog": {
     "files": {
@@ -10110,12 +10188,12 @@
   "cloud-kms-encryption": {
     "files": {
       "main.js": "sha256-HGOYAG0II/yEYJ+Lq4U7LRFGbDodSBOqf9vIAjDJQuU=",
-      "manifest.json": "sha256-FovqwgVgvBN6YuKJfc9DvLjNc/b6EiDv6FI8UFhJvkI=",
+      "manifest.json": "sha256-PMbChRUdl+rHndQ/3GY+4M0yTxzYI3UGIsqGMiMd98s=",
       "styles.css": "sha256-MtnZvphI2Yhs1XeT7p2Jjc3JkfW7y2blyWmwrju8hrM="
     },
     "name": "Cloud KMS Encryption",
     "repo": "viktoruj/obsidian-cloud-kms",
-    "version": "0.1.7"
+    "version": "0.1.8"
   },
   "cloud-storage": {
     "files": {
@@ -10139,13 +10217,13 @@
   },
   "cloud-webdav-sync": {
     "files": {
-      "main.js": "sha256-avRkneQIQkZL23bk0cibdeAwGsHT0T7nrtBe1OjVYPE=",
-      "manifest.json": "sha256-6xaPkHg28CXGGKUm8TQihsPoTfA4gTp1Z1zKDjSdu7M=",
-      "styles.css": "sha256-XR4OycOxSaxBVWCLvtRp3k/1L4qkiERcTYWJwNr10hw="
+      "main.js": "sha256-m9FcbqV9nmLjdhcHe8K3+uLLUKRndxtcXkPeqUvjk1Q=",
+      "manifest.json": "sha256-CRQsmYDFUMfBGqbVjLKoxPm/HX/cnzc32SjcF4WyTrM=",
+      "styles.css": "sha256-o2syaC0+92tti59rSFVaRRh/hXs59OUUPZKWRbQU+C4="
     },
     "name": "Cloud WebDAV Sync",
     "repo": "seventeen-tan/cloud-webdav-sync",
-    "version": "0.10.3"
+    "version": "0.10.7"
   },
   "cloudatlas-o-am": {
     "files": {
@@ -10337,13 +10415,13 @@
   },
   "cmux-agent-orchestrator": {
     "files": {
-      "main.js": "sha256-gEDWYrGoZEh+Cv57J36upTVe3tkZdf09R0lAWXGFVf8=",
-      "manifest.json": "sha256-o1yb+EyY+29l/kxVlv5fNGfX9ZR/4Z5sAEPkf7AdRkg=",
+      "main.js": "sha256-Dw9+BOffTSuLUbk3RRJ1sfmn0aR8XbHVZOAtc3KzLlE=",
+      "manifest.json": "sha256-lJAhdkuM6gIECNVcWcqUqcqy+2Anw+2X/y4gD8bV6e4=",
       "styles.css": "sha256-HwkNoq9DaH88cxMCXh3sJnQh6QAMRFU9IZvTp+XIugk="
     },
     "name": "cmux Agent Orchestrator",
     "repo": "swayamg20/cmux-agent-orchestrator",
-    "version": "0.1.1"
+    "version": "0.2.0"
   },
   "cn-emoji": {
     "files": {
@@ -10820,13 +10898,13 @@
   },
   "codex-panel": {
     "files": {
-      "main.js": "sha256-QY0iGTIbWOybgoT0vfZ5c05skibyx/7f+wBPWA3rrQo=",
-      "manifest.json": "sha256-BfqWnC6UrCmdkx1RDxgdJtqQRAiX7apwGMYHUyANMEM=",
-      "styles.css": "sha256-og8OZk7l0CcPKiGkQU8F6RtCr1irxKcBgblhKUDcl4E="
+      "main.js": "sha256-wx2lBqpSNmN3dJovU6LchJhj97zeRQzrFy5J6sOkiRQ=",
+      "manifest.json": "sha256-nZiCulnKTDIYDlugzyI2y8lbaTu0tdZHze9OdEChM+E=",
+      "styles.css": "sha256-a24zobFOOVxHB7wt2MCahA+HOUSRdVsE7Uqy1lDzBNU="
     },
     "name": "Codex Panel",
     "repo": "murashit/codex-panel",
-    "version": "5.7.0"
+    "version": "5.7.1"
   },
   "codex-session-archive": {
     "files": {
@@ -10850,13 +10928,13 @@
   },
   "codex-sidebar": {
     "files": {
-      "main.js": "sha256-Toaf4VKNFWgULair55h/1n0wOwydtoBLZXvpHbNBlDE=",
-      "manifest.json": "sha256-yf1Jhm5tOm0DebBlZpWxPcFgw+u70LIJ9WTtSF7Pl64=",
-      "styles.css": "sha256-LdGHngOfqAzs5yZVCTnH96/DZr9vPEYxGYv0iPmlQAY="
+      "main.js": "sha256-2DMLQSVMNA7HVVCbcQWqVHvKaSpc9MV5chEiGY7ICkA=",
+      "manifest.json": "sha256-iKCkiI8SCG5OkTrCEm5v2Gdyj7MZaZaIiUs4k0+PbU4=",
+      "styles.css": "sha256-cMherzyg9jth8LwezWJhNYTo86kCOYaPUx0XtzFeKqw="
     },
     "name": "Tandem",
     "repo": "olivierlb/Tandem",
-    "version": "1.4.0"
+    "version": "1.4.2"
   },
   "codex-style-markdown": {
     "files": {
@@ -11137,13 +11215,13 @@
   },
   "colored-tags": {
     "files": {
-      "main.js": "sha256-PEW1YDuC4iwd7Cnj7TmMttJpU9WwkbGO13cfwv8xQfY=",
-      "manifest.json": "sha256-b1XMpC3ELB982rDrdmdzkITy8PE/ACm/eZeI6hTv5WA=",
-      "styles.css": "sha256-I7GZsdr3BmDbe4So4ac3A+H3DLjE0RTptJPmwCLY8Yc="
+      "main.js": "sha256-uI2Cn42pMTgSjjNqyg+MrYLTDKHh6/I3y1rv77vrXtE=",
+      "manifest.json": "sha256-udTCgvuSS137mH0Haty894iwoNAkwBzElwiUktIq5+Q=",
+      "styles.css": "sha256-IuHPbbMwwiZLldZk9tbhOzhW3UAIYxED1KPk1S+nJQ4="
     },
     "name": "Colored Tags",
     "repo": "pfrankov/obsidian-colored-tags",
-    "version": "6.1.3"
+    "version": "7.0.0"
   },
   "colored-tags-wrangler": {
     "files": {
@@ -11405,13 +11483,23 @@
   },
   "communitynoteshub": {
     "files": {
-      "main.js": "sha256-Wpvm8Dbi/ZrcZwJs+S2JYIBBJXd6cT6monIDZ4aXMzo=",
-      "manifest.json": "sha256-6/DGp+/K/8oGqBxtD5PD6RaiTv9vLhxfc7RVy1Lk2AQ=",
-      "styles.css": "sha256-+IuWB9XqzGJgjGRTVktmJvSrHJfB7FTcV+rQFDnajnQ="
+      "main.js": "sha256-60Jni8oMGxkv8fRWZv7vQAKEPQ2CFnjdKaz3NOIVxdE=",
+      "manifest.json": "sha256-47d6mpQLF5WX+JyRNc/sBVXUN1CQFYXjApirDn7OfEw=",
+      "styles.css": "sha256-TXYhKwd6NV1Dbnw8I1p4FUs643033TCE0NQeNi7Kpug="
     },
     "name": "notes-hub",
     "repo": "s-t-i-h-i/notesHub-plugin",
-    "version": "0.2.0"
+    "version": "0.3.0"
+  },
+  "compact-empty-properties": {
+    "files": {
+      "main.js": "sha256-1cZjYjAiQxUo1AJ1YcJhFv4tm6Gj9MJJiPRHsPLNAWU=",
+      "manifest.json": "sha256-uxCQJNiLdaO+zl0TKvZImjaI0q/sjl2PK4LBLGiCYjo=",
+      "styles.css": "sha256-xhgrT2oRSB28vbkWFqbIun5zwwht+2tvqifamOD7dDE="
+    },
+    "name": "Compact Empty Properties",
+    "repo": "allberry-dev/compact-empty-properties",
+    "version": "0.2.2"
   },
   "compact-pinned-tabs": {
     "files": {
@@ -12115,13 +12203,13 @@
   },
   "conversum": {
     "files": {
-      "main.js": "sha256-Muk8oIs6dq+iztdqJX8STXst+4FDg0LpqDGr44G5v/o=",
-      "manifest.json": "sha256-/1kKhv1S09mNEjEOOJ982zSqOBOhs1O61AB55K7xOfc=",
+      "main.js": "sha256-04POQHwQI5m2QWC1Dqoof8QcLkQUckJoozjPsDM0CcM=",
+      "manifest.json": "sha256-8xGDdWC1GPya7mtF9iRtqkaOef4FAPGM6O+FHSWX1hs=",
       "styles.css": "sha256-rMD4BWHVY5rPS0Q5aVJJuu/f9eROljhxL6BhI6kXoNY="
     },
     "name": "conVERsum",
     "repo": "erykjj/conversum",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "convert-base64-to-png": {
     "files": {
@@ -12769,13 +12857,13 @@
   },
   "cosmos-sync": {
     "files": {
-      "main.js": "sha256-qER0M3ATCIdyx1H3SvjfKgZaYYduqV99fLkJ+fwREPI=",
-      "manifest.json": "sha256-4bgaZQXPflfnZWUxSZOj0EP8bpzFN9FIcuSz9TBU1/Q=",
+      "main.js": "sha256-eH5hkUyJhcvU+mh/QAac5/rT7LGsvnOyUHkzOSMXcx4=",
+      "manifest.json": "sha256-b3wCiG6rc+DIqGpEhXnKZNAjwpergFuEsf5IUC2WYk4=",
       "styles.css": "sha256-Vly29aWLHE4Vjejt7ppXDzm1I5Kx1+XsF9duj5xeg90="
     },
     "name": "Cosmos",
     "repo": "stevenmichaelthomas/cosmos-obsidian",
-    "version": "0.4.5"
+    "version": "0.4.6"
   },
   "couchdb-sync": {
     "files": {
@@ -13034,13 +13122,13 @@
   },
   "creative-writer": {
     "files": {
-      "main.js": "sha256-pcQChbQVKx9+bkGwTLNyNGd3vdHY1ulKEq4debawaS4=",
-      "manifest.json": "sha256-LJhdJgsqzQqqHaN+MLIyg0tRAbQbsi18NlqopCtHjaw=",
-      "styles.css": "sha256-nl+tDVx2+pOMK4wiyvJa1UT+T/gZRAr6+JxS7I4X7YI="
+      "main.js": "sha256-aFLsbuCYH9elaoznUF2APq97i1RZE3YKfTT0Zg9nIoY=",
+      "manifest.json": "sha256-P7zsot4+mkpuWg2tFFUy6qx8ydtAjsFzx+NJaWcQ+qg=",
+      "styles.css": "sha256-5rpPESRao4RmhkeNCKrldmRo/A9EvdksNv5Xf/J8bcw="
     },
     "name": "Creative Writer",
     "repo": "amancioandre/creative-writer",
-    "version": "0.6.1"
+    "version": "0.7.2"
   },
   "crochet-weaver": {
     "files": {
@@ -13209,13 +13297,13 @@
   },
   "cst-notes": {
     "files": {
-      "main.js": "sha256-yYUJr5mk4YTELJnxolx6fF2zjfyNTmo91M3uAeNC9LU=",
-      "manifest.json": "sha256-qb8nxgk/eHn17YegiPpuUbN2XREWLigMjBV2rFSZS+c=",
+      "main.js": "sha256-jzelQe8tsdxeQ+dui4BCo7Nlm94eFrwD5jADrygsngA=",
+      "manifest.json": "sha256-jaDH2Q7Q9loBLtZ/32FN3braHMDb8VqZAgOoCx2H3BU=",
       "styles.css": "sha256-XmUzb9t8xzzm5YMPShQm3n9o5m5CRTMSteurqjQPX3k="
     },
     "name": "CST Notes",
     "repo": "perislate/cst-notes",
-    "version": "0.1.4"
+    "version": "0.1.5"
   },
   "csv-allinone": {
     "files": {
@@ -13278,13 +13366,13 @@
   },
   "csv-quiz-practice": {
     "files": {
-      "main.js": "sha256-vsSR8Q0em3Xl2/baxuXsTxqaMTMAjnSpfDOswQ1AbsQ=",
-      "manifest.json": "sha256-HSrxsknMaoAezpterLU0Yc3Jf1cgtmC9p6r4FebnFtM=",
-      "styles.css": "sha256-JFBY6Y7HkjjqhnRL3Zlp/g6wlz9DasPqmHfdfccD/Tg="
+      "main.js": "sha256-pX0aj3wmNY4iwrUJfdNpnQ853nLgBa5XnFrPRXhX69I=",
+      "manifest.json": "sha256-/9AUuUcn8HgS3lCAKQneRLA8nnQTqVoHXXr354Asq/s=",
+      "styles.css": "sha256-apvblJU6h+i5xiyQ98EIBOnk0ksrc9niBeFbW8pMcm4="
     },
     "name": "csv quiz practice",
     "repo": "ozephyr-ctrl/csv-quiz-practice",
-    "version": "3.1.6"
+    "version": "3.1.7"
   },
   "csv-to-table": {
     "files": {
@@ -13767,6 +13855,16 @@
     "repo": "okamiwong/obsidian-custom-state-for-task-list",
     "version": "1.0.3"
   },
+  "custom-syntax": {
+    "files": {
+      "main.js": "sha256-ucmk/kUSISqEMSvkwZOOhgYBlGxDtIj8+R0mN7tFEO4=",
+      "manifest.json": "sha256-ur3O45E/8NYLTpDdFjo+lVUbIMGq+WpFGIuIvlgCl+Y=",
+      "styles.css": "sha256-spWa5PYmKHe2lHfquUA+YDicUeso8IK4cdbow9lSs50="
+    },
+    "name": "Custom Syntax",
+    "repo": "baiyumian/obsidian-custom-syntax",
+    "version": "1.2.0"
+  },
   "custom-syntax-highlights": {
     "files": {
       "main.js": "sha256-QzuRoNOyJVlpnEQB+IRFHplCk8Vjg9VHXefae+ZAJHo=",
@@ -13923,6 +14021,15 @@
     "repo": "javatutor-ru/obsidian-cyrillic-non-latin-tags",
     "version": "1.0.0"
   },
+  "d-two-file-preview": {
+    "files": {
+      "main.js": "sha256-kHWIoQnVct2YJ0KAwslIo52iOfZOdWR8c0ilGf6S5mQ=",
+      "manifest.json": "sha256-IMpJLC0tCseHqvWZiuS6dGUFtdrTuHuSns96hAcEJ3s="
+    },
+    "name": "D2 File Preview",
+    "repo": "soljeong/d2-file-preview",
+    "version": "1.0.2"
+  },
   "d2-obsidian": {
     "files": {
       "main.js": "sha256-lYD4oxlGYk0+DaQO9zidd7Aey8oBTyrJ2lPf/OxzY80=",
@@ -14013,13 +14120,13 @@
   },
   "daily-flow": {
     "files": {
-      "main.js": "sha256-MK8gcYuqkHUiRMwkv7CHZnKG+dPWyIZyz8nWzGu2mFk=",
-      "manifest.json": "sha256-gcMWAUIkajYYhea4UsQdkBxFGrjGWZXzJvfoc8sWbUU=",
-      "styles.css": "sha256-Eq6iGoYjo0NFG7Bl1mmx6ptuk6XoK3b8WO8NM4m30DU="
+      "main.js": "sha256-roNMx3M+YBBnl+ftv/3iwrKcUJIDvAOFj0+orpWEjxg=",
+      "manifest.json": "sha256-mjcDa74LvuG2WI9moFTt8hmfQHm/TWUrToRWtILAQ+c=",
+      "styles.css": "sha256-9COJQTwLes8u7Me0/cObCsL8Rbvswcy4ET4yTULc5ks="
     },
     "name": "Daily Flow",
     "repo": "partanskiy/daily-flow",
-    "version": "26.9.0"
+    "version": "26.9.2"
   },
   "daily-from-others": {
     "files": {
@@ -14367,13 +14474,13 @@
   },
   "daily-tasks": {
     "files": {
-      "main.js": "sha256-GBT0rc4V19UYOmHXt4dizjSlrO1HOeRtkZ9RsGIKi3s=",
-      "manifest.json": "sha256-G5MxDLZhhZ+zGp2ZQxWmhX+ZyEBU/uJ//BSC8mPvMo4=",
+      "main.js": "sha256-fmOzxvkxsVgtYYTcl7bezcb3HG6UQhYwTzivzddMZ6w=",
+      "manifest.json": "sha256-66ngWM1yK22huNJ2gyuUkxeizPAYevprL+WoD3KEkko=",
       "styles.css": "sha256-Itoimy7ZS4b490CKN3cN68qC3A//wKM0IPMkjT5ZgII="
     },
     "name": "Daily Tasks",
     "repo": "devicals/Daily-Tasks",
-    "version": "8.3.6"
+    "version": "8.4.0"
   },
   "daily-tracker": {
     "files": {
@@ -15054,13 +15161,13 @@
   },
   "deepseek-harness-native": {
     "files": {
-      "main.js": "sha256-sLskrWNA0Urj6J2uSUrsNbpgZCrlzXdS006zEVRK/qw=",
-      "manifest.json": "sha256-U9WroECr/QBcIU0d8u8LiEv2KyzcyPCowp27qFhqA48=",
-      "styles.css": "sha256-PO7SvAlUB6HP+P8pqozht/NNRyn5YYarq5v4WfyfPtk="
+      "main.js": "sha256-BG4M5ml/WffmFNw3+uDWcKW6IyDDU1TIpaIKBrWWkd0=",
+      "manifest.json": "sha256-+5XSxdjg6/b8P7x2jC7QYmbgduIdfTNrAPFvlTXtDHA=",
+      "styles.css": "sha256-E3Eh/dW7TxbBHh+EjLKbomJtxNL2SnzzRe2dYaqAK1s="
     },
     "name": "DeepSeek Harness Native",
     "repo": "wuruihi/obsidian-deepseek-harness-native",
-    "version": "0.1.21"
+    "version": "0.7.0"
   },
   "deepseek-translator": {
     "files": {
@@ -15128,6 +15235,16 @@
     },
     "name": "Definitions detector",
     "repo": "rapphcd/definitions-detector",
+    "version": "1.0.2"
+  },
+  "defuddle-clipper": {
+    "files": {
+      "main.js": "sha256-nVsqUE+TzH55COlD9IpOTPxZtPKnil+nCyk0ayIIrcw=",
+      "manifest.json": "sha256-oP+TycNvYouGlEwTXjUdpx2yW+aCEY+qxdRLdsQSZ+0=",
+      "styles.css": "sha256-nGu0bwvWnGzaKSurHn51/4pa1TjIpQUDAV/xiIbs48c="
+    },
+    "name": "Defuddle Web Clipper",
+    "repo": "laurinsorgend/ObisidianDefuddlePlugin",
     "version": "1.0.2"
   },
   "delete-checked-items": {
@@ -15339,13 +15456,13 @@
   },
   "dgmo": {
     "files": {
-      "main.js": "sha256-Q86VOqqN0zUj/emN+X5RxTJ90lrq4yg0m9LtGdDsaEc=",
-      "manifest.json": "sha256-oaJjQUirEq48qDjr1Xi9WytxRThOY0ODbykzy5ZntqI=",
-      "styles.css": "sha256-yK7l98kJFU2TUmVLCg4O70t847B+tl16Hvi5Z1GrOXk="
+      "main.js": "sha256-GKwP3vx9TOC/2XmgI344t1U8A1+xN4zI96KYLDEQ2GI=",
+      "manifest.json": "sha256-rtncao0yLJ5HM6UHxCtKHKjedHz1xtz/2z6Q/ynHnRc=",
+      "styles.css": "sha256-umWNYUlpi4MgzlAcKxM06UuFCjkn7gzjTjrR5moCKog="
     },
     "name": "Diagrammo Diagrams",
     "repo": "diagrammo/obsidian-dgmo",
-    "version": "1.38.0"
+    "version": "1.38.2"
   },
   "dgs-toolkit": {
     "files": {
@@ -15616,13 +15733,13 @@
   },
   "digitalgarden": {
     "files": {
-      "main.js": "sha256-kcitPirsRUBR9u444CrMaTE+YPUqNzvTHaJzkiubboU=",
-      "manifest.json": "sha256-yFpPpNmYKzdL6ALnjFzmC96lYdxZ73baLwg9FByZoVo=",
+      "main.js": "sha256-nW7Ajt8IuiEiEqJ4S0RnqHnwFIMFhiIK2Za2R98J7OI=",
+      "manifest.json": "sha256-shtTuLd7vv3LmHjYTFDCLYXZ0zndhcDBqlZrPbwXE38=",
       "styles.css": "sha256-bGtUGKTfJKvvpWaSlFspNmV3a6WrmjZLBnVMFXnrGBw="
     },
     "name": "Digital Garden",
     "repo": "oleeskild/obsidian-digital-garden",
-    "version": "2.90.1"
+    "version": "2.90.3"
   },
   "dim-lights": {
     "files": {
@@ -15636,13 +15753,13 @@
   },
   "dingtalk-minutes-sync": {
     "files": {
-      "main.js": "sha256-c0GJHOQP/PdJQn9bpJzJHtSJTs9nNDoIBf7B3fQcHtY=",
-      "manifest.json": "sha256-dAcYof5qvFTq2GnDRoy90FedLFR9sPC0RzYBRnZrLXk=",
+      "main.js": "sha256-RRa9bB08zUqmjmoCf1eNn7T+d07tQLCjxN75ntXQ94U=",
+      "manifest.json": "sha256-zV9SCbYf1T8T7kcOZUYSqjKN9PxSskX1Njq+kY37tv4=",
       "styles.css": "sha256-Db3g1CthjXlh4eYLRJ3dLndejxhdn6X1xyNKL4khG78="
     },
     "name": "DingTalk Minutes Sync",
     "repo": "ylgkger/dingtalk-minutes-to-obsidian",
-    "version": "1.0.0"
+    "version": "1.0.2"
   },
   "dinox-sync": {
     "files": {
@@ -16719,13 +16836,13 @@
   },
   "dsh-embedded": {
     "files": {
-      "main.js": "sha256-ABZhQv9Cs3G+waY08WNNt7oGGmfBzyGZsRIrVGiPB88=",
-      "manifest.json": "sha256-BCuHsG3bWWEuqkQlMlK8tqRpWqDtlVYm1oUqncclo5I=",
+      "main.js": "sha256-WWhvSJ5cclSQcS9dHDHjFuSGPaRaw9eK3CAtnTo2RPM=",
+      "manifest.json": "sha256-Yvf67vaIXX9rzp4wvgRB+/XWxypPBcj4LkhjNAFAR+U=",
       "styles.css": "sha256-sqS1QurvNkQSXuGzqCf/3PTXB1QHA4VVW5dAGheXZLQ="
     },
     "name": "DSH Embedded",
     "repo": "bzlir/obsidian-dsh-plugin",
-    "version": "0.4.0"
+    "version": "0.4.5"
   },
   "dsh-harness": {
     "files": {
@@ -16739,13 +16856,13 @@
   },
   "dsh-ob": {
     "files": {
-      "main.js": "sha256-gGNXeb0JXXk+13LZTQ0vOmeYLsixzquAqTMRpd5ZZ+Q=",
-      "manifest.json": "sha256-UKT8t+cMbOFe41FKTR5DEovFmBRUn5t4tY9xRIBb59Q=",
+      "main.js": "sha256-8lW7MrA0CNqgoCHe8/tAyCqCQpLbdY6E1fsxUZ/H6Ig=",
+      "manifest.json": "sha256-TkOR3sN+99ZzxgteDznp6RCkK7qgc7OSyjjYunAksnM=",
       "styles.css": "sha256-vZSIUFK1PJSm+uFiSXeHN9QJx9zeNiVjw/f9pwZ80kE="
     },
     "name": "DSH for Vaults",
     "repo": "moozhu/dsh-obsidian",
-    "version": "0.1.8"
+    "version": "0.2.0"
   },
   "dual-link": {
     "files": {
@@ -17160,13 +17277,13 @@
   },
   "easy-sync": {
     "files": {
-      "main.js": "sha256-ob6QcXWRwz2BpghGKwUgsL6hhrQCtSVY6eKbWj+gcio=",
-      "manifest.json": "sha256-n5j4Ti8GM7UXt1WzAIBcNZAnaF0bRL+jnJ2DMHD9k0c=",
-      "styles.css": "sha256-2KsYhIgFh1LIkvR+XmGgx4OY7XbusUfCZ3KnfOd/3aM="
+      "main.js": "sha256-KePnrIA95h7BfDCEbXxxYztr5vVaS7rJ1gPQJNeKpUg=",
+      "manifest.json": "sha256-HyLh+dk52Micy6y3fPlSGYPnS5gytrpPNRPQ1bsK82w=",
+      "styles.css": "sha256-BrtL8MDU/20hwwuA/WqXLx8TcX0kDzx/UKkjtR6l3Kw="
     },
     "name": "EasySync",
     "repo": "jiaoyingxing/easy-sync",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "easy-test": {
     "files": {
@@ -18238,13 +18355,13 @@
   },
   "entity-linker": {
     "files": {
-      "main.js": "sha256-iBwmBR8oxqye84q6P3wkPqkBewUkzCC4yco09LxKvY8=",
-      "manifest.json": "sha256-DJ25rdsVgDXgNipT+mmsPryOhJdsKtVV72vwXBJ1kKQ=",
+      "main.js": "sha256-Eg8klABqMRNQYh5bxr5gcJdOfJhrHUH2/tPJtafym1U=",
+      "manifest.json": "sha256-fd/IaN9HqgWY9xv6Idr+DOwQSHKQfGQRHaRqz+VuJ3o=",
       "styles.css": "sha256-h2QkPK4DUevbt253DE/v/LGVb/QkINTsFZIS3HqFNe0="
     },
     "name": "Entity Linker",
     "repo": "ankush-chander/obsidian-entity-linker",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "entity-notes": {
     "files": {
@@ -18258,13 +18375,13 @@
   },
   "envelopes": {
     "files": {
-      "main.js": "sha256-J1idp4bNGQa/MHRrn0RV5ZppOiBV85Twb5/ZhQpjs3g=",
-      "manifest.json": "sha256-JK3ak8DYyaYORMOZwOQmnOVkRgPo6c7AMioDHx8+z6o=",
-      "styles.css": "sha256-EWCLKsbaUlHtKKeJjeBTs4QyGB+klYGHn18Vy3upV0s="
+      "main.js": "sha256-2eAZ9HI5tO6jxHI8Nuke1ZbHqGAEIiLblf7HKE7HwrE=",
+      "manifest.json": "sha256-KxgaDC6AnTrG192cOQfACph1DsEG/xqknGSdi1ClBxE=",
+      "styles.css": "sha256-KdFXkoQGDo7i2Uw3QOPVfOYkIvcvOhxQXYlKYEveEKs="
     },
     "name": "Envelopes",
     "repo": "lumargh/obsidian-budgets",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "eof-stats": {
     "files": {
@@ -18482,6 +18599,16 @@
     "name": "Exa Search",
     "repo": "exa-labs/obsidian-exa-search",
     "version": "1.1.1"
+  },
+  "examined-human": {
+    "files": {
+      "main.js": "sha256-PbHOaN4QES2C9zjmVSpwqDxxDD0zbJ/hRu3rcQn6wmw=",
+      "manifest.json": "sha256-tkCWQqOLpXrKjs4VQrDL9tOTDwbLCTKdhg+LS0hAdWI=",
+      "styles.css": "sha256-Hq/2oF1fu10sfRxDTMEkNlOD+aVwWKW8npdR3NyDo60="
+    },
+    "name": "Examined Human",
+    "repo": "ossahmad/obsidian-examined-human",
+    "version": "0.9.4"
   },
   "excalibrain": {
     "files": {
@@ -19183,13 +19310,13 @@
   },
   "fakelink": {
     "files": {
-      "main.js": "sha256-pZ5LderzgzUJ45WaOoUIxtwvJgF0zimbO8wY1xzhllo=",
-      "manifest.json": "sha256-uJXDPzdFNLnqAnx/a62EVZmWgIkFJV0dffCEgOk4A1s=",
+      "main.js": "sha256-k2OrCT1LyfWqtFtuo6+TotpBl/VnNuUZNan4UExwSIQ=",
+      "manifest.json": "sha256-f61fDihH86RgfBi0HMJToI4DsCBg/TcMdO3R7N5mFNo=",
       "styles.css": "sha256-g1qXPyY8axWddrJC6/vKshAcaLhYAWt/Mg8WltQ/d20="
     },
     "name": "fakelink",
     "repo": "godfatherlg/fakelink",
-    "version": "1.20.2"
+    "version": "1.22.0"
   },
   "familiar": {
     "files": {
@@ -19438,6 +19565,16 @@
     "repo": "michaelnguyen5653/feel-the-notion",
     "version": "0.6.0"
   },
+  "feishu-diary": {
+    "files": {
+      "main.js": "sha256-1bddEBpCCQi/VXWFnVs6korQbtpTORHFulcFdw6nf34=",
+      "manifest.json": "sha256-QGonRF376EK5s/eyMD9Vt7OFFN26E/P2rmOZFO04qRA=",
+      "styles.css": "sha256-Kajs6JljoqxuEo7ILQ00fJi50x2vhpEqGY4K9SnWH8w="
+    },
+    "name": "Feishu Diary",
+    "repo": "yourtion/obsidian-feishu-diary",
+    "version": "0.2.4"
+  },
   "feishu-doc-toolbar": {
     "files": {
       "main.js": "sha256-/Bg5sZd4qkX/aBRIU2EG3DWC6WrNyR6SXE87+DJyvlc=",
@@ -19467,6 +19604,16 @@
     "name": "Feishu Lark CLI Sync",
     "repo": "wanghuan9/obsidian-feishu-lark-cli-sync",
     "version": "0.1.26"
+  },
+  "feishu-lark-sync": {
+    "files": {
+      "main.js": "sha256-pr0NmR9/lyb+DKrE18bqDvW9D21Hm+2Rtyw9MlEa3qk=",
+      "manifest.json": "sha256-8Ky/4Rzolw/TZQY9+3HCTjA6DNI8p5dx+BuLQaa882s=",
+      "styles.css": "sha256-xCPkXDmJ0Jxao1IChJqu0bG28n4B0Ir0zQ8NhXs4Fsw="
+    },
+    "name": "Feishu Lark Sync",
+    "repo": "zktww/feishu-lark-sync",
+    "version": "1.0.1"
   },
   "fenced-blocks": {
     "files": {
@@ -19499,13 +19646,13 @@
   },
   "feuillets": {
     "files": {
-      "main.js": "sha256-g95mMr1DIFrBp5/fJ5A+JLd4NuwX/YLuioWP00yGSvY=",
-      "manifest.json": "sha256-qxfApcE/jNiCzxBKiKyymUlinTmePJLcvPoXNFyX22k=",
-      "styles.css": "sha256-hHjMaZrk8u09u9LOq7yLKzPU8uLrTOnVHIlSjrjWQpk="
+      "main.js": "sha256-KudGs+O4kq7B3+mHfdPy+MjsdcRhPNiZdYqM5SJwITY=",
+      "manifest.json": "sha256-Dc37BnRVTCO7VLfOe7ngsEqSnZBohrwji03dzsNwwkw=",
+      "styles.css": "sha256-BIgMAmpMDIHJtpPfbPEuOHLtivaudu3mkEgaGboFwr4="
     },
     "name": "Feuillets",
     "repo": "sargon01/Feuillets",
-    "version": "2.8.2"
+    "version": "2.8.3"
   },
   "feynman-gate": {
     "files": {
@@ -19754,6 +19901,16 @@
     "repo": "lumargh/obsidian-file-filter",
     "version": "1.1.0"
   },
+  "file-folder-status-icons": {
+    "files": {
+      "main.js": "sha256-1YZE2ZFj7lkD2dzL5VdSJXzjx0ADCBja0Hh+txjp2/Y=",
+      "manifest.json": "sha256-2b38y0dKVLMSBQaPuzZNUx/gnxP6pavZ2jd2dUQG29Q=",
+      "styles.css": "sha256-18dNT37OiobadlwnvYKugkKszz6rpLqF7CO2EhoXOvA="
+    },
+    "name": "File and Folder Status Icons",
+    "repo": "danrfletcher/obsidian-file-folder-status-icons",
+    "version": "0.5.2"
+  },
   "file-forgetting-curve-obsidian": {
     "files": {
       "main.js": "sha256-nYMopwfWK58KFk2U6iRUgwRsKHFNnOal5txOZkZCzk0=",
@@ -19978,13 +20135,13 @@
   },
   "filen-cloud-sync": {
     "files": {
-      "main.js": "sha256-LHaC1IeyTrTqQF/M0l6YUCPVFXkLGmnnSY7rBp6B+U8=",
-      "manifest.json": "sha256-0o5f+By15aLZlm6EE0ybOm34znVb2dS4gra/U8ZMib4=",
-      "styles.css": "sha256-4eOrYgjhySqSOlc143jRCsfpZS37k1m3n6GVVz6QjEs="
+      "main.js": "sha256-aD7hcq8wXqXOCSb3skaWhHAnpuQW8nVUUCSmvadhAUE=",
+      "manifest.json": "sha256-Orh6VlRo6+UUMuHKdkOdv7MgjKVhIwX3OV7swcD1YOI=",
+      "styles.css": "sha256-iRwkaBCYl3+DJflVhRViC1Hh+lHMt9hjUtVSg+7bF1A="
     },
     "name": "Filen Cloud Sync",
     "repo": "real-fruit-snacks/obsidian-filen-cloud-sync",
-    "version": "0.6.8"
+    "version": "0.7.6"
   },
   "filen-sync": {
     "files": {
@@ -20062,6 +20219,16 @@
     "name": "Film Artist Search",
     "repo": "hamzamoiyadi/obsidian-film-artist-search",
     "version": "1.0.1"
+  },
+  "film-tracker": {
+    "files": {
+      "main.js": "sha256-jkxLt0TgZH/yOmwuFxXjUtqnQNqNso+5tOUPdxe4rhQ=",
+      "manifest.json": "sha256-F3GTgfibHjB1m0vsDn6kKbcTwAz56SfQRT1daaIbQl0=",
+      "styles.css": "sha256-6ynX/YTJTLiDSkNN+3J+X14VLIuGY1esNwez464iX/4="
+    },
+    "name": "Film Tracker",
+    "repo": "yunuskarasu/obsidian-film-tracker",
+    "version": "1.0.0"
   },
   "filtered-file-commands": {
     "files": {
@@ -20230,6 +20397,16 @@
     "repo": "t0masgutierrez/fix-pdf",
     "version": "1.1.2"
   },
+  "fitkit": {
+    "files": {
+      "main.js": "sha256-1XUiASZHl34imXXVF6cCZbwRIC9u/pyffA0tUPt1VJI=",
+      "manifest.json": "sha256-/5FW6IhjWz/KZtbsU5r0oxjy/SM5g3qYPXtXH9xleSg=",
+      "styles.css": "sha256-oXEstTOk1VV9PPvtOOSFKMzyCoBWmyzk2JzHp5/EFLc="
+    },
+    "name": "FitKit",
+    "repo": "paulchiu/obsidian-fitkit",
+    "version": "1.2.4"
+  },
   "fix-math": {
     "files": {
       "main.js": "sha256-WtOmqmJmIDhMHVFuvnXJa6R8LgDVIdqva3EJSE6E4gA=",
@@ -20359,13 +20536,13 @@
   },
   "fleur-pdf": {
     "files": {
-      "main.js": "sha256-v50HbFbQj8/x1BsPKs2wW/Ejz7yMXZEkwCi/YyCmZd0=",
-      "manifest.json": "sha256-plZtkaRtqrAS/RPmHYdd8nSx3a0FIJz8bYhtN1bX9o0=",
+      "main.js": "sha256-Hdgi1TNQfuBTxfQmFPpi9l74hGUod377W1EfCr3UPXI=",
+      "manifest.json": "sha256-H0PZ+uTYiYL9Ajm9DQOA2V3cg6jsvtjOabsDsIaLeb8=",
       "styles.css": "sha256-rdLHwabTjBYaXZRpsGUwL8FwgznmNXacrJykl5Jgj+0="
     },
     "name": "FleurPDF",
     "repo": "gibsonchan-5/fleur-pdf",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "fleurdict": {
     "files": {
@@ -20508,13 +20685,13 @@
   },
   "floating-notes": {
     "files": {
-      "main.js": "sha256-Vxuw8tWhz6YoiivPwYD6B84OSsYR1L0FsvO+TT8Pcz8=",
-      "manifest.json": "sha256-OONPJ9DlPyA4/vngqeycprBEXm1Iz5YUiyZyTEMNtUk=",
-      "styles.css": "sha256-emSuDSdURjYiJHkNvMwl8Gwi/D9HJ0fw97iNuz1Ym10="
+      "main.js": "sha256-Vijj1Lml92KEfbSUZlyoC1WajMxHcdyxaG59UVRKHuo=",
+      "manifest.json": "sha256-sHirioNoXBts0x0W8Nw7ibnGS9iq9mijujoDiorvSZA=",
+      "styles.css": "sha256-npyVIjzmritm+ix7asBn+5OgJ/+xlwqitq1E7v2K6SU="
     },
     "name": "Floating Notes",
     "repo": "haotiencheng/obsidian-floating-notes",
-    "version": "1.3.2"
+    "version": "1.5.1"
   },
   "floating-sticky-notes": {
     "files": {
@@ -20745,23 +20922,23 @@
   },
   "fluent-onenote": {
     "files": {
-      "main.js": "sha256-FwBN2NKosxXmdp9lue8UZcx1na6UG9k8nkIK6L7aKQE=",
-      "manifest.json": "sha256-wAvYgm0k548f/ft7xC2LxZSbJWbDW9BZjVNh8bH0NDI=",
-      "styles.css": "sha256-662366oJufnX9L8qt7fBlnpv3yLTGTvrposbCAOVyII="
+      "main.js": "sha256-EpQ2mxLyGZlvnBf1sKAEVftwW/+Y9+AioxPPFdofgGQ=",
+      "manifest.json": "sha256-Q+WivWZE7A+3UaSdUvqI2s9I7b7xDHrkaY1i1MWFMzo=",
+      "styles.css": "sha256-dMDel2+u/NjtZPpsJCBjlj25yQKQx4tojAhICiKDMGg="
     },
     "name": "Fluent OneNote",
     "repo": "2607044640/fluent-onenote",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "fluent-tasks": {
     "files": {
-      "main.js": "sha256-KD8ZnNIgmCObxu7d4Q3wsZVBmOKeUPmf+bHSCYXHUDA=",
-      "manifest.json": "sha256-lgoXxw+mwKSBmHHH10Dw8j42QAk/JgQiKzxvlKUzWOk=",
-      "styles.css": "sha256-0dUHbaEWcw8TIBZDS/PfWyf12qnxGEWBHFYYgAjB8K4="
+      "main.js": "sha256-a+hdyx1W9NcmOIp+flO0p8CVApIMX4di+8E8bIiv6+0=",
+      "manifest.json": "sha256-ta+1Cu5i5mVqdc6NbL06YQNXtda7lm1r1+6rb2zCwA8=",
+      "styles.css": "sha256-cPLgj9u384CLlv9BC+Q31xwwKr5XBQO8zWWGBsYoxGA="
     },
     "name": "Fluent Tasks",
     "repo": "2607044640/fluent-tasks",
-    "version": "1.0.16"
+    "version": "1.0.18"
   },
   "fluorite": {
     "files": {
@@ -20948,16 +21125,6 @@
     "repo": "nickolay-kondratyev/obsidian-foldable-embedded-notes",
     "version": "1.0.4"
   },
-  "foldable-frontmatter-groups": {
-    "files": {
-      "main.js": "sha256-xOTneLJeVFTJE7qGJ7q551kqlVGCc143T4ZaVtq478g=",
-      "manifest.json": "sha256-hc1d1peVhm0asN7fdz2fHgT4fZA39hdTa6mLiXfQdF8=",
-      "styles.css": "sha256-61ciX/amrHngSBiGn1tmRqS0feeDgcJhjeXZKJruV+U="
-    },
-    "name": "Foldable Frontmatter Groups",
-    "repo": "cwagner223355/obsidian-foldable-frontmatter-groups",
-    "version": "1.5.4"
-  },
   "folder-accents": {
     "files": {
       "main.js": "sha256-94CS3An7SiRfxdyngxxtSOJGPvN2o/xXqPanpuRbpRk=",
@@ -21058,13 +21225,13 @@
   },
   "folder-column-navigator": {
     "files": {
-      "main.js": "sha256-f81iIji9shYydPwUWsuzX8bJAiDHNfCZWEEjLAHZcBM=",
-      "manifest.json": "sha256-A5hZ8HzaGW9/yjK777fFHFVBZC/bc2Iibqx5YfYQsGw=",
-      "styles.css": "sha256-aFW2qpOvyItGENiYdS30FsFQEDUZPeaeDRn1QA2T/jg="
+      "main.js": "sha256-gJzskRT5IZiu1A+tf7SjfnFGETt8InsxhLAK7Wf24NM=",
+      "manifest.json": "sha256-4IExRA9HdfSnrBuhsFdK70eElSTB+GUk310qkHLJi+4=",
+      "styles.css": "sha256-3TRiXnnkUyDYHVOdBPWo2MXWEZu8bE1uiAnuEkehZkE="
     },
     "name": "Folder Column Navigator",
     "repo": "leoray1990/obsidian-folder-column-navigator",
-    "version": "1.1.2"
+    "version": "1.1.3"
   },
   "folder-crypto": {
     "files": {
@@ -21166,13 +21333,13 @@
   },
   "folder-nodes": {
     "files": {
-      "main.js": "sha256-WAbUWkZmaiZ5oQyTYaXjHHFYLWM2bQ0sYbp/JwX3nrQ=",
-      "manifest.json": "sha256-3x6spYQubsSEZY6SLQmL3emSuEn3xrRw6UwdveJsIds=",
+      "main.js": "sha256-nWUmcPUO3u+60lfNeUceE7SovQcPgYSWIZQ8yPD2WpU=",
+      "manifest.json": "sha256-1a1uwI9rjlgpmLgbXWRngxXetPptT1MOzzhcaEtRiuk=",
       "styles.css": "sha256-GrM+rqSAWFEirW6Uu1So/n/cw3gl/tatGA5Sd+eP2rE="
     },
     "name": "Folder Nodes",
     "repo": "zhyx91/obsidian-folder-nodes",
-    "version": "0.7.1"
+    "version": "0.8.0"
   },
   "folder-note-plugin": {
     "files": {
@@ -21334,13 +21501,13 @@
   },
   "folder-toolkit": {
     "files": {
-      "main.js": "sha256-EKAbD7uFy6WUiYvjS8hQgqZrzSM0wor602+7GeuB0nM=",
-      "manifest.json": "sha256-yZKZwk5VHWAcRZPwjlvzcQoQeC/Geb7UbPcrp5a0sfg=",
-      "styles.css": "sha256-+qc21l8M9ToafTkorT8E1iLMyJ31lJ7DWlEimBjpry4="
+      "main.js": "sha256-/CS5aBKE/iApHyU9EVJXtjpIHS0K6L9UoQuo7UJCRXs=",
+      "manifest.json": "sha256-s+0S1kano9PqSjvwvrLMjlIptJW7MvSv8jFHiEERFa8=",
+      "styles.css": "sha256-NHY0zhlYp2NNJImU+rsvFdhnaRmFXQYFXLmaVzvJvZI="
     },
     "name": "Folder Toolkit",
     "repo": "gabrielbacha/Obsidian-Folder-Toolkit",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   "folder-view": {
     "files": {
@@ -21410,13 +21577,13 @@
   },
   "folgezettel-navigator": {
     "files": {
-      "main.js": "sha256-cyvTZImPEoNidxO/PJC9RmILoPtHQN6EE9KesRtgFqA=",
-      "manifest.json": "sha256-KQ9+TBixSam468M9KA/7KntbrylVCJxTo/h7KaUr0Is=",
-      "styles.css": "sha256-phYkjSQcinbKzTqSV0bkt9CoxDkg2y6NYOoCqZnjb64="
+      "main.js": "sha256-lQ+QaTBSUcLTqcO1Ro6k0tdI0tr2NQx/D76+OoMMZS8=",
+      "manifest.json": "sha256-/JE9/Dycyh0zGNV7MfkDJvhDaAZlxNh24bNJmTB5SoM=",
+      "styles.css": "sha256-r+76AuBuLZXssy1MLWKO04lwUgLok+MW79UBYC8S35w="
     },
     "name": "Folgezettel Navigator",
     "repo": "cutuchiqueno/obsidian-folgezettel-navigator",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "folia-kanban": {
     "files": {
@@ -21562,13 +21729,13 @@
   },
   "formatforge": {
     "files": {
-      "main.js": "sha256-c5y7uSvDoQPSdLoOc6CPVmPuR0umhbJKYk6GS2Gh7sw=",
-      "manifest.json": "sha256-ynSsqdvJINQ1THzu8FP454HnmZ59XMBEz33JsRi+avo=",
-      "styles.css": "sha256-D93mIpdCFMKYgqdcVSOGrMyb09/zOrapnwXTYF9W0LE="
+      "main.js": "sha256-1XldEK2kdMPLKnYRH7u3uRsZdsgqsoHA61+1qRr++pw=",
+      "manifest.json": "sha256-bG+24hx1pHN189CGJig6KEb48AIcY/UzuJPxEdSy3O4=",
+      "styles.css": "sha256-pRN2EM826V+MolvvV34PTFTHGTt8I9Vhdw+1bW36Yx4="
     },
     "name": "formatForge",
     "repo": "kennyrn/formatForge",
-    "version": "0.2.2"
+    "version": "0.3.0"
   },
   "formatted-chinese": {
     "files": {
@@ -21965,13 +22132,13 @@
   },
   "fullscreen-image": {
     "files": {
-      "main.js": "sha256-qXXh9Ho6ERcu/GEXn67HPeI9UH5vCCX7yr19gDwQ87M=",
-      "manifest.json": "sha256-tjmBoFOEvgwVDyml+Ee+D7TiZ5gj0PI7mhwca+uPJD8=",
-      "styles.css": "sha256-FST+e6/zIwfdnI8EYtINe29TI8DX1mn+gIWPSA7VwUM="
+      "main.js": "sha256-TFvPlN2MtdhOPBuCzH+NSpXRi1EwM7htQNSDJHe1DBI=",
+      "manifest.json": "sha256-ZYwqsjNamvPlFtP/R1CP6RBrddgzBmTMw3EPdDw9uXw=",
+      "styles.css": "sha256-o4DOyOmtOtfwWSA6byg/IYZjx3FRpq6SbTHqIewqUKc="
     },
     "name": "Fullscreen Image",
     "repo": "haivri/obsidian-fullscreen-image",
-    "version": "1.0.6"
+    "version": "1.0.9"
   },
   "furigana": {
     "files": {
@@ -22331,13 +22498,13 @@
   },
   "gemini-helper": {
     "files": {
-      "main.js": "sha256-OVDTPRLE0sHp6/a12XJBnpja9z2hDORj4xRrzhoPWbs=",
-      "manifest.json": "sha256-wdpsXBcbWVZjj+k/ghg3EB912HyiY7v1JwrmTc1Ewxw=",
+      "main.js": "sha256-b/e1063I0qwM9gDBHaeBq71GvV/jxX1Wi5teQIm5GNM=",
+      "manifest.json": "sha256-cKjvn5bGBi4u5qHfpEWQdeZBphlRx+nxcq2YiXfoG+Q=",
       "styles.css": "sha256-tEJqolAhDHRJt/+HlPwA2hQnc0Ut0s7aolCHSvzJuEA="
     },
     "name": "Gemini Helper",
     "repo": "takeshy/obsidian-gemini-helper",
-    "version": "1.21.6"
+    "version": "1.21.7"
   },
   "gemini-scribe": {
     "files": {
@@ -22419,13 +22586,13 @@
   },
   "gentle-pomo": {
     "files": {
-      "main.js": "sha256-CBdI659ziCwG92qDNQNu56kC8cIcIR7SUJE+ThX7ZgM=",
-      "manifest.json": "sha256-ENVZ63mrJyoDGtOu/6KrDoZbAQKzdtdsxc5vVM62GAg=",
-      "styles.css": "sha256-6+DyoVB1cEkMKgEk4DTXGiyht6iWhVeWdDAqbhPVeYM="
+      "main.js": "sha256-5VGaAhH2N99dRYFxdvTn/F7N/X5dvlykL6KjIHFb50g=",
+      "manifest.json": "sha256-64O79K7Z0m79DmV0iEH5IVHG/HK14obyLmB4eztp+lw=",
+      "styles.css": "sha256-aZrjygvbDidXeIjLlS9LormkIEqZkKUwOG/F2tdw4ss="
     },
     "name": "Gentle Pomodoro",
     "repo": "jamiestudio-lab/obsidian-gentlepomodoro",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "genwiki": {
     "files": {
@@ -22646,13 +22813,13 @@
   },
   "ghostwriter": {
     "files": {
-      "main.js": "sha256-eb2zEkQF4swapKoL5xL/xR+NvTtdYnN9cmPnGGxtxss=",
-      "manifest.json": "sha256-87vWuh69S12fc19M1XHmxnSCU0uK1B5JMTiHuQW2nks=",
+      "main.js": "sha256-V1XfmMhdD7w7tOa7xP2j3YTipgc8bP0EooLHS1cx0/I=",
+      "manifest.json": "sha256-fLny3o7GEy+4e4Qv5vDB4d5DxfZRSUq4KS0n0zStdkw=",
       "styles.css": "sha256-Wi11A7rvvopdQRCsO15WTTImuOY643nKNcooTL43PSU="
     },
     "name": "Ghostwriter",
     "repo": "amuhak/obsidian-copilot",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "ghosty-posty": {
     "files": {
@@ -22899,6 +23066,16 @@
     "name": "Gitee Sync Better",
     "repo": "memoryl7/obsidian-git-sync-better",
     "version": "0.2.8"
+  },
+  "gitee-sync-plus": {
+    "files": {
+      "main.js": "sha256-4f8UKbjmXczDge46pCWpd7cnhBLQ7DJroBK8oQiVy4o=",
+      "manifest.json": "sha256-gDBtLJLVxFpaT+QY2BpgLGAnTnJs8LDnWaLqLACpF/k=",
+      "styles.css": "sha256-jwplh4iYnO/XF3ZJFGOWTJ3J8UksIgICS39jlXCXIuk="
+    },
+    "name": "Gitee Sync Plus",
+    "repo": "hellokunzai/obsidian-gitee-sync-plus",
+    "version": "1.3.3"
   },
   "githobs": {
     "files": {
@@ -24517,13 +24694,13 @@
   },
   "gym-app": {
     "files": {
-      "main.js": "sha256-Weug3TxiymONCJIYu823KU/NItU2S/Cm3Yt0Iql1wNg=",
-      "manifest.json": "sha256-fvHitUW9O36g5JF+qVzRmgn53ZEHF5yBljrwFfIxvYw=",
-      "styles.css": "sha256-vVbuLC2HQVQM4farS55hm1Azy1duaweF1wR8SVk5gfE="
+      "main.js": "sha256-zC/dA3R4kvDP6N61TJc1sFSPJSi+TtrmEbNU+BkLxR0=",
+      "manifest.json": "sha256-IuYvISBxqZztlfqdnBOJXQLm8MT50AMU32upSkBPjSo=",
+      "styles.css": "sha256-gaixuV9lxzZceYNxVBDG2QfKsbaxm44T1POjFtE1mjE="
     },
     "name": "Gym Vault",
     "repo": "ruanpienaarcode/Gym-Vault",
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   "gym-tracker": {
     "files": {
@@ -24780,13 +24957,13 @@
   },
   "handwriting": {
     "files": {
-      "main.js": "sha256-4MTUZ8TZ0j8S7C6U89YV5j/dI9v7pNq4e+K7381v+Uk=",
-      "manifest.json": "sha256-zOeW4jSjo4mWRlNaBCH5ghR4DSUNGQ57gtcbceX4CIk=",
-      "styles.css": "sha256-s1HVbyQM8NkVz/RFiAidpiFjSQyxjqqoMnS8lSDSMrg="
+      "main.js": "sha256-f90McpxMxRfft9knROLE/mR93IbBOcfsYlRoRtlKov4=",
+      "manifest.json": "sha256-pltNOqy3gneG4kEZMGNe2P2ALdaAOfY1dnSnpewOhJM=",
+      "styles.css": "sha256-vpu2pp6soFrk0JlXfQSSpGs9IVOK6D5+eM7c7YFnbzc="
     },
     "name": "Handwriting",
     "repo": "ellimist-afk/handwriting",
-    "version": "1.4.5"
+    "version": "1.4.8"
   },
   "handwriting-latex": {
     "files": {
@@ -24897,6 +25074,16 @@
     "name": "Hans Kanban",
     "repo": "hansai-art/obsidian-hans-kanban",
     "version": "1.5.5"
+  },
+  "hans-safedoc": {
+    "files": {
+      "main.js": "sha256-oacWXBXi4DsLxqMb3DJHCOC5YrhshK2qp3xutMfgCJ0=",
+      "manifest.json": "sha256-VoUybTnLU+C0+ctWaI8TWbcIrp53mUTOh0Ts9x0pAO4=",
+      "styles.css": "sha256-1bHubSgA7BfCie2nIkzHHyrVTZM3jxxIurRfNSAWjYg="
+    },
+    "name": "Hans SafeDoc",
+    "repo": "hansai-art/hans-safedoc",
+    "version": "1.3.0"
   },
   "harang-calendar": {
     "files": {
@@ -25491,6 +25678,16 @@
     "repo": "moeyua/obsidian-heti",
     "version": "1.0.0"
   },
+  "hevy-sync": {
+    "files": {
+      "main.js": "sha256-XKIIQK6kHNaGcW+5uM+M8QPyyWzE1InjYPfV0edoagE=",
+      "manifest.json": "sha256-mcODSGPUtLdcg83yFPo52pY0ct9TtMOiZkG+E46GaGk=",
+      "styles.css": "sha256-h2QkPK4DUevbt253DE/v/LGVb/QkINTsFZIS3HqFNe0="
+    },
+    "name": "Hevy Sync",
+    "repo": "s-t-i-h-i/obsidian-hevy-plugin",
+    "version": "1.0.2"
+  },
   "hex-cartographer": {
     "files": {
       "main.js": "sha256-h6aZy1wQWpvl4sGPq7ju5tT1MXXc6twOItkuQ0WZ9NY=",
@@ -25975,13 +26172,13 @@
   },
   "homepage": {
     "files": {
-      "main.js": "sha256-1nsCERRlyRexvNo8K9/uGF5CnbfQdGv2bxN+1NlItOo=",
-      "manifest.json": "sha256-vEt2iG65/COlMTtX8gw49cRSlbeizcwjFWm7JvLnNFI=",
-      "styles.css": "sha256-luEC2T8kY76o1KX6TkU3ll7rsR/NYezpbtodIwHGTzg="
+      "main.js": "sha256-VnsU5ueRMwG0bZth/TakCB+n3hgY8ZJsH8tYZ5KqsgE=",
+      "manifest.json": "sha256-Xn4gCFyVLRChDTc8pXGFFpl/UrLf6uFifK/Jxw+N8pw=",
+      "styles.css": "sha256-vzRt70bmYmRGxUmD9+bOR3W4SwEVnNBGMB6b5cNAdYk="
     },
     "name": "Homepage",
     "repo": "mirnovov/obsidian-homepage",
-    "version": "4.4.4"
+    "version": "4.5.0"
   },
   "homepage-blocks": {
     "files": {
@@ -26269,13 +26466,13 @@
   },
   "html-document-viewer": {
     "files": {
-      "main.js": "sha256-Uqozv3e7atHh3O43G8owMXqD8sTbj8D52StUdQHiyXI=",
-      "manifest.json": "sha256-nW+yYW8n0q3W+5HBizXghPAoSRDc+cQTJgKxulY+E8k=",
+      "main.js": "sha256-ZvfdrH2dkXvE4erla877xtzxNC37u7BQCh6SLePv6xI=",
+      "manifest.json": "sha256-26ReWxlRCZqXKFsm6h0urop5zewj/rcE8NJw4AQQBFQ=",
       "styles.css": "sha256-Fz1unSlI3E6zWrnkY14n7+HNo37ENYVOM5/SZKRsHBA="
     },
     "name": "HTML Document Viewer",
     "repo": "initialcapacity/obsidian-html-viewer",
-    "version": "0.0.1788317881"
+    "version": "0.0.1788372208"
   },
   "html-effectiveness": {
     "files": {
@@ -26306,6 +26503,16 @@
     "name": "HTML Font Toolbar",
     "repo": "charette-ai-group/html-font-toolbar",
     "version": "1.7.8"
+  },
+  "html-gallery": {
+    "files": {
+      "main.js": "sha256-h6ELXw35YSp6geVXLlr0eXN4l1ogs1xjvR6JO8opxvo=",
+      "manifest.json": "sha256-RskCG3HQCIqo1/XhvN5a/RGUOa4a0wEJ6nqL4c7fRd8=",
+      "styles.css": "sha256-cDvtun/qY4J4U7F4FUS7+QhAjhRvNPPth6muWbtexFw="
+    },
+    "name": "HTML Gallery",
+    "repo": "violetyk/obsidian-html-gallery",
+    "version": "1.0.3"
   },
   "html-live-editor": {
     "files": {
@@ -26469,13 +26676,13 @@
   },
   "htmlto-link": {
     "files": {
-      "main.js": "sha256-1o9P03NgAnaZAREDj7+Lo56UIH0xUSF4jYoCg4OQtB8=",
-      "manifest.json": "sha256-kO6pRcgAegyb5U5b8ak0RE0g7Eo7CKAoY9MF1M1F0pY=",
+      "main.js": "sha256-6j7qAK3Bhl338o/sfe24qBFdoka0hm/TdO5IN1piJrw=",
+      "manifest.json": "sha256-kOlusGEWiX3femyFyJtJn6qN5YYSH7IKx3GiyMnqKeI=",
       "styles.css": "sha256-UKqyne6kdvRyUtVkKD05fzXDKmRvdMqmZNTrB/3aUTs="
     },
     "name": "Share Page",
     "repo": "licc168/obsidian-htmlto-link",
-    "version": "0.1.22"
+    "version": "0.1.23"
   },
   "http-link-maker": {
     "files": {
@@ -26596,13 +26803,13 @@
   },
   "hybrid-git-sync": {
     "files": {
-      "main.js": "sha256-jNmSFRflgPggkfvkCofPreyXvtAuVHPcXng09dzE/Hk=",
-      "manifest.json": "sha256-9ZjUSLyHVbkwBSb85+xi/Xhx4oezBLkzW2QykZeI/rM=",
+      "main.js": "sha256-/9OGcRkvQoXNuQROnGmZALYah3J+U8DpWUVerpLa/r4=",
+      "manifest.json": "sha256-9xyHkjTIPeQf1U6ZD9umJPYf/JLaEOM8GNNmYxLcq8Y=",
       "styles.css": "sha256-pzZV04XgYYOoDJbyL0ujUG4mVknoOj8uWUGkSynl/+w="
     },
     "name": "Hybrid Git Sync",
     "repo": "wk-obsidian/HybridGitSync",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "hybrid-search": {
     "files": {
@@ -27446,6 +27653,16 @@
     "repo": "kuioma/obsidian_image_renamer",
     "version": "1.0.0"
   },
+  "image-scroll-gallery": {
+    "files": {
+      "main.js": "sha256-VY11E7IHDuWPQDk1m2GFM1KpOLZgFO+Zn13qgZBawWo=",
+      "manifest.json": "sha256-uoF+M/dhzsS0wR/o/rhtj67viZWMk3cpAqRJ06s7w6A=",
+      "styles.css": "sha256-vhqRIFOB4DTYIN29shel27GjHtAfeYcTv9JZvit4L8k="
+    },
+    "name": "Image Scroll Gallery",
+    "repo": "rainajia716/obsidian-image-scroll-gallery",
+    "version": "1.0.1"
+  },
   "image-search": {
     "files": {
       "main.js": "sha256-trJ34fkcR5B1I2OIaoYDXnP/bhUFOXTDbGPVixPJ4UY=",
@@ -27761,13 +27978,13 @@
   },
   "immersive-folder": {
     "files": {
-      "main.js": "sha256-jYoGJabFHjEWQGImJWwhhTwyk/dvPzZwIiLN17viVVk=",
-      "manifest.json": "sha256-895/B0ab3XZjU+izdufWs6XDnjLpXm+fhyQJdxXrsQM=",
-      "styles.css": "sha256-k9lV/NgeYMzJuRLwXKBUq7ltZRLkOA73frEMBxSlAMg="
+      "main.js": "sha256-4BPuIDzNhe/7e6WQPs/wyJ4G2JEvF9WhfJUxLfj+fgA=",
+      "manifest.json": "sha256-uYnDPNk3mP6yzedmVLx6biuZAa0XEhnECnVtMOg+IxE=",
+      "styles.css": "sha256-kuZ+BjxgbN389SQ16m+aw33J9VR/VhQGihwECYscvJw="
     },
     "name": "Immersive Folder",
     "repo": "iblinkq/immersive-folder",
-    "version": "0.2.4"
+    "version": "0.4.1"
   },
   "immersive-translate": {
     "files": {
@@ -27998,6 +28215,16 @@
     "name": "Incremental ID",
     "repo": "adziok/obsidian-incremental-id",
     "version": "0.5.0"
+  },
+  "incremental-reading": {
+    "files": {
+      "main.js": "sha256-ljsTXfaLrqaYOfqcN3EENP4EnAqqSa5pPRG1bzPMAiE=",
+      "manifest.json": "sha256-fsbd9wlKoYENozbi1BZTzRAzT71zrGiNgQi0IFNYwzg=",
+      "styles.css": "sha256-G6Dffp6xSg/NbQtfytpZVAbUXZMsX6UrPIplx9KVUBc="
+    },
+    "name": "Incremental Reading",
+    "repo": "gpanakkal/incremental-reading-obsidian",
+    "version": "0.6.0"
   },
   "incremental-reading-toolkit": {
     "files": {
@@ -28401,16 +28628,6 @@
     "name": "Inline Graph",
     "repo": "svm0n/obsidian-inline-graph",
     "version": "0.2.1"
-  },
-  "inline-handwriting-puria": {
-    "files": {
-      "main.js": "sha256-CDNwav7EuJj+oQRNHjT+jpTV3trpNPY8zHrA9Iy50uU=",
-      "manifest.json": "sha256-HaC7bUn3rQd6RS2hT80C5tb9Q3axABKwGOxhzcPRyo0=",
-      "styles.css": "sha256-4KN4iqfip+grn9jU5KJRmf+ChVe9+XCNvnTcU17vrZw="
-    },
-    "name": "Inline Handwriting",
-    "repo": "puriakazemieh/obsidian-inline-handwriting",
-    "version": "1.0.12"
   },
   "inline-icons": {
     "files": {
@@ -29399,13 +29616,13 @@
   },
   "journal-partner": {
     "files": {
-      "main.js": "sha256-IqS0xksXkLZDH2YHBcu66zQF8jjQV3/FHgOXvc1m8LQ=",
-      "manifest.json": "sha256-wiBGlfkZajJClDZRICLwdL3ExI04V26U83klP27dvMw=",
+      "main.js": "sha256-i865MdbdEos4L2s5oSxmETqsvrSm7bP9IQ7PqJJ4dJ4=",
+      "manifest.json": "sha256-pVQ1z6HC+QsotKJOZQyrRNtc6CG9UvEE8czf8zx44Ow=",
       "styles.css": "sha256-wKROX6dIejDWTQqUsHbOZ9q+5rHKLAGgdph2Rmc+ezc="
     },
     "name": "Journal Partner",
     "repo": "zhaohongxuan/journal-partner",
-    "version": "2.18.0"
+    "version": "2.19.0"
   },
   "journal-recap": {
     "files": {
@@ -29489,12 +29706,12 @@
   },
   "journals-aware-rollover-todos": {
     "files": {
-      "main.js": "sha256-ZjkdgfSpZIxNalYGuBlmQRO9fCY6ydirPE8ALEMaG0o=",
-      "manifest.json": "sha256-PHiZ3wlzXG5djO8hpqdAOVjmxCTP91DrMicj0Cnngcs="
+      "main.js": "sha256-qA/+RRw1lNbtJ2k+HI+CzpHGT1uvUogJRLOxpr4bTCI=",
+      "manifest.json": "sha256-lG+lnQfdG4zzddk8LfKiWEiZk8kVrRDPqrqxL+ZHi5A="
     },
     "name": "Journals Aware Rollover Todos",
     "repo": "asefhossainkhan/journals-aware-rollover-todos",
-    "version": "1.0.1"
+    "version": "1.0.3"
   },
   "journalyst": {
     "files": {
@@ -30390,6 +30607,16 @@
     "repo": "okikae/obsid-kkh",
     "version": "0.0.9"
   },
+  "klomimory": {
+    "files": {
+      "main.js": "sha256-qc94gbUucHVKX6Odzq/P/6/uYxG3H/etvgVOH6upcXU=",
+      "manifest.json": "sha256-EAoGaynmCBmByaiQtZdoLXeTokRT8H1i2Q1t5UMfY+o=",
+      "styles.css": "sha256-qz3YbO7j1ZBMbryZUAqQhs3DWhuQt+M5gen/Yg/2tVA="
+    },
+    "name": "Klomimory Word Cards",
+    "repo": "klomix/Klomimory",
+    "version": "1.0.1"
+  },
   "kmind-zen": {
     "files": {
       "main.js": "sha256-vjrMnVZAhi3bLThjxHSnohiUXQKPm2VssAdCNkurTAM=",
@@ -30560,12 +30787,12 @@
   },
   "knox-sync": {
     "files": {
-      "main.js": "sha256-B55gh9faZPWFriC0M+KVk3D5iGlXM2m2AHnEab7JlgY=",
-      "manifest.json": "sha256-g1JaCF3scsDnx3bbl+uYGl+QWPhH9sfbyUCtqXffJU4="
+      "main.js": "sha256-BY60eUuK9nmzL8+DAgU/lbvQGz6wtnnuTNj8XYLMzOg=",
+      "manifest.json": "sha256-wykXGVBa8hy36Rf8SBOvb50PJGPvji2pfn8ViOJXSgk="
     },
     "name": "Knox Sync",
     "repo": "trinitytime/knox-sync-plugin",
-    "version": "1.1.4"
+    "version": "1.1.6"
   },
   "knox-timeline": {
     "files": {
@@ -31479,13 +31706,13 @@
   },
   "ledge": {
     "files": {
-      "main.js": "sha256-jRzpDmbWljWFaNTpS47IJUaTV0dQuW37RjFLMv2i69k=",
-      "manifest.json": "sha256-7Bfk0WwPSZ/EsUmvQiiTV/BGcDgCJhMk2XW4NOIuinE=",
-      "styles.css": "sha256-JXukPiHzXb6TqGxS3acauBizFgp0mPM9WiZMCMtbloo="
+      "main.js": "sha256-2FtmtV3oyidMhtOzPMQ7LdrRnF0NyF3ACONbYhPl5uc=",
+      "manifest.json": "sha256-mfP3Qyv2hiPKlw73rQm6bvWV4IvpFG15z5XU2P5IfXc=",
+      "styles.css": "sha256-pcBZlONxUGDgZ2UZokVm1+lJArxO+zshsL5MNSG/l8I="
     },
     "name": "Ledge",
     "repo": "llocphann/Ledge",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "ledger-governance": {
     "files": {
@@ -31685,13 +31912,13 @@
   },
   "lexis": {
     "files": {
-      "main.js": "sha256-q8FHb8GrbsMgAjonvm98OuVWNpzxjFMnu/sqm5BaWec=",
-      "manifest.json": "sha256-yimjMGHbwVWTYgUfNhWPITZcFzrSoM25gvZ3vmBYX2U=",
-      "styles.css": "sha256-SqxU28nbrhO3p7q507vCIhJzUTQYHVNYE1y3gnjUSnQ="
+      "main.js": "sha256-FeC187pcFR/LsuuptN7KTsYBJh0SksAlx5qeufjOrAE=",
+      "manifest.json": "sha256-p4XVaq19e9Hrn34P86Q2o3thMG5glNXfB6Nf9Jw10gA=",
+      "styles.css": "sha256-1Sc92iFIWMuVixQz6Wwyl0BqyGFcxEMTalsjB+Ii54k="
     },
     "name": "Lexis",
     "repo": "heptazero/obsidian-lexis",
-    "version": "1.16.1"
+    "version": "1.17.0"
   },
   "lexophile": {
     "files": {
@@ -31814,13 +32041,13 @@
   },
   "life-tracker": {
     "files": {
-      "main.js": "sha256-+P6OlirJivCCQ3MX5nDZ0bqgNpfi7qgk1WW0S/FJJLA=",
-      "manifest.json": "sha256-SX8KzWAM3tUmT9J9JpLBkaLyb1O8OgT+lWK4WRFRpO0=",
+      "main.js": "sha256-emcz9Opn1yYSxgLyK6FWpx9lEkbSrvlCzIkKWZSapbg=",
+      "manifest.json": "sha256-YZMjYp1aOvfZtuIKx7vFRDDZgjRwCcehdInqTd6VU9s=",
       "styles.css": "sha256-uZ8ceiw506gtmjMmCf9I49u5j9pEBKeGXWz4E4ogitA="
     },
     "name": "Life Tracker",
     "repo": "dsebastien/obsidian-life-tracker-base-view",
-    "version": "2.24.2"
+    "version": "2.24.4"
   },
   "lifeweeks": {
     "files": {
@@ -32154,13 +32381,13 @@
   },
   "link-calendar": {
     "files": {
-      "main.js": "sha256-ZcsQQsYvU+v+96ZHrZP8pqfXvSidZarwzcwJgpq6eC0=",
-      "manifest.json": "sha256-gT+ZfwBYwzKgQdBAP+Z89m2xzRgRzL9yEroO9smGMV0=",
+      "main.js": "sha256-oyc7tzBTufPJsw2K5LogrCZ7hpiTppViaMNa8no83xA=",
+      "manifest.json": "sha256-JXKfTDNCdtFmSFnzsnaX6iyKUixNYA6drcWtutzOeCw=",
       "styles.css": "sha256-XfaHDhVA186XmSGJOwIO00oRR5FA4367IFLr7qRhG2A="
     },
     "name": "Link Calendar Navigator",
     "repo": "woonyong-kr/link-calendar",
-    "version": "3.4.2"
+    "version": "3.5.0"
   },
   "link-card-preview": {
     "files": {
@@ -32337,6 +32564,16 @@
     "repo": "rmellmer/obsidian-link-range",
     "version": "2.0.0"
   },
+  "link-router": {
+    "files": {
+      "main.js": "sha256-EQDRLnkMTOSSc7LiMXf3lKZ0pSoPoybGAgqeviKbAZs=",
+      "manifest.json": "sha256-CRwybM8B7EKkVbVYty1TT+adaIjFADz6FgDoKuy9qWI=",
+      "styles.css": "sha256-FziJAvbV+ZdNraVw97MLe1kihzJ1jh/5/vAG+CdUoF4="
+    },
+    "name": "Link Router",
+    "repo": "adamf-g/obsidian-link-router",
+    "version": "1.1.0"
+  },
   "link-structure": {
     "files": {
       "main.js": "sha256-7Rbv6M+wpoHmxSfIx5xTrW06MoBd/Loin2Ng74jaFSs=",
@@ -32470,6 +32707,16 @@
     "name": "Linked Note Exporter",
     "repo": "the-c0d3r/obsidian-linked-note-exporter",
     "version": "0.2.5"
+  },
+  "linkhaven": {
+    "files": {
+      "main.js": "sha256-CpmIxn8yZ/DjZ48EBpTN79dC006+iIoBWK2pBGz45uQ=",
+      "manifest.json": "sha256-mqRI/q3v0lv55eMADZLsMiXmW8TiDTxhCj50GKfPUlc=",
+      "styles.css": "sha256-BpJanVgGqjDUpOCm/eAHUoTNoBy5Sa3jh1aPgTRf/fw="
+    },
+    "name": "Linkhaven",
+    "repo": "real-fruit-snacks/obsidian-linkhaven",
+    "version": "1.4.0"
   },
   "linkify": {
     "files": {
@@ -32820,15 +33067,6 @@
     "repo": "nhiwentwest/live-columns",
     "version": "1.0.2"
   },
-  "live-cursor": {
-    "files": {
-      "main.js": "sha256-bKPhzlZz9gKH3URwMcrHpu4uzAHBQ+cGYT+nL20r1qg=",
-      "manifest.json": "sha256-5gueRrcGIMdLta9TJ/mfM/0ooczTpSgQ6vMTKN4gYdQ="
-    },
-    "name": "Live-Cursor",
-    "repo": "live-cursor/Live-Cursor",
-    "version": "1.3.17"
-  },
   "live-data-hub": {
     "files": {
       "main.js": "sha256-p9PGQ31DrOyINNPtpAGQSwf/DGUaPh1CboCrzR2A9c4=",
@@ -33005,6 +33243,16 @@
     "name": "LLM docs",
     "repo": "shane-lamb/obsidian-llm-docs",
     "version": "1.3.0"
+  },
+  "llm-hub": {
+    "files": {
+      "main.js": "sha256-aGzq8Bipsyc8XM+80mOyrOG2CWQ+luxskSTKk05phkU=",
+      "manifest.json": "sha256-ZCeb/Z7H8/JzPt8TbwZmRMFHlbyR7z+HrEVfwxu8opY=",
+      "styles.css": "sha256-mjZQNF3GCSp1MTlqgRBNoKKg9gQ4tWxGfJYRkDmbyGg="
+    },
+    "name": "LLM Hub",
+    "repo": "takeshy/obsidian-llm-hub",
+    "version": "0.32.14"
   },
   "llm-settings-translator": {
     "files": {
@@ -33925,13 +34173,13 @@
   },
   "lumen-pdf-annotator": {
     "files": {
-      "main.js": "sha256-RaPX0tiYNgICUAxDEgQuZnbEfS3fl5YxFiB4vmHZ+0M=",
-      "manifest.json": "sha256-rhbiLDAcObsaP/csNmCYRF1FDj9jRFbpM2na3m1plDs=",
-      "styles.css": "sha256-yblz1z/NRvvF047L5TKf7dR4rMr+Dg7IioqnLaVBDz8="
+      "main.js": "sha256-9g1sdFt904Q9uXM1nPa4ZEqn8/wKo0vd0oKknUxVMKs=",
+      "manifest.json": "sha256-QPen0hz9sArokieW3kyXGGTtwahOjM0hLdwEeC2zLTA=",
+      "styles.css": "sha256-Rzie5IN7KT7z4+ZNIQdrVWF+jt/p6PXggAl6ezrkExc="
     },
     "name": "Lumen PDF Annotator",
     "repo": "bengutteridge1/lumen-pdf-annotator",
-    "version": "1.0.11"
+    "version": "1.0.12"
   },
   "lumen-stage": {
     "files": {
@@ -34113,13 +34361,12 @@
   },
   "magzdown": {
     "files": {
-      "main.js": "sha256-b3L4ryz9fjwKexEhZeWPIN0JBK1wv4jnzSJcUi1eDtw=",
-      "manifest.json": "sha256-HjkLAExZIUS8AheffYD13Im4jfDw+7mK2+bi9SG539Q=",
-      "styles.css": "sha256-S9Hxmur/65RKVPXUV4vZLppjVwctYVvQ/wPRUh5tbKg="
+      "main.js": "sha256-wseXX4jqbhHBS2c0T+m78hXdSCLVLH7WrPKDMjMuoW4=",
+      "manifest.json": "sha256-0iPH950N4S4ms9tlqPpP+N2diktBWslH3DSSfqI8+yM="
     },
     "name": "Magzdown",
     "repo": "xarl3z/magzdown-obsidian",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   "mahgen-renderer": {
     "files": {
@@ -34524,16 +34771,6 @@
     "repo": "wgg2bhccq2-afk/obsidian-mark-and-link",
     "version": "1.0.0"
   },
-  "mark-base": {
-    "files": {
-      "main.js": "sha256-F68YnY8GE8CKSXZPo56hygZ3rl00h7DVXp6FmjhIgQ4=",
-      "manifest.json": "sha256-IFZhprmk2TWfoDcKdU0Lo1a4FdS38pllVnEgzYK1STU=",
-      "styles.css": "sha256-mJr3CxXpnFs94CtWUhGdWRevpcM32tvJH1byA/dkdy4="
-    },
-    "name": "MarkBase",
-    "repo": "tylercarrol/obsidian-mark-base",
-    "version": "0.2.0"
-  },
   "mark-open-files": {
     "files": {
       "main.js": "sha256-T5ryBhAUmVOlPqDNO9gQ5eVrZCR31UiAHzmayw/KnKw=",
@@ -34699,13 +34936,13 @@
   },
   "markdown-mason": {
     "files": {
-      "main.js": "sha256-rvor1lVqE4uLg7OsAVd9s4TNShUMOIVioH5codoZr6U=",
-      "manifest.json": "sha256-cyNcN8dBYSOyZIHqhGa1VCMrEVkGTzdEFGGYiqZ8LEU=",
-      "styles.css": "sha256-6jU2UJrZfZaQLLuJ/0JA20EhDdqece1N6RGgzRquZbA="
+      "main.js": "sha256-DXS+AEImCRijOAxinkYIYiJcMAvCnI0KOvFBfUu93Ks=",
+      "manifest.json": "sha256-5BaNIZWMlscEkIM2RAPbkH/9Ma4xgCpTQ0DdNs4QMw4=",
+      "styles.css": "sha256-ujTz/d7joHW2OyF1BKmPqFrvQ0eNmbMdrX/DnfBSD24="
     },
     "name": "Markdown Mason",
     "repo": "mmomm-org/obsidian-markdown-mason",
-    "version": "0.8.1"
+    "version": "0.9.0"
   },
   "markdown-media-card": {
     "files": {
@@ -34716,16 +34953,6 @@
     "name": "Markdown Media Card",
     "repo": "zhouhua/obsidian-markdown-media-card",
     "version": "1.2.0"
-  },
-  "markdown-memos": {
-    "files": {
-      "main.js": "sha256-Dp8kKR54NS9STTO8dl0SO9HiwnggXR2EloEBugPR8x4=",
-      "manifest.json": "sha256-7iARiu9vC1IJMuyqPUxcX7jDvT72RiohN2ngrZMiXP0=",
-      "styles.css": "sha256-OFhxQNwU2dmFj+6QDv3eeGmbFOnoLFv3Shg5BirdnSA="
-    },
-    "name": "Markdown Memos",
-    "repo": "tyh-art/markdown-memos",
-    "version": "v1.0.0"
   },
   "markdown-mindmap": {
     "files": {
@@ -35563,6 +35790,16 @@
     "repo": "meghan-lendhe/md-to-json",
     "version": "1.0.0"
   },
+  "md-to-latex": {
+    "files": {
+      "main.js": "sha256-UM41RxK455XZ1XGzoxNSn6S9k8vAnG5KeT/q20zBDOk=",
+      "manifest.json": "sha256-UZ65XDOyIzql205xGB9UwRDnFYc8OLctnvk/YYJFeH8=",
+      "styles.css": "sha256-h2QkPK4DUevbt253DE/v/LGVb/QkINTsFZIS3HqFNe0="
+    },
+    "name": "Convert to LaTeX",
+    "repo": "striker909-celestial/obsidian-md-to-latex-plugin",
+    "version": "1.0.8"
+  },
   "md-to-resume": {
     "files": {
       "main.js": "sha256-lbUvS0FCnsuykhk1kcj7a7mFup5ejDHNApLFIzMjMsY=",
@@ -36375,13 +36612,13 @@
   },
   "mermaid-flow": {
     "files": {
-      "main.js": "sha256-XR3Cl99F+tf7GcTpwrRWav/oWvjjwwofg7Nu0Yg1Qik=",
-      "manifest.json": "sha256-9beMjpKrAWAXkuPq5NiVQg8F82/dsMXH1wMszypI05I=",
+      "main.js": "sha256-Ttf9ruduXw69TSlSvUD5CG53Xkin41Zw2MNOXx8E5Y8=",
+      "manifest.json": "sha256-hpO5xyOBs4RgsvpNSuFu0XcNEKGO3bBNmHAppodyIjI=",
       "styles.css": "sha256-UK4rWiHbwPQmkMeIUWWNewT2l++hMDp/FqsiOte+wcI="
     },
     "name": "Mermaid Flow",
     "repo": "thansheer/obsidian-mermaid-flow",
-    "version": "1.8.1"
+    "version": "1.8.2"
   },
   "mermaid-flow-zoom": {
     "files": {
@@ -37659,6 +37896,16 @@
     "repo": "czottmann/obsidian-mononote",
     "version": "1.2.2"
   },
+  "month-finance": {
+    "files": {
+      "main.js": "sha256-82PwMhOq06IUNIOh4gCz0Z00YtVb4ipzJgEyyTsvGBE=",
+      "manifest.json": "sha256-HAx/ZQVt/2kTkib5Ug/Bduk93vRtlebswBtP8ZzWFvw=",
+      "styles.css": "sha256-NCSIrDSsjBViLTMrYGjer7uftpMo5R3gCg1g+gM7Jus="
+    },
+    "name": "Month Finance",
+    "repo": "kharbacheuski/obsidian-month-finance",
+    "version": "1.0.0"
+  },
   "month-folder-order": {
     "files": {
       "main.js": "sha256-MYEN42nu/XPlxmkNGpZ7XtPfx2PRvas9KVspHxFveZ4=",
@@ -37736,6 +37983,16 @@
     "name": "Mood Tracker",
     "repo": "dartungar/obsidian-mood-tracker",
     "version": "1.8.0"
+  },
+  "moodstudios-collab": {
+    "files": {
+      "main.js": "sha256-EIcIj9rGCMNZXiNmLAyzhRVpBgHYGGT9zNbYPfDUF14=",
+      "manifest.json": "sha256-hfffMAMY3vyoJQkODzU0irkb/F71BH4rkD78vjOtdak=",
+      "styles.css": "sha256-wO4PpxcquvCM7SIwV4RgxvPXpAJsvCXu24Mw3l3/Hlc="
+    },
+    "name": "Mood Collab",
+    "repo": "moodstudios/moodstudios-collab-dist",
+    "version": "1.1.2"
   },
   "moon": {
     "files": {
@@ -38423,13 +38680,13 @@
   },
   "mv-obcc": {
     "files": {
-      "main.js": "sha256-k2GcWcJshr1cSLorK+3rv6cTAJ3dbRpHCdxBu6S15RM=",
-      "manifest.json": "sha256-ImErlixM+jdCh0Pibasrv/y9ERXWVM3/oU81Z54pA/g=",
-      "styles.css": "sha256-xTgdEXliopGxh5ne2maa/fewGK/xA0fSTtocCGOeq+w="
+      "main.js": "sha256-wFExLbUg0Dhg8NYgu6WlqY7v1uj2ZFEkF+K6JDQEvYM=",
+      "manifest.json": "sha256-Cf/hs1esttULTIIGUYm+f/DgzIDkXliWxkDsPYvPcbI=",
+      "styles.css": "sha256-RneBZhDHUlyerb5s8jLSImNeGcpl83xlJ3XFMQbwzmQ="
     },
     "name": "mv-AIDE",
     "repo": "aitingtingya/mv-obcc",
-    "version": "0.9.15"
+    "version": "0.9.17"
   },
   "mxmind": {
     "files": {
@@ -38600,13 +38857,13 @@
   },
   "mysync": {
     "files": {
-      "main.js": "sha256-lnitGmum2JFFiOpyAKI5+kk0BPHcalaUA2LvPxIYRt8=",
-      "manifest.json": "sha256-sKq+pZJ3wso6nq09dUCpEVwYxjEKSwS7hZEPparJBgY=",
+      "main.js": "sha256-DE31E3Y+WYa23Dubs9+0Rn8swQwGJtcXk9TX//+e+D0=",
+      "manifest.json": "sha256-3GEwKrPIGg0syaKiM26xURPq6lizlHbu9dh5pBvaSwg=",
       "styles.css": "sha256-pcKMd+Jmj9C5o381eEeEX1Nk3M56jb6c9pAjj+b+y08="
     },
     "name": "MySync",
     "repo": "henriquemanduca/mysync-plugin",
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   "myworld-task-manager": {
     "files": {
@@ -38928,12 +39185,13 @@
   },
   "neighbouring-files": {
     "files": {
-      "main.js": "sha256-ga7thmWWrlh8CLyUS+DuG0a2Y+lp7Nq46jbJG4//ucg=",
-      "manifest.json": "sha256-X9n2UZYRuUk0Nh0BbIIgsIYxE/pX62M1cfNYj+6b4PM="
+      "main.js": "sha256-dAfH9sgL9fjsyWlcPLBDL0bbtC9VnDthnDbyD7+dRBw=",
+      "manifest.json": "sha256-kjC4HrOiTt2LgWIeAhj+6nXu+n7rUf4/aEJIsTnGYYQ=",
+      "styles.css": "sha256-KNG1wE/PKeTL1DgZl9Ba6v2GVnzFmbxyG5VXbTzQF6g="
     },
     "name": "Neighbouring Files",
     "repo": "fabianuntermoser/obsidian-neighbouring-files-plugin",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "neo4j-graph-view": {
     "files": {
@@ -39348,13 +39606,13 @@
   },
   "nexus": {
     "files": {
-      "main.js": "sha256-F7xjUG6lw6C+Ty7nnNf2gw9TaRYpgwyUHjqRzVa7iW0=",
-      "manifest.json": "sha256-W3F38x6iwBhRqJm0VV1qi7wLDODjD7iJyZjd4puspwk=",
+      "main.js": "sha256-8Pcc/VolGPvjqMHQWvb9O8OPaLEy6GRBYg9oV16hzvY=",
+      "manifest.json": "sha256-LSAA99bd/WSvtfaYxKj9VjxYv9e0TbQvOhTjdDvluC0=",
       "styles.css": "sha256-83gDl83i866EKXUj+OIJo/vbn/lLlUNJvNFCHGuqWl8="
     },
     "name": "Nexus",
     "repo": "profsynapse/nexus",
-    "version": "5.18.2"
+    "version": "5.18.5"
   },
   "nexus-ai-chat-importer": {
     "files": {
@@ -39785,6 +40043,16 @@
     "name": "Atomizer",
     "repo": "binxly/Atomizer",
     "version": "1.2.0"
+  },
+  "note-banners": {
+    "files": {
+      "main.js": "sha256-sJjGTd1cwy/4qW0bRaNLwoAEJzzJ7qLSMng16aSDqmU=",
+      "manifest.json": "sha256-UFofgKUbwEwiYwFfwDatqmq8aGg5to5Tadu+x/5Ll4E=",
+      "styles.css": "sha256-cyiTWNLLHgub08e3mbxfOTYqh8v9KYSo16i6PCYBIac="
+    },
+    "name": "Note Banners",
+    "repo": "bagoftips/Note-Banners",
+    "version": "1.0.3"
   },
   "note-batcher": {
     "files": {
@@ -40476,13 +40744,13 @@
   },
   "noteflare": {
     "files": {
-      "main.js": "sha256-PgIw11r+3Yuln/rI6+gLJZyMFbXr3as9EKfGXOiyeIo=",
-      "manifest.json": "sha256-J9SY5wXuekP5WL6kurJUMiYyOs3falnCLSTSxIgl7ag=",
+      "main.js": "sha256-1Ehy78JDpYlu9h4RREQpZfVNWv4yt7ngpSCjmtU9B9A=",
+      "manifest.json": "sha256-iSlLLEszn4jgKPp/v6mWHP43nPhuJin7ld8hwcf9AEQ=",
       "styles.css": "sha256-cbpmRCXkOuUQjXLIbfCB+JAFOQAQ+0Ax4qrlsYpH+U8="
     },
     "name": "NoteFlare",
     "repo": "thansheer/obsidian-noteflare",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "notekeeper": {
     "files": {
@@ -40652,12 +40920,12 @@
   },
   "notes-to-strapi-export-article-ai": {
     "files": {
-      "main.js": "sha256-JBhqYUyyIVEnxSnRKMM2FnCnqvAocLunD3l4W5wigcI=",
-      "manifest.json": "sha256-+40V9Yx3a0GkEZcvgOaksByRTOQwHZcoJH1B+TnyNtY="
+      "main.js": "sha256-4gd8AAaOEN+06R5ovsV9PNkxtG5QurCXuA8NuNGnLCk=",
+      "manifest.json": "sha256-4zwtV8WqpJabxf9nUpb39hMQcHNz1/tJ0hQn3y3Jm60="
     },
     "name": "Strapi Exporter AI",
     "repo": "cinquinandy/notes-to-strapi-export-article-ai",
-    "version": "3.0.414"
+    "version": "3.0.415"
   },
   "notes-wifi-sync": {
     "files": {
@@ -40680,13 +40948,13 @@
   },
   "noteshield": {
     "files": {
-      "main.js": "sha256-Rj7I/CBT07emHwq/0Q70Fgz0f4cLJQ3HX9Irj23TJAk=",
-      "manifest.json": "sha256-EqbjjlciH+NTZiWuQvZYtHwWErEQzVemKpaqAnBDvOo=",
+      "main.js": "sha256-FOI48XLCrhKUGOHNoXERAuM81spwzwbeUqv32ZaA/0E=",
+      "manifest.json": "sha256-fesqbuFVvzIhWHi1Mg6qDTgyvkuLu3mORunh76AeAPQ=",
       "styles.css": "sha256-1AT1zaf63Vvdxk6oeJKq3A5OwjbQQlPvsSrJXdF4+BU="
     },
     "name": "NoteShield",
     "repo": "vypeoux-glitch/noteshield",
-    "version": "0.1.2"
+    "version": "0.1.3"
   },
   "notesmith": {
     "files": {
@@ -40748,13 +41016,13 @@
   },
   "notion-bases": {
     "files": {
-      "main.js": "sha256-YQ0UVpaVEkCHWsCVzsuzO0Pt+XKhgB7aqx8q72T+O4k=",
-      "manifest.json": "sha256-rbi2g5IWKs8ABtAYMATMT88oX3pZqnQE8FVzlzBc7lw=",
-      "styles.css": "sha256-F1sdTnlPM6JtmG3GnXyFA78ZAtlO+PEhAlZcgEHeGB4="
+      "main.js": "sha256-sbbpg7qXLN5GE5XQw4kRzixPTlOVO4oY+HSAHe3Y6JM=",
+      "manifest.json": "sha256-DJpqI3CTJZrFakvrrd2FRV5Re0mS0UASBWu8BeYMpGo=",
+      "styles.css": "sha256-st5IIw39ZY/sFRbjTixn6Q4i1yuV96XjUZ5m9xBF3Ok="
     },
     "name": "Notion Bases",
     "repo": "bgarciamoura/obsidian-notion-bases-plugin",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "notion-block": {
     "files": {
@@ -41034,6 +41302,16 @@
     "name": "Nux Exporter",
     "repo": "jasonqg26/Nux-Exporter",
     "version": "0.1.1"
+  },
+  "nvc-toolkit": {
+    "files": {
+      "main.js": "sha256-1GoybC6iguCRrcS/i0hkVBUXQLrEyocAZl0a1F35LQ0=",
+      "manifest.json": "sha256-mS8oPkb+wjYHq63iJu7Waxzwl2EOzSfDDvjvjr5EZmk=",
+      "styles.css": "sha256-dpvf39a7WlIi69gs58ljxWho07R1j0n7UIcEfZfq/68="
+    },
+    "name": "Giraffe",
+    "repo": "jmagaram/nvc-obsidian",
+    "version": "1.0.0"
   },
   "nyanbar": {
     "files": {
@@ -41514,13 +41792,13 @@
   },
   "obsidian-awesome-flashcard": {
     "files": {
-      "main.js": "sha256-KuEDzr4j6CNWJXnJizqOcfqUrh25F/X0USOal10cv0M=",
-      "manifest.json": "sha256-6v/foRUwkHB88gQWnEVALXEii+RQqW4/mhxB0aTgNOQ=",
+      "main.js": "sha256-lILuvl8UOG7Otz0L35AzzUmhrN/dRAw9XPwHuCL03bE=",
+      "manifest.json": "sha256-tr01rY+B7JBpqz3eZoQL9o2rGrTgc0S0yvC78LUEllw=",
       "styles.css": "sha256-HWajDScc1dmwozl3bsetQDEOR8tD9ykgFXj9l4JSEQk="
     },
     "name": "Awesome Flashcard",
     "repo": "awesomedog/obsidian-awesome-flashcard",
-    "version": "0.1.6"
+    "version": "0.1.7"
   },
   "obsidian-banners": {
     "files": {
@@ -41942,13 +42220,13 @@
   },
   "obsidian-custom-attachment-location": {
     "files": {
-      "main.js": "sha256-FwoqOK71Xg53JcMq+U6tkiWR5Y0HcEPAtORuyeLejoc=",
-      "manifest.json": "sha256-m97jaVqYPRUA1DkzGK9v9EUjAErjBDVfmrp5ZdQknCQ=",
+      "main.js": "sha256-+dMZgDPcwpAA8miCVsZrwKOY6dd7jpIKVvzmjzEfLDI=",
+      "manifest.json": "sha256-QemFvfgdJQjxp5tp7n1mTmaOa7JJgXSJ7YHQfqQJkOM=",
       "styles.css": "sha256-pnW9rM9qqkA99xve4Fg7+MobSjBI8oMVN2mxVvuy988="
     },
     "name": "Custom Attachment Location",
     "repo": "mnaoumov/obsidian-custom-attachment-location",
-    "version": "11.11.0"
+    "version": "12.0.0"
   },
   "obsidian-custom-file-extensions-plugin": {
     "files": {
@@ -43215,13 +43493,13 @@
   },
   "obsidian-livesync": {
     "files": {
-      "main.js": "sha256-BZpYr9EfNMUV9rd9my3LnS8y3V/O2VJax3qwwapMBks=",
-      "manifest.json": "sha256-9C7vCeV47kSaGWgQuMp4p8BqTwOVZGY8tpJgxbP+RSU=",
-      "styles.css": "sha256-95NMfjVbU1JbmKZRHqn+YSJFmii9ZX8Z9XmwjA+m5to="
+      "main.js": "sha256-/bDmk39i9EbuVcAkiTZPR3eaX2Ik3boq0WkdMngQbeE=",
+      "manifest.json": "sha256-g3GDvwD+ejS4HNGUWbviAZd4cJB2Zc1g2OIoj373Vc0=",
+      "styles.css": "sha256-S6AL70F+6Y2aYt2f67eS3GVVlJz8no4GlFCtaZqyufA="
     },
     "name": "Self-hosted LiveSync",
     "repo": "vrtmrz/obsidian-livesync",
-    "version": "1.0.23"
+    "version": "1.0.24"
   },
   "obsidian-living-graph": {
     "files": {
@@ -45185,13 +45463,13 @@
   },
   "ochat": {
     "files": {
-      "main.js": "sha256-nIFF+LcMZiurgrtLnDrPW7YwCMNGE/drgJWN8pHe610=",
-      "manifest.json": "sha256-YN5hwG2cNsqvPONP/GRcYxSocB2NzeGW8GdUniHq/hc=",
-      "styles.css": "sha256-tPicd8t4nXbDnumTz6Dziz2kt75GlCilxu/4k8HsR84="
+      "main.js": "sha256-LhmRenXWNwL7ENZUA0QAUETHFMwx/8C4sgaKz0h0uyk=",
+      "manifest.json": "sha256-lMB18LAO8NzN7JiMiyFY0EhrGHeEku9eQefvevN4rMI=",
+      "styles.css": "sha256-6m4LIeZs+CV8OrtVpS+75ZuULIF0mZ6gOB+DejATyKw="
     },
     "name": "OChat",
     "repo": "raniendu/OChat",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "ocr-extractor": {
     "files": {
@@ -45491,13 +45769,13 @@
   },
   "omnichannel-diary": {
     "files": {
-      "main.js": "sha256-OFOuH0yHp/honFnaNmess5FuR8Bpgf05EQuUR84bHjA=",
-      "manifest.json": "sha256-8UKQ2AAOAU/KCbj+hjq3c32T+AUOQXaJqpMPINVAvDY=",
-      "styles.css": "sha256-tafVCkWeaerzIEbIMVFohmC/9LYe2z4M7eFYMTDrzzU="
+      "main.js": "sha256-QVBvTXUq5YtXIgAbH/8DnfTuywSQgH1kM3Va5PpKAVg=",
+      "manifest.json": "sha256-Qd1NEwlqW4K2t5YMQs1vo6Irw0ZkHhmn6uuBHhCzZiY=",
+      "styles.css": "sha256-3g4aZdy7F2Kxs70fBoFYeUAA3EI8ZPiJAWzO/cV1WCw="
     },
     "name": "Omnichannel Diary",
     "repo": "ai-scarlett/obsidian-omnichannel-diary",
-    "version": "0.4.9"
+    "version": "0.4.11"
   },
   "omnidrive": {
     "files": {
@@ -45923,12 +46201,13 @@
   },
   "open-pdf-translate": {
     "files": {
-      "main.js": "sha256-9fYPG2JlWcOsUlalCoscXc5Ifu/6iW3lwPyWyqDyzm8=",
-      "manifest.json": "sha256-DeiL6A3Q+tvgGjsGkyw/nK78AD1/Px0q2TmlC24Mzmc="
+      "main.js": "sha256-4CVj6CFoTS8MkUg4bRON65W3Z8XaBiwi21RfH1EPWSA=",
+      "manifest.json": "sha256-uwhjk0cGf/EcAuXwjHJJ0+6nQjMMwe3EMw+wwiT7DHI=",
+      "styles.css": "sha256-7mvJ9U3rZWuZ1O9zoXETF6DHXhNv3EBNS81NomWRUpE="
     },
-    "name": "OPEN PDF Translate",
+    "name": "OpenRouter PDF Translator",
     "repo": "vetrenar/Open-PDF-Translate",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   "open-plugin-settings": {
     "files": {
@@ -46106,13 +46385,13 @@
   },
   "opencode": {
     "files": {
-      "main.js": "sha256-AXnYLN5K5n/pU6FdgokpI6Rjjcfe3bocwGCGHNS3NIA=",
-      "manifest.json": "sha256-F2LonlGO4n2r8mSTXbO3PTDut0KCmSYK4xzPaYODdAs=",
+      "main.js": "sha256-xVl3SXwcHOuRUjYGc7xGv9NYLiSYpC8A2ybyADcN++0=",
+      "manifest.json": "sha256-JvX0aMVm/CvsamI2RAVVcv9w3RrBjvzhxNyPGplTCF4=",
       "styles.css": "sha256-O10Gt2UFdOLvuroZPiByoo4lDLqd2VikgH5myP+/XYM="
     },
     "name": "OpenCode",
     "repo": "kriss-spy/obsidian-opencode",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "opencode-links-graph": {
     "files": {
@@ -46184,13 +46463,13 @@
   },
   "operon": {
     "files": {
-      "main.js": "sha256-h6jYlmHTjpEj8GiQFcMbUhWL4EzCRicFRFVyqx+lXQ4=",
-      "manifest.json": "sha256-vwVXDvZeoe0IJuO0jojhRUEQQE5cFSwXzPoP1sv4ypU=",
-      "styles.css": "sha256-FxhMT8SeAY4xVIHPOgMoop7mvI80qp8hHYCrekGNoWY="
+      "main.js": "sha256-/IejL0IEILB/nlEJxb89fkBPxtQBzAUMQQtrbYk1FkI=",
+      "manifest.json": "sha256-wTIpRQx3ofvtZp5YDtBuAV+XbyB9Sx996SE2x5LCseg=",
+      "styles.css": "sha256-haKZ+xRzywLkb2uEStvEwc1UIqsr9ECYeYSHttxJ5R4="
     },
     "name": "Operon",
     "repo": "hasanyilmaz/operon",
-    "version": "3.6.1"
+    "version": "3.6.2"
   },
   "opml-editor": {
     "files": {
@@ -46312,13 +46591,13 @@
   },
   "oriko": {
     "files": {
-      "main.js": "sha256-4gHQ3f0NLp7g26OMm1/MZrIM1ZjQVPxOxxj1XXSTbdE=",
-      "manifest.json": "sha256-nV59L6Iq+QRBZ2K9eUfQhU3AUtNZuR/yVMnvsu8pvh0=",
-      "styles.css": "sha256-FJ2gqCUjsPXEuaFIbZAJaEZ/a4Yo0dUk3q0T0Mbo7Hg="
+      "main.js": "sha256-xM7DMXeD3e6n5GbhBFNf9giD64OnTV37mWOez8xvXt8=",
+      "manifest.json": "sha256-4F7PGZC8REyLGhgHniGFcFmsC7YJhu7ZC9J3NCPZr8s=",
+      "styles.css": "sha256-AfnK320kq0X9xdW7f6VPcQmmpEX9tBE/WglQzi3TbmQ="
     },
     "name": "Oriko",
     "repo": "trevware/oriko",
-    "version": "0.1.51"
+    "version": "0.1.53"
   },
   "orion": {
     "files": {
@@ -46339,6 +46618,16 @@
     "name": "Orion Publish",
     "repo": "seanrcollings/orion-publish-plugin",
     "version": "0.2.2"
+  },
+  "orphan-cleaner": {
+    "files": {
+      "main.js": "sha256-LHfDHs9iDeoMRPmaBJ45LhDfqGYlb4QnlI5Ok5UXHPs=",
+      "manifest.json": "sha256-saikcUA8PLD64lBoFs43ZNsuHzpCWr/ZaewNECYO75Y=",
+      "styles.css": "sha256-BVWh9ydEh9ZyZVX6q8eIyx6T2SmnaNb0E6Uo71HqjVs="
+    },
+    "name": "Orphan Cleaner",
+    "repo": "trbatukim/obsidian-orphan-cleaner",
+    "version": "1.0.0"
   },
   "orrery": {
     "files": {
@@ -46408,6 +46697,16 @@
     "name": "Our Kyobo Book Search",
     "repo": "hantae-ho/obsidian-our-kyobo-book-search",
     "version": "1.0.0"
+  },
+  "outcrop": {
+    "files": {
+      "main.js": "sha256-/95KRrGdXRPui/P1xHxRHrmGQURM+269VM55QNRTCrw=",
+      "manifest.json": "sha256-PeZ0ezyg/NMY0kscUC1lCU4sMpoHN2jkfu/kCIXppMc=",
+      "styles.css": "sha256-Pxau7UtEmtepRWE1LpGzILH5WPTP3Qw7OcC6buqatBc="
+    },
+    "name": "Outcrop",
+    "repo": "sanketsaurav/outcrop",
+    "version": "0.1.4"
   },
   "outline-converter": {
     "files": {
@@ -46556,13 +46855,13 @@
   },
   "owiki-sync": {
     "files": {
-      "main.js": "sha256-PixwwZEXXPqFceDi/0U0yv3Ap3uXRM6WLRIIZj/zkus=",
-      "manifest.json": "sha256-tEv3szcpTQYW8MdSSA3rq6mFFhJrMU1J/a8h7TsLur0=",
+      "main.js": "sha256-36mDT+ch/OTjLybgkZ4GGswrvncvP+yQ6xhBQM0sHHE=",
+      "manifest.json": "sha256-0ALJxZwdabXx4dtPkU03DywQCJNI9HpnqbfNie6Erbg=",
       "styles.css": "sha256-UuPoLCF3aMmoLu1LpGcc0X52SONossgPGTuBBcVAt9k="
     },
     "name": "OWiki Sync",
     "repo": "johnhom1024/owiki-sync",
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   "ownly": {
     "files": {
@@ -46771,13 +47070,13 @@
   },
   "pakcli-table": {
     "files": {
-      "main.js": "sha256-z9L9yLkSC+8fVL5IyLekhZ92vHjxIpRpB069pssTyco=",
-      "manifest.json": "sha256-eCnBD21Tqn2I3FRDgwoDBdQv57cpyVKttGUsN4OhEx0=",
-      "styles.css": "sha256-6zbS2rsuEZBz5m+20a0aeOpjrDpPkRXYMYJi2kOznLw="
+      "main.js": "sha256-XZpy25CLk1SZzGXkCIwBGnwXKPII+ZGB27bTpq2WKms=",
+      "manifest.json": "sha256-osNY2IBwQC0mJHuvK0XaFLN8SBVzHD4fZUlCH6UWnZ4=",
+      "styles.css": "sha256-zJr+wYdN/fkTpBD8tJrRqHHXATc4Ktiw6FPunboFXb4="
     },
     "name": "PakCLI Table",
     "repo": "pakcli/table",
-    "version": "1.0.23"
+    "version": "1.0.29"
   },
   "palette-vault": {
     "files": {
@@ -46821,13 +47120,13 @@
   },
   "pandoc-gui": {
     "files": {
-      "main.js": "sha256-CyXPo3VjVVRzvSkQjpEITFkAzQh9DloxCR3Gkilhm6Y=",
-      "manifest.json": "sha256-tzlSMkZd/YdsIwAJZY9nIg/SHof8AV6qKS9bgaLlKTw=",
-      "styles.css": "sha256-VvIB8zxzef8mC0gfQj86C+xn1Yf3dWGmG2snxsJUxtE="
+      "main.js": "sha256-5vzpvkXTho5yugXL80nkSzattRYRgVbgkXiimbKWLzc=",
+      "manifest.json": "sha256-g2cIeo5V82KNF6gDCj5e2qY94acxmx45HC9mrK+ESRs=",
+      "styles.css": "sha256-jXzn8txVcnMpO3wfNc9tRajl3UHskqVGMwAZKRXR5jQ="
     },
     "name": "Pandoc GUI",
     "repo": "pan4ratte/obsidian-pandoc-gui",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   "pandocit": {
     "files": {
@@ -47777,13 +48076,13 @@
   },
   "periodic-para": {
     "files": {
-      "main.js": "sha256-jkxcWcD7v1NJ2q0Sfbz8y23arMtZM2r1F14Xrf8LCBg=",
-      "manifest.json": "sha256-El3WvYxtrUDmnsNF1VU9nZ785pHDp7oXwOWPAF9fzsY=",
-      "styles.css": "sha256-JOdJaUCVyHccpWX/Yt3wCmbBi3mfJS6FGGOWIZdgo/k="
+      "main.js": "sha256-P1AP9XKUG/xlZe725Wck5yyrs4ZypBaLBm0FPyzt/1w=",
+      "manifest.json": "sha256-8cvbjgo5fO+/+VXPG0jGv4DJIIOGx9yX+Y74h1jY9Tc=",
+      "styles.css": "sha256-wMfTavndMOKAISUiSDq+9tV17FclNrveRPclooWc6Lk="
     },
     "name": "LifeOS",
     "repo": "quanru/obsidian-lifeos",
-    "version": "1.25.3"
+    "version": "1.26.0"
   },
   "periodic-quotes-widget": {
     "files": {
@@ -48153,13 +48452,13 @@
   },
   "pidian": {
     "files": {
-      "main.js": "sha256-cAW0TgHefyMRzNmSnC+OmXJ0q8h9gdzgaEq9WNEdvpI=",
-      "manifest.json": "sha256-A9osTLYtAJwkKO5AT8QU2oCjDOlUfGXYA1kT41BNKsI=",
-      "styles.css": "sha256-ucl8ZfOSxe4Kfp7OJK5ez+uGJqN4Q8GJDiuuqJwM+A0="
+      "main.js": "sha256-1Z6pMyXp4WsWpOSSOUYBnRE0X69HZC0e1g3Z3q+YPjg=",
+      "manifest.json": "sha256-zH2WCgbvE/BOLYqP4dLOlrPMe1fO2LPGs22PeCb2Vs4=",
+      "styles.css": "sha256-XzF3TV2ug5B2LTQ/0seZZdDTHsWk4uoiIX4FmWDbDes="
     },
     "name": "Pidian",
     "repo": "yuru7/obsidian-pidian",
-    "version": "0.8.1"
+    "version": "0.11.0"
   },
   "pie-tasks": {
     "files": {
@@ -48183,13 +48482,13 @@
   },
   "piem": {
     "files": {
-      "main.js": "sha256-/42Cdcx8NApb5lGEr2cllB+Kom8FqbUQsNG7E7ZFQSQ=",
-      "manifest.json": "sha256-vkt2VudraOMJpx4ZEto6IgMYAS8/oUGujK8A4njjAts=",
-      "styles.css": "sha256-he11uXKDewa2dtJjyh6ldxVcUWtSCUGQUWsbme2isI0="
+      "main.js": "sha256-jyvQKJqGwttsVdCC3aZfmCkWBBjJmFYm1tBCXbQdQUk=",
+      "manifest.json": "sha256-GOJfxtihFR2AYjLaU5V+Z1fNuPNjJP6JjeP9PLa/JHU=",
+      "styles.css": "sha256-oX7dBBb6m9f2pWYGmKeFfXB7HhHf7l883tia+Osy/7c="
     },
     "name": "Piem",
     "repo": "youngsx/piem",
-    "version": "1.0.11"
+    "version": "1.0.17"
   },
   "pika-publish": {
     "files": {
@@ -48671,13 +48970,13 @@
   },
   "planflow": {
     "files": {
-      "main.js": "sha256-5TuPnVOU0I8Hb4DtgCTeIq+WVgrX42eK8uHcbuYsQBc=",
-      "manifest.json": "sha256-JpuHi8JnSZieEdWCXPXUzCskPqHolruP1jjlnQN8DMg=",
+      "main.js": "sha256-2hPZhqRhF3PNXf7ALI7LaW6CLoligadP5FM0rdsDSiE=",
+      "manifest.json": "sha256-xDaG44Lv01JXEPA290zYU/oOcTjPsF7AJx99Ral3NkI=",
       "styles.css": "sha256-AnuXgXWnP5IZvzI/iF+4a5lFo0cXKbkgf99KBNJhVWs="
     },
     "name": "PlanFlow",
     "repo": "yezhangdeng01/PlanFlow",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "plantuml-integrator": {
     "files": {
@@ -49455,13 +49754,13 @@
   },
   "print": {
     "files": {
-      "main.js": "sha256-Iu6HmMDD+NBgJC1oITvSDO1QWH4hu5dahrO7XHunAmg=",
-      "manifest.json": "sha256-4l3T8WoPl/6yJfilOaVKGdNrlofurYVi/Unuw/e3Gas=",
+      "main.js": "sha256-f5JW67wkrvXl1+k9qp1kNZkbiSUwaQcDb0BEztM+78w=",
+      "manifest.json": "sha256-6dXuHxvv4al1Be79BZ1L25EEx9dGScM/kRuC0HXrPOY=",
       "styles.css": "sha256-vwQdfo+z2YnuUr4LDUkdpRX8prFBvYtChwKv3UtgJi0="
     },
     "name": "Print",
     "repo": "marijnbent/obsidian-print",
-    "version": "0.6.3"
+    "version": "0.6.4"
   },
   "prior-art": {
     "files": {
@@ -49664,23 +49963,23 @@
   },
   "project-manager-enhanced": {
     "files": {
-      "main.js": "sha256-HasMToH+p42FEGkTVpYE+o7XUv2ZIEO7Jji+/kRgWuU=",
-      "manifest.json": "sha256-mHAqGhc8nzRbIBMmTlUOAPRTwj8Dqo16B5qjYx8UlDY=",
-      "styles.css": "sha256-Nm4opW4Am6axA1M5J2J3RfVxHtTD2qB3ILkBniXpPR8="
+      "main.js": "sha256-bzYyLAayqOUXRETt2WshfXijcRBCtX6hMYFGECwdo64=",
+      "manifest.json": "sha256-xvEdXldee/XbGMZQSYZz9if9ub+I3mwO5hiBiYhRXK8=",
+      "styles.css": "sha256-FwH+G0Q4fhTyBEUaDvCFA/nXw4cM1Tx8y2Eg+tJ746Y="
     },
     "name": "Project Manager Enhanced",
     "repo": "fzk177/project-manager-enhanced",
-    "version": "1.3.2"
+    "version": "1.4.0"
   },
   "project-manager-insights": {
     "files": {
-      "main.js": "sha256-+7q+IJG0+inYnDRNEI/XOKBxQ44guCjKm302T6PYwbI=",
-      "manifest.json": "sha256-WioHmv7HMMt6ySx9v+0Hh6SsYTW5Ghd2dpkfOT8pbfw=",
-      "styles.css": "sha256-4pKS28UK+jZwD784aOdlji7aUrgOfJZTqrx8r2jiFEY="
+      "main.js": "sha256-0clpQ/+3stgfDDSAQ4kwKCHke/oc28n1kf2lkAbAtzc=",
+      "manifest.json": "sha256-lXTRn0LpU7ML0jwnwTz/jtjcfFxi4wKm+A9bcVWBtD8=",
+      "styles.css": "sha256-Ar/DWk0GvwILIQerVYZcjRGFRY8BV8YaVB2dl7TlNh0="
     },
     "name": "Project Manager Insights",
     "repo": "coffeecheese/obsidian-pm-insights",
-    "version": "0.5.3"
+    "version": "0.5.5"
   },
   "project-manager-with-time-tracking": {
     "files": {
@@ -50844,13 +51143,13 @@
   },
   "quickadd": {
     "files": {
-      "main.js": "sha256-cRYXupb80fmCV3sT1qDkd1tWEcnk+fLJ3MVN+oduzhE=",
-      "manifest.json": "sha256-bjvdPRn1mr+XRc0VoxBD32+DDrCCvWt3F3pzX4AeuqI=",
+      "main.js": "sha256-nPzkN6r/KTt/cuOl2GJD6OzJZ3tM3IlVbii4u44a3xk=",
+      "manifest.json": "sha256-lMwHJruoT6Bc66WswTcumc0wk/IcJkci/gvkf8Xfk9s=",
       "styles.css": "sha256-Sk4WEK+ubF0HLXsjxMukLIqvDWFtqm7nj7OrbXt6M90="
     },
     "name": "QuickAdd",
     "repo": "chhoumann/quickadd",
-    "version": "2.24.1"
+    "version": "2.24.2"
   },
   "quickcite": {
     "files": {
@@ -51051,6 +51350,16 @@
     "repo": "ramysami/obsidian-quran-plugin",
     "version": "1.2.2"
   },
+  "quran-key": {
+    "files": {
+      "main.js": "sha256-R1Jwh44EspJ6wSAqED7KRX3MNT8yeOYjUHdH2c1wubQ=",
+      "manifest.json": "sha256-17T3W/lXHh5fjoTARhjHxdApreCwMCDXIukXKNHPQqU=",
+      "styles.css": "sha256-AU3hsUN7ZBXSOX2ElfxIz+eTiZTAMs+2XrQV0zjEuYI="
+    },
+    "name": "Quran Key",
+    "repo": "mohamedsaleh0-0/quran-key",
+    "version": "1.0.1"
+  },
   "qvac-local-ai": {
     "files": {
       "main.js": "sha256-kK8dTJjGfKilzV1hFzQHDIywOtuXKrYJ3yANawUGIKE=",
@@ -51225,6 +51534,16 @@
     "repo": "jeanjean-rxl/random-retrieval-plugin",
     "version": "1.0.7"
   },
+  "random-review": {
+    "files": {
+      "main.js": "sha256-tD+CI8BccFA+fs8stNda6YNx+wwOz4KUyJfUKWgMQy4=",
+      "manifest.json": "sha256-h+S2mO9VIF3xDSP9KdGrH12hqXXAElD9tjwtMFGbkH0=",
+      "styles.css": "sha256-a0r32rJhgGfV51uM9HWKUyXpJFxealuFCFMMWZsYeVI="
+    },
+    "name": "Random Review",
+    "repo": "ktlamors/obsidian-random-review",
+    "version": "1.1.1"
+  },
   "random-structural-diary-plugin": {
     "files": {
       "main.js": "sha256-/+yg8ksvTwMmaJY0/a0Qa6vT720EE4ySznbmwl7w0P0=",
@@ -51266,13 +51585,13 @@
   },
   "randomness": {
     "files": {
-      "main.js": "sha256-maetGvjUtEcdB6+zKbSevT42PHJrpCnIAEVgAKPiddo=",
-      "manifest.json": "sha256-XNXTmBpyx6tL6fNPMTjcKB8lLFZZdvnsTecxXe4/CbI=",
-      "styles.css": "sha256-VAtZEMEypBmPKgJr2pE7Z9KavL6OwvxabLN6CpC2G/Y="
+      "main.js": "sha256-yEhfYS0b9HyhLCv5Ok6EhUo1lSlAitPnFoqmd7R2YM0=",
+      "manifest.json": "sha256-qPFfJMlpaicx6sPf4Ok3eVb/6SOUwqZd6NZUWP50agQ=",
+      "styles.css": "sha256-f+vlCCyXO1r5VTR1pdIyrzXSJCDMNp8OTrKdmjdE1cs="
     },
     "name": "Randomness",
     "repo": "obsidian-ttrpg-community/Randomness",
-    "version": "1.24.0"
+    "version": "1.26.0"
   },
   "rapid-ai": {
     "files": {
@@ -51365,12 +51684,12 @@
   },
   "read-in-edge": {
     "files": {
-      "main.js": "sha256-0QKtM+XKNCzPLsW4ZuY15tMb3i2h4Nu+ZPv661vXRQQ=",
-      "manifest.json": "sha256-Lnp10LZnVs7scC3cYpwZYeYW5cFi18Wbvwq77uUGNi4="
+      "main.js": "sha256-e+mXwcq0zxOlfLumyV5JtVPxEFNYn7kCvgoaXybJ7rM=",
+      "manifest.json": "sha256-FfwUoK6VE20TkqVyynTjy22cFPq1sLPZ5wjXW6ypqqM="
     },
     "name": "Read in Edge",
     "repo": "ooheroism/obsidian-open-edge-tts",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "read-it-never": {
     "files": {
@@ -51697,16 +52016,6 @@
     "name": "Recap Raven",
     "repo": "recapraven/obsidian-recap-raven",
     "version": "1.3.0"
-  },
-  "recent-edits": {
-    "files": {
-      "main.js": "sha256-tnF7IuHQ5rflFZaS49rr0a9qrSM0ThaP02fdUL2iRUs=",
-      "manifest.json": "sha256-mw8wzRiQGWbBirgXjnaWddIwcpfX2MZatgWuz4fESkM=",
-      "styles.css": "sha256-7PA1NDn9DVdYogcds+C/r3QHIts8ufHDbaAviA2zVEY="
-    },
-    "name": "Recent Edits",
-    "repo": "cwagner223355/obsidian-recent-edits",
-    "version": "1.5.0"
   },
   "recent-files-obsidian": {
     "files": {
@@ -53182,16 +53491,6 @@
     "repo": "kilowattrl/rpg-homebrew-importer",
     "version": "1.0.0"
   },
-  "rpg-levelling": {
-    "files": {
-      "main.js": "sha256-l2m50h854dhPDODPe+mOl9vyseJO9VyxULn48PyjUWY=",
-      "manifest.json": "sha256-bUoMXwgWLqigJuFYEUWtUqlXTajekVmm2p3ThhWHXOk=",
-      "styles.css": "sha256-usAhi895BSM5+lp+j61AuX/efRTZWGZwb5p8x5N9zoc="
-    },
-    "name": "RPG Levelling",
-    "repo": "bagoftips/rpg-levelling",
-    "version": "1.0.1"
-  },
   "rpg-manager": {
     "files": {
       "main.js": "sha256-wi6ToshUY42f5XPfQCb3c8DK/Gdd5U3ClFLdQqi7k9g=",
@@ -53323,13 +53622,13 @@
   },
   "rumdl": {
     "files": {
-      "main.js": "sha256-Po62iuIlQ6ILZ+0g0LfwogCf+zX++mUmjR3FxiAz7s0=",
-      "manifest.json": "sha256-Q2+NBnc6lwR1I9qmzhX1oS/JbNSsHLUanhnXoGymSNA=",
+      "main.js": "sha256-ZCXWFudZVb3ZJSUQfB7Fb9V+DpZQ1uYp1e3S8fQvtbc=",
+      "manifest.json": "sha256-6i1NCgelqteN8IsPUVKSPJvBO2n9CykWniKQ5eJI5oQ=",
       "styles.css": "sha256-0AJmnJCBVWY8pS89AZ/BzKaNVvIXOvlgdSd/hCIh8/s="
     },
     "name": "rumdl",
     "repo": "rvben/obsidian-rumdl",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   "run": {
     "files": {
@@ -54568,6 +54867,16 @@
     "repo": "neurocloud-activate/semantic-todoist-sync",
     "version": "0.8.37"
   },
+  "semantic-vault-mcp": {
+    "files": {
+      "main.js": "sha256-HqKw+KK5sV4MZo4h+9HtzPUK6E1OIMacRiWGuJAB9eg=",
+      "manifest.json": "sha256-go02yhoAqRGf8S6XXpXtybIZUTOAz9i3nRg0K35gSnA=",
+      "styles.css": "sha256-q6t3qDl0zLhTdlwLReEEDXQOUTSfGRBTk359JByOtL8="
+    },
+    "name": "Semantic Notes Vault MCP",
+    "repo": "aaronsb/obsidian-mcp-plugin",
+    "version": "0.12.8"
+  },
   "semlink": {
     "files": {
       "main.js": "sha256-5LYNuTH1gBN4LijL1mQ1KAwJePkMZDRWGSf6xkfieiY=",
@@ -54625,6 +54934,15 @@
     "name": "Send to Ghost",
     "repo": "southpaw1496/obsidian-send-to-ghost",
     "version": "1.0.5"
+  },
+  "sentence-capitalizer": {
+    "files": {
+      "main.js": "sha256-2JnNHRtvRsk0QnMpjNYdhpaPJTXpI905IbgvuM/MtBY=",
+      "manifest.json": "sha256-0lmIL/9sLDsUeESjKze/HMJT2N+Ux3C1I7Haqc04OmE="
+    },
+    "name": "Sentence Capitalizer",
+    "repo": "kosperun/obsidian-sentence-capitalizer",
+    "version": "1.0.1"
   },
   "sentence-enhancers": {
     "files": {
@@ -54696,13 +55014,13 @@
   },
   "session-reviewer": {
     "files": {
-      "main.js": "sha256-2+5XNYv7rzCe9KcDYsAoCTjBenkqDPpbEAyZn9WEkLA=",
-      "manifest.json": "sha256-hpImgkNB0GqntisYlMPbGvIamhYYx9koFHl4JQaTiXo=",
+      "main.js": "sha256-9XUWChEeIFdZKvZKOpy8gfeeuUBkCivcq/IjxL8J2wM=",
+      "manifest.json": "sha256-voBVbj5J7EKs+W0UVsgL3TQ4gS9kTSIAGZLhpkrFuiI=",
       "styles.css": "sha256-zi61jgI6hxP/lsdiU5GXquESjUyBqL43cmkBq91FK8Q="
     },
     "name": "SessionReviewer",
     "repo": "neomei/SessionReviewer",
-    "version": "0.2.13"
+    "version": "0.3.3"
   },
   "set-to-root": {
     "files": {
@@ -54825,13 +55143,13 @@
   },
   "shadow-dark": {
     "files": {
-      "main.js": "sha256-vjbGusrgrWYjhebJ0vfHwrlx7qJC1FW5xlbpwS1yiec=",
-      "manifest.json": "sha256-0xSFGud/4mabyWbj8BBkruRPvfs6hrX1fSrWfNCLKnU=",
+      "main.js": "sha256-tY6u96eaxrGR+eZiRt3UXxD52sZg3/fT6TTN/cd4WO0=",
+      "manifest.json": "sha256-zhFGC6+dFL68WsPvAKMFNuaqgsFVYhq0AbKPmB9S+dc=",
       "styles.css": "sha256-ItWDFJpYg0VfXFKgQO9UuWANK6LEGtPg8XctOmd9umo="
     },
-    "name": "ShadowDark",
+    "name": "Shadowdark Tools",
     "repo": "p-mercury/obsidian-shadow-dark",
-    "version": "1.0.8"
+    "version": "1.0.11"
   },
   "shadowdark-statblocks": {
     "files": {
@@ -55115,6 +55433,16 @@
     "name": "Shortcuts extender",
     "repo": "ryjjin/Obsidian-shortcuts-extender",
     "version": "3.0.0"
+  },
+  "shorthand": {
+    "files": {
+      "main.js": "sha256-XEoJMSKXS0OiqEZGteHvoxBAyt5IkkHra/Wn9axR3gY=",
+      "manifest.json": "sha256-sB3TAPGqzvG6eo2BmBUWfY8I2ijHQzpr65y2v8bgNtU=",
+      "styles.css": "sha256-ROgyXT4UqpIkziMUgBZvIAKDayf4suX9eg1goXsKI5E="
+    },
+    "name": "Shorthand",
+    "repo": "mshish/shorthand-obsidian-plugin",
+    "version": "0.6.6"
   },
   "show-all-hidden-files": {
     "files": {
@@ -55699,13 +56027,13 @@
   },
   "simple-gallery": {
     "files": {
-      "main.js": "sha256-AKDIDK022QJBJkXTreDriOTLC8PqBQ3h67bayQ5f3TA=",
-      "manifest.json": "sha256-UgHUBJ/jO8iX3igDp/aZNUNMXUnRDwPQNRfVLgLzJCo=",
+      "main.js": "sha256-T8dGwqZmfXlI7LJTNGOwxvp2XTxOrhbGWU6RSjdi/M4=",
+      "manifest.json": "sha256-/wWm7FJl5QRx5B8gWtNlNIyaft0QGeTpfzQvmUlyz6c=",
       "styles.css": "sha256-dIe40aJ6dyuiS+PCKObqRdXE34GB2FFLFOIRGDyjJ2A="
     },
     "name": "Simple Gallery",
     "repo": "haivri/obsidian-simple-gallery",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "simple-git": {
     "files": {
@@ -55767,13 +56095,13 @@
   },
   "simple-journal": {
     "files": {
-      "main.js": "sha256-5rZ62dJNMpIwrr1vnArBIcANnUp8IyBXOnDzl2DtqTU=",
-      "manifest.json": "sha256-TDlV865PEeX6oQ2TEe9ctBibOqtvSIP0RWogpvb36A8=",
-      "styles.css": "sha256-K+Fd2EF3ixstSXp5jUH0ebw8f7nF+ozJAcT26hvkTac="
+      "main.js": "sha256-+e+iugqB4rImCGFRIZ8VJASRRrPPoqb/ZR5//x0yUjw=",
+      "manifest.json": "sha256-jbmLcLERW6sWMSgWyQY4mgQ4QNpb/lOCusMXJisrSlA=",
+      "styles.css": "sha256-YIjHDUQ9ZlT6/NtWtutTnsSZ4SFJlMzwCOB119iKYM4="
     },
     "name": "Simple Journal",
     "repo": "ukaytac/obsidian-simple-journal",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "simple-kanban": {
     "files": {
@@ -56259,12 +56587,12 @@
   "sketch-matter": {
     "files": {
       "main.js": "sha256-cd7mFWSsIoC1GDDcbPbP+fng/xyS3E6iXtgiiTlNCac=",
-      "manifest.json": "sha256-ibDT5YKam6HA2XLY988oc5PtHKTBWNWFYlP2zJ5Pi4w=",
+      "manifest.json": "sha256-Tp7L2m+4VnxEHqmeb6yYtAXuB4pBAElKBVAzdiuUJ2s=",
       "styles.css": "sha256-VXtc07GLzQjG5nxV//OBjTL8OOdz80BdZw3Fu3DYw3U="
     },
     "name": "SketchMatter",
     "repo": "tylercarrol/obsidian-sketch-matter",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   "sketch-mechanisms": {
     "files": {
@@ -56515,12 +56843,12 @@
   },
   "slop-chop": {
     "files": {
-      "main.js": "sha256-tomQ2k3wT8BGzBkVMZlExLzZBwlRsAmhFoKjoFLGiwQ=",
-      "manifest.json": "sha256-uuMK962qrD/9sbJmenAkmU//z2Gsz77cJOz64fwNi2U="
+      "main.js": "sha256-jtWoF8JL25al4eb2sFbBq0aGt0abdkPyDV7i6Dlap7s=",
+      "manifest.json": "sha256-56y7aZi2jmXVJPlvX/QD9lyl5wG2GYPmhurKW13Qgxk="
     },
     "name": "slop-chop",
     "repo": "dcadolph/slop-chop-obsidian",
-    "version": "0.36.0"
+    "version": "0.36.1"
   },
   "slugify": {
     "files": {
@@ -57090,13 +57418,13 @@
   },
   "snowflake-method": {
     "files": {
-      "main.js": "sha256-Ckalgz8Av+7nqgfYnNQ5A1BvVe97wjCJijBBnSbjJHc=",
-      "manifest.json": "sha256-/roIrGAzvupr7FYKfC7ttzAi2TFCB7Qv9VXjHv1dM7M=",
-      "styles.css": "sha256-gg+W5yP82rlsqIHvmPq3ia7ukm1KI+cabHMw3S1Inc0="
+      "main.js": "sha256-eVqv/euBMeECtj8WrS7CNjdRLI3P52EMvh1Xu+rDUMk=",
+      "manifest.json": "sha256-wyf3tFZ5PmaSERizAe2UG/zVAhuYirwD5aZ2zYSkF08=",
+      "styles.css": "sha256-Flvts6EAzOmKfU+JcZ6IyYzj22OxWKX1ohZHMSkFtrI="
     },
     "name": "Snowflake Method",
     "repo": "zzpolariszz/obsidian-snowflake-method",
-    "version": "0.14.0"
+    "version": "0.16.0"
   },
   "snsvrno-tags": {
     "files": {
@@ -57150,13 +57478,13 @@
   },
   "socrates-pen": {
     "files": {
-      "main.js": "sha256-dUbrOx36HrEnaCThhC8SkeJKQMCLDz5cJoHkx+t1xc8=",
-      "manifest.json": "sha256-3ZSj6Btg/HleyW+Ax6zEaz15nyXIScd1MhMuRP9Z3uo=",
-      "styles.css": "sha256-y/D59UK9mqB/GMMHWIy+Q5N04tygXgpry1ufBoOgh68="
+      "main.js": "sha256-0sp9hgmfsZPfrdhIZqTQckyWqD9ViFkJZEwRonheihM=",
+      "manifest.json": "sha256-HD8hW8Fa1bFQopKuZKlJUW8tbiVtzZAP9FTnL7eRkK0=",
+      "styles.css": "sha256-7dfUQB3wQdHO8UIELzV4SdIRojlXDG5s8V+e0+QR4+o="
     },
     "name": "Socrates",
     "repo": "xesws/socrates-pen",
-    "version": "0.21.1"
+    "version": "0.24.0"
   },
   "softview": {
     "files": {
@@ -57190,13 +57518,13 @@
   },
   "solo-rpg-toolkit": {
     "files": {
-      "main.js": "sha256-yg3APoApe+rPx7cXpAxK0HdgiNmU3Z4dJUMzgU7ciEQ=",
-      "manifest.json": "sha256-1ryopmr/QKL/u5KJINlNKJ5z48yENG0sgjV2MA6wb5o=",
+      "main.js": "sha256-xAzilLHCaWOJHogS7Xip+FsfU8osXaSkNwx0bJDd2PI=",
+      "manifest.json": "sha256-635sMAOY2JmE6Ka8sKn/wqXnxfcrDXYA42u7eooiKFc=",
       "styles.css": "sha256-rNASvNy/PHe0tC0Gx9TFm5xhXMqXy/QkMKOzX3UDqeE="
     },
     "name": "Solo RPG Toolkit",
     "repo": "alexkurowski/solo-toolkit",
-    "version": "0.7.15"
+    "version": "0.7.17"
   },
   "solo-ttrpg-notation": {
     "files": {
@@ -58139,13 +58467,13 @@
   },
   "stashpad": {
     "files": {
-      "main.js": "sha256-DYkfY6EWs3mf4B7aO2pS0v3UM42nGZW/9QUXXBa9SL0=",
-      "manifest.json": "sha256-f7dgP1+Q+3eGJXn+qs0lPfUZQJOyl8Zy6RDNCidvKXc=",
-      "styles.css": "sha256-JKXsrY5SqU1BM/xs7lAbe1J7DL6Nizxu2sjSX4Io26k="
+      "main.js": "sha256-ET60deDJ+4yy80Tenbg0OA6EPgADm6756q1nZN03DuE=",
+      "manifest.json": "sha256-My2kEFVPqZywiiEW6tzs52tai8wnUuYB9nF0TalW6k4=",
+      "styles.css": "sha256-+utmeUK/0p94e7qGDi0qTGW2UchgS0qANX1OAPqJRIU="
     },
     "name": "Stashpad",
     "repo": "grub-basket/SP",
-    "version": "0.279.1"
+    "version": "0.279.27"
   },
   "stashpad-classic": {
     "files": {
@@ -58442,13 +58770,13 @@
   },
   "storyforge": {
     "files": {
-      "main.js": "sha256-EZckr9IWAzI1x4ej+6vyxCdXZfi/3KN9pXzwQCqz9ig=",
-      "manifest.json": "sha256-WxDDcm1gNWiZ6h7lZPW5/MUqtTUNbIiy7qvuTy4otjo=",
-      "styles.css": "sha256-nqSygkSWZ//nqIiwmsBohUO9pJcryPeeTaEknmhSClA="
+      "main.js": "sha256-8XF/s/qCXYMxVZSdjXOcbCW+1qlHNAjYOI0BJ9jK+Xs=",
+      "manifest.json": "sha256-v8oLJz4uX/tV5/UehPNkm+yIWlxHggRghY/15LO7iSI=",
+      "styles.css": "sha256-/e8Ey4fD5jlHXwOwQ0Q+9wsBNAhV8LbeCbQetd9paok="
     },
     "name": "storyForge",
     "repo": "kennyrn/storyForge",
-    "version": "0.16.0"
+    "version": "0.16.1"
   },
   "storyline": {
     "files": {
@@ -58571,13 +58899,13 @@
   },
   "streamient-sync": {
     "files": {
-      "main.js": "sha256-lerCQPDlZz3s87LPUP/OfjmP+MpIZhNPsq3Oa0nR97c=",
-      "manifest.json": "sha256-BrnI1/vEJp3chwKr/YPvJqS1D9hpcuX8qrGr2CWwQYk=",
-      "styles.css": "sha256-6vJDyU5ONcOU/2cpn7a3A5/t/WaCCHTm8Am8EVlUYmE="
+      "main.js": "sha256-xkY9CoOGf0QEmS0rHK7iz6LGnxzwTryE70OsR02eIgU=",
+      "manifest.json": "sha256-Xu8QgN0fQ5/C190+wCebzVmA+kSVbB1dPNZwjC8THBk=",
+      "styles.css": "sha256-pwyA0XaSTPDWPSIZQlLRXEBi0NZ3MZJxK1t1w14h4Pk="
     },
     "name": "Streamient Sync",
     "repo": "streamient/streamient-obsidian",
-    "version": "0.1.8"
+    "version": "0.3.2"
   },
   "streamradio": {
     "files": {
@@ -58701,13 +59029,13 @@
   },
   "study-time-statistics": {
     "files": {
-      "main.js": "sha256-nzJWFoAR4T3m00VbOZxMfqETb3zwZycmIelZ54XEhcM=",
-      "manifest.json": "sha256-bz1Izve2lJBTnzXyIgdca8lZu+wI9IdjEbz6yOBIkSg=",
-      "styles.css": "sha256-gQLC4bFnjDwi9utAQ+xul+wzC4CRhSc5loYdTErjBYE="
+      "main.js": "sha256-5qlSUkWOMynKS6f/JHn1I8LIthvonepgw/NU/8MYU4g=",
+      "manifest.json": "sha256-unSB/O81Fi2iGX+PbKKuPwfmPnbv3BaCMultqsZ66mY=",
+      "styles.css": "sha256-ya21eLHCWRbH6nO6RNQJ8QsnlJ0V3GwJvbxLNK2MCmg="
     },
     "name": "Study Time Statistics",
     "repo": "tanzy226/obsidian-study-time-statistics",
-    "version": "1.2.0"
+    "version": "1.3.1"
   },
   "study-vault": {
     "files": {
@@ -58800,13 +59128,13 @@
   },
   "style-tuner": {
     "files": {
-      "main.js": "sha256-1EueyLUhe2eJ0GL1jgD+MqQaOVBt01gaAKgsYESpV4c=",
-      "manifest.json": "sha256-nNzrbqoP3cgZG4fKQ1cPk007ZiesP4tdlHx8VmL1b+0=",
-      "styles.css": "sha256-vbdIPTtW8q5JKc1NYpf6pa7bsFhVl9Y8GyoFTWp5Ajg="
+      "main.js": "sha256-VZXsj/iXJ9P/h2Mkde+ATIlj1WIZkmYzcnhlc05N3L4=",
+      "manifest.json": "sha256-uGRpz7aICnQnXE3VySBdL6SGRXHfN6WyYxEqZRK0nAQ=",
+      "styles.css": "sha256-d3LJ0m0FwpUMbinP6JlnZp6ghVkSc+qwrOfhKoAzB54="
     },
     "name": "Style Tuner",
     "repo": "dyse-sofqi/obsidian-style-tuner",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "subdivider": {
     "files": {
@@ -59635,23 +59963,23 @@
   },
   "synch": {
     "files": {
-      "main.js": "sha256-z4kceNuXYGErM2M7o0/bQOKDatv/daFOrHL1g3yFffQ=",
-      "manifest.json": "sha256-LYhgdcYKbBS5e3mkc5JGIIViokFrm3MPn9mTl8ct8sI=",
+      "main.js": "sha256-GQ0nVR/plT0hKMur/Z+N3of2Yi/VlYnkuuMwwIqtxuY=",
+      "manifest.json": "sha256-I7amUZtU5uR/pCF+TiJGkS/LR+8l3jHAoEkkZlYmrwM=",
       "styles.css": "sha256-VLJ9K37QWha86Q+mB8cF0e/zBk2WbMgn9tysajTEJfw="
     },
     "name": "Synchrun",
     "repo": "hjinco/synch",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "syncidian": {
     "files": {
-      "main.js": "sha256-5TlfDEbNWhDQTUPMZdruHAuJ4Veivc1CAIxQiLPWmgs=",
-      "manifest.json": "sha256-OuMLkRWL5rZlS6KjVcA/tGi+lIilXBjOXpbR41TOT+A=",
+      "main.js": "sha256-PiGKUIk/BKpfJQv1z//DTVpi1IUyU5KMirnVH1ip9F0=",
+      "manifest.json": "sha256-n7C3VnRFxGaPi+pGJwoDvNoiEw01sb5nG++kbIx1ZRQ=",
       "styles.css": "sha256-igbq4W3gYsBQDuz3nIGlBrpl3GIUXDDWdqlk3a09WBU="
     },
     "name": "Syncidian",
     "repo": "shangeethsivan/Syncidian",
-    "version": "0.1.6"
+    "version": "0.2.0"
   },
   "syncist-todoist-sync": {
     "files": {
@@ -60061,13 +60389,13 @@
   },
   "table-csv": {
     "files": {
-      "main.js": "sha256-HFD1C5aCREk5eZddvGX205EdVkVL0oydNaba6AlZxFg=",
-      "manifest.json": "sha256-0SgWj5eF8/mhrplpJtlo4B31egIdrOSktkRnqhfAUKU=",
-      "styles.css": "sha256-oZOzu9LleAGZ33flD6Ol5T0qKiRrpCaP+NTaFmeede4="
+      "main.js": "sha256-fQNTF4pqNX16EUDJ5zi26gDLBxEEqUQ7vyupokkEwk0=",
+      "manifest.json": "sha256-RkHa051/W4iNpFSS9hm0hXVgN6uaVIPlelFoSk2kMIA=",
+      "styles.css": "sha256-l+AQo+Z1oF7bxo7nGAArpFd6V1QFJfP7Rst3hBmvMAM="
     },
     "name": "TableCSV",
     "repo": "crossbeat461-a11y/table-csv",
-    "version": "1.7.0"
+    "version": "1.9.1"
   },
   "table-dashboard": {
     "files": {
@@ -60168,13 +60496,13 @@
   },
   "table-of-content": {
     "files": {
-      "main.js": "sha256-e9ourtFo4mRh5sThsqmTaHjVRkYrZu9IQDl1DBpri7U=",
-      "manifest.json": "sha256-Kpy72d50Ox/It1mAxjcBnFqiqXtWCcXLPMsRqS72WJg=",
+      "main.js": "sha256-HCE9kUhpNZccm3slEJRUO+vinFJVb9k97ewyUjpQ9qw=",
+      "manifest.json": "sha256-KQl3rVhpcg/MR3cZAO3VAsT432Es8VHwS/DHtEpL9a4=",
       "styles.css": "sha256-h2QkPK4DUevbt253DE/v/LGVb/QkINTsFZIS3HqFNe0="
     },
     "name": "Table of Content",
     "repo": "secum3r/table-of-content",
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   "table-of-contents-automatic-but-compatible-with-publish": {
     "files": {
@@ -60374,13 +60702,13 @@
   },
   "tag-group-organizer": {
     "files": {
-      "main.js": "sha256-fZdSoM7mF3igqYv8ZY/IMmZlyTjyTY8pKJvm1XJhYmY=",
-      "manifest.json": "sha256-zhAk/jsJhIG8ib3smwX0wAVlRhfVxjaqo8iMw2bTf3M=",
+      "main.js": "sha256-aIjIpOm0B7pqfVEoksE9WxgWSY/jYwm6etd0l6hISV8=",
+      "manifest.json": "sha256-X3S5jL0z8mD64IzYYz+wGGzhp/j7yp9/1BY+K4sfYGA=",
       "styles.css": "sha256-zc3xwmKZrtm9QTaEt1fcTkOCfk1cHe2qbeBzW6a4pOg="
     },
     "name": "Tag Group Organizer",
     "repo": "inoriakiha/Tag-Group-Organizer",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "tag-index": {
     "files": {
@@ -60618,6 +60946,16 @@
     "repo": "nicholas-wilcox/tailwind-snippet-obsidian-plugin",
     "version": "0.6.4"
   },
+  "tally": {
+    "files": {
+      "main.js": "sha256-oRrvJqRKfZNz964ONtib7DS/b+wwTk2tTmqeoY3KzoI=",
+      "manifest.json": "sha256-DNI83IUAxNyX2TlWZUhVdwlI2oDVAlW7lBqgAz7GvjU=",
+      "styles.css": "sha256-5yYVk4mZyBfEgIdSA+oIwkpQvCEz0QnE2DsCO2vxerU="
+    },
+    "name": "Tally",
+    "repo": "virus7976/2026-09-02_school_habit-tracker_v1",
+    "version": "0.1.6"
+  },
   "talon-cql": {
     "files": {
       "main.js": "sha256-5k+vgemn0+Yw1ImSz+RsPD4UKyjUrfoPhDiyoB6k7Pw=",
@@ -60717,6 +61055,16 @@
     "name": "Task Accountability Tracker",
     "repo": "sattarip/obsidian-task-accountability",
     "version": "1.2.0"
+  },
+  "task-base": {
+    "files": {
+      "main.js": "sha256-Nu4wz+hhBWEjkaWv19SxKDPI8ZDA+qDL2M98bS/Dgl4=",
+      "manifest.json": "sha256-wmft0oGsizQMf/uM2nYwR1/z2BaCyT8ueWia1wE4JcI=",
+      "styles.css": "sha256-TsUKFvzfovMp6pi8zJGMh1CC5m2YhCOJILW+jex2fIA="
+    },
+    "name": "Task Base",
+    "repo": "tteschon/obsidian-task-base",
+    "version": "0.3.2"
   },
   "task-board": {
     "files": {
@@ -61058,13 +61406,13 @@
   },
   "task-wheel": {
     "files": {
-      "main.js": "sha256-YGklj3uLkdA+DYMZx29SNvqgLQZoFAi47CStHwjmslA=",
-      "manifest.json": "sha256-zeXILrUUbv/JSSY/jorJJpg9GZYKDWR9Zn5rZ6nLA10=",
-      "styles.css": "sha256-TY0Q6JafMet/A5lrtTHUC+VSR4gosHgGnq27Lo9YCxI="
+      "main.js": "sha256-dqRZOW4/zuCtvLis/JzPdsrtksDGhNMHFPyG4YS7IW4=",
+      "manifest.json": "sha256-WIIdSJ1MX0LwQmTm7mkcDBP8ragwLdwU7WjDbnFMyzI=",
+      "styles.css": "sha256-PHE8rQIJ4CC9N3He4KB4eEKRpeWjwSTHRkpSmU29ugM="
     },
     "name": "Task Wheel",
     "repo": "maxonamission/obsidian-task-wheel",
-    "version": "0.1.15"
+    "version": "0.1.20"
   },
   "task-zero": {
     "files": {
@@ -61087,13 +61435,13 @@
   },
   "taskchute-plus": {
     "files": {
-      "main.js": "sha256-+S+Iiq8n/4XH5bFNS4Ld3VSNr6X/IghQzJX3LNd1aDs=",
-      "manifest.json": "sha256-wekdseHA2eEanzx5NI21O5EiNmiFIidZalTff//PiD0=",
-      "styles.css": "sha256-cBi1pwlJWc8OLIu3MMTEMcvW869sbRSAkw+Zrfke0B8="
+      "main.js": "sha256-jvDO8vWndvVXoJasEbvg7kA3tPv+ZfgJPJOMpwUa6kI=",
+      "manifest.json": "sha256-vyvrNk9epqj4lbg1+FZJBUyni6pxRMW10fY0MMSwu44=",
+      "styles.css": "sha256-Cof2NyYk3AfkHhQ3YSTUR181OzvYz9Lbna6hvzcEh94="
     },
     "name": "TaskChute Plus",
     "repo": "hiroyaiizuka/taskchute-for-obsidian",
-    "version": "2.2.12"
+    "version": "2.2.14"
   },
   "taskgregator": {
     "files": {
@@ -61506,13 +61854,13 @@
   },
   "team-core": {
     "files": {
-      "main.js": "sha256-MNCd1y1gmvL9Zr+ndVfh0YdPAtUml5pzIo6Nz6cERO4=",
-      "manifest.json": "sha256-HTZSPrCsMuZHaTEhRcM/i25V1V1uZbBenl9t3xTpjME=",
-      "styles.css": "sha256-BIfL0P6C0i0Wc1ew4cwII6G91UQytlfEqU69WiHgKos="
+      "main.js": "sha256-VDGU3OTV5QA+D70zyYwGg85vJ6ebatTN7932+nfD8So=",
+      "manifest.json": "sha256-vS7XI9OloJ41NnKlHhLtFldVrTshEutis22upgMVkiI=",
+      "styles.css": "sha256-lHAk1Z/1uIi2zivRNzFi/n1VkZyLMe3zkrm5Tplmtuk="
     },
     "name": "Oldeng Team Core",
     "repo": "zhewana/OldengTeamCore",
-    "version": "0.1.24"
+    "version": "0.1.25"
   },
   "team-manager": {
     "files": {
@@ -61721,13 +62069,13 @@
   },
   "tempo": {
     "files": {
-      "main.js": "sha256-3GE4EJXTn+BOwt1zbObiXsBuSQ3sjo3wfsmchpeyJ7E=",
-      "manifest.json": "sha256-B07GU85xdlkUASS6Ckhrww+gBpsEFjjbnhmhkj42QeU=",
-      "styles.css": "sha256-BLnozkHgiaYxx1GnAySqaxjdhnPSwazpQMGmppHn7gI="
+      "main.js": "sha256-1f2iDXpGpQz+a8MiX58meXbt4OrsaE26l5QZFb5leYk=",
+      "manifest.json": "sha256-9xTBNAmcdzGiLofD/iH/YNPdNrGYfXQmq1uiL7Gb2lU=",
+      "styles.css": "sha256-2Sy5dipQv/HWwxCkF1dJ1U1R3AyW3cSucXGVSuv1eiQ="
     },
     "name": "Tempo",
     "repo": "parhamf6/Tempo",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "tengwar": {
     "files": {
@@ -61798,6 +62146,16 @@
     "name": "Terminal Workbench Pet",
     "repo": "real-fruit-snacks/terminal-workbench-pet",
     "version": "1.2.0"
+  },
+  "terminalogue": {
+    "files": {
+      "main.js": "sha256-p95TizhvSFA3jxTkZlI0FReKJhw9Rsytpziz2gRkIhg=",
+      "manifest.json": "sha256-mMaaL8k/G2pEXNcOALVoUBjlbJFR4r08Z67xTBLv2XY=",
+      "styles.css": "sha256-gtbqejZzQ59W59xcgbEZgB2R0RkxVAYUV5oCn/Ew+Hs="
+    },
+    "name": "Terminalogue",
+    "repo": "yumizu11/Terminalogue",
+    "version": "0.5.2"
   },
   "terminus": {
     "files": {
@@ -61900,13 +62258,13 @@
   },
   "text-alchemy": {
     "files": {
-      "main.js": "sha256-ARv1EKfUhO8aNcIG6fORKhRmbxQwdCDq9rdf44icMis=",
-      "manifest.json": "sha256-kU6GFfOUXTAKTA2eblG5BwsIuyRlFEh1EKZJ55x70Fw=",
-      "styles.css": "sha256-vXtCXeSCOD3VsCj90ZPw4PyzSwPb8KBkgOOeE5omoQs="
+      "main.js": "sha256-dWaxiIrPi6AkpDELrunkmkyMfo84Ud8LkuKPw6PurPc=",
+      "manifest.json": "sha256-gOGSd6Um0zGLElSnn+2ibnzlgJXEieAz7plEt6yc02Y=",
+      "styles.css": "sha256-tKO85AiqYiwMef+uX1nrXcMk6l7dELEJw8kZM21cWZA="
     },
     "name": "Text Alchemy",
     "repo": "nameiskyro/text-alchemy",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "text-autocomplete": {
     "files": {
@@ -62362,13 +62720,13 @@
   },
   "thought-navigator": {
     "files": {
-      "main.js": "sha256-D4whi5BlQF5QhksMv6hLlOChoIVMf22Aiz7w0NzWw4E=",
-      "manifest.json": "sha256-mvu2fl7BLu/Ib1gWNUsmBk8II7lHd50k6ugTIgExgtY=",
-      "styles.css": "sha256-xZmnQQc21cStlIiL0uxW9ER14Hfwmue04XmVDevWAKk="
+      "main.js": "sha256-jqiYO7XJ2yvsHccHaTSVeITCoAG5cKnilgJYI/OiebA=",
+      "manifest.json": "sha256-WGKh86OUzLN+CXaOOZfGYUAM/eshBtEvQynoL1BD//o=",
+      "styles.css": "sha256-KGzcXygL5SuB4PFiJg7O9v0yVUixN/HE/X2mbENueyc="
     },
     "name": "Thought Navigator",
     "repo": "qingxuanlin-s/obsidian-thought-navigator",
-    "version": "0.3.3"
+    "version": "0.3.4"
   },
   "thought-synapse-desktop": {
     "files": {
@@ -62645,13 +63003,13 @@
   },
   "time-logger": {
     "files": {
-      "main.js": "sha256-IbWIyf0CQ4n2OlnugeeHyK+N6ixXNxGUFHeOF7qglbw=",
-      "manifest.json": "sha256-6YbxJIm7KwGoRJASMY5tLupTQS9Hdb1dc7sg8TwU/aY=",
-      "styles.css": "sha256-n8kOm65Ldq6flsYbQKAJdesZ5gZz6Ci3+Y8aleqUYrI="
+      "main.js": "sha256-WlmjBDfmPxwRlrOj4Tk7VjFNNwCilw1k2U6RQNZAVRQ=",
+      "manifest.json": "sha256-aamEkFMbYuI74sEngC1u35v2D+wHxrOVHceLhaRlo7Y=",
+      "styles.css": "sha256-8rvGUnIz83VQTLv3nR2UlEyF3nwaWVNSBlvY9K7ed4s="
     },
     "name": "Time Logger",
     "repo": "satox69/Time-Logger-obsidian-plugin",
-    "version": "1.3.7"
+    "version": "1.4.1"
   },
   "time-machine": {
     "files": {
@@ -63453,16 +63811,6 @@
     "repo": "jsifalda/obsidian-todos-sort",
     "version": "2.3.0"
   },
-  "todoseq": {
-    "files": {
-      "main.js": "sha256-7N3+YfUDruRZE3Dhpy7P2nfDrge652o8B1py9CdniCc=",
-      "manifest.json": "sha256-zAnVIFpSl2tuhUpzSx/46H08c06Nt0awhnPJMmIJdF0=",
-      "styles.css": "sha256-k7buXqG9pEMeUdpgQdlg5sgJWKl++4DBJGbg2W4go2U="
-    },
-    "name": "TODOseq",
-    "repo": "scross01/obsidian-todoseq",
-    "version": "0.19.0"
-  },
   "todotxt": {
     "files": {
       "main.js": "sha256-R7D5MQnI2ZTNyzIIxYr4A+GrMUljm8uGvJ+N0f5VDt0=",
@@ -63738,6 +64086,16 @@
     "repo": "augmentableai/tpsreport-obsidian-sync",
     "version": "1.2.3"
   },
+  "tracekeeper": {
+    "files": {
+      "main.js": "sha256-7fWYLHCf3vjeXPAzwOljKQMPGoBDC3ZZSEQrI/IPa/g=",
+      "manifest.json": "sha256-Ma//ylK6uCQ99/hmDUOq6mxwWOk8e5BPJfotRZJy8/A=",
+      "styles.css": "sha256-jGVJjDRpIs1Pcv4kyPuVavyDP6oXlqGhjxaLRmqDrG0="
+    },
+    "name": "Tracekeeper",
+    "repo": "sparkwild/obsidian-tracekeeper",
+    "version": "0.5.0"
+  },
   "tracetime": {
     "files": {
       "main.js": "sha256-cbIiV/cn8WU8xPUTh8O4kTSL7joE3TdJPadqEKzg+uU=",
@@ -63968,13 +64326,13 @@
   },
   "traverture": {
     "files": {
-      "main.js": "sha256-yArD9eqE2Q+LRnqNGFzBsks5bMLiLhkYaScOfPkGZi4=",
-      "manifest.json": "sha256-vD+PPIJa39BI23EHyjc02A//Dz9WY5+Icb9EK8EfXks=",
+      "main.js": "sha256-fqBecfDM+E1IW35ZG31d47kZkkcJ4qyKsVobIfVjSvE=",
+      "manifest.json": "sha256-bDdFsu4cbRp/iEW2hAwVuiqTIO6Zs5jwP889swakys0=",
       "styles.css": "sha256-/HAahTX4/Z0WfIqjL8Q3Bq5wYff7hsiOWMazEAXJ0s4="
     },
     "name": "traVERture",
     "repo": "erykjj/traverture",
-    "version": "3.8.0"
+    "version": "3.8.1"
   },
   "trawl-intelligence": {
     "files": {
@@ -64349,13 +64707,13 @@
   },
   "tw-read-aloud": {
     "files": {
-      "main.js": "sha256-kzuH10HUY009Wgb8N3AmPs0Rznh6qf8rnp+/rsgLbs4=",
-      "manifest.json": "sha256-vjXDrG9JffqKTxMsSTH/Cy4cRu3HhCpyRYRX3fEDt/I=",
-      "styles.css": "sha256-ZCJ5FqWWwYp3O56mQt7xH9tBpPOgXNjKv7ghmVhtb7I="
+      "main.js": "sha256-q+0j/jk+LduLKTCufUFzHIuxaRJhDIFgbFia+8iRSPA=",
+      "manifest.json": "sha256-HBz2uc9FJOzPuJpALJYZTSXkRjh5mx0S5RgHFDZ2HrI=",
+      "styles.css": "sha256-t6QZv8WFL3gT5otsuJJ8g4FsvWmpiaOIEuVyMcVxMzY="
     },
     "name": "Hans TW TTS",
     "repo": "hansai-art/obsidian-tw-tts",
-    "version": "0.15.0"
+    "version": "0.18.0"
   },
   "tw-task-wiki": {
     "files": {
@@ -65463,13 +65821,13 @@
   },
   "vault-assistant": {
     "files": {
-      "main.js": "sha256-qYab5mzx5TXaKnGgRCZsurMjTerWdWLKL8FYBaoAU1Q=",
-      "manifest.json": "sha256-09vG6x8jFKZJDMcHuMp1f2K6Trt7JYsZRJjt67L61Us=",
-      "styles.css": "sha256-HtoOZCiqwz4Iht2e3lw+Oh4doIdjPTXhQeMmBFL8mAI="
+      "main.js": "sha256-mIbcAqkNmegNgrKOuczCvK78dG6+zXxQhFQOj9AgVbE=",
+      "manifest.json": "sha256-dgmHvo3LuklC2zN/nPlstfKv4JOk/2/JVFvnTKuNsIY=",
+      "styles.css": "sha256-shJMm4MNDExnIBkJT1pXTowTCzmLUINlY0fZkouyYj0="
     },
     "name": "Vault Assistant",
     "repo": "bigpaulie/obsidian-assistant",
-    "version": "1.11.0"
+    "version": "1.11.2"
   },
   "vault-autopilot": {
     "files": {
@@ -65639,13 +65997,13 @@
   },
   "vault-dashboard-x": {
     "files": {
-      "main.js": "sha256-IMD3WrgOUx/hH4iWxarzca32jJdwAz/KowyxritCCO4=",
-      "manifest.json": "sha256-uRPufNJRLP74P+dJHQjai2KQVBo+btsIg/fya5gm3e0=",
-      "styles.css": "sha256-Q91DhpDbDbUQ51Mjq6AER4UxuO49Q76n3+8JtJGkfb4="
+      "main.js": "sha256-+NJiOehE/C0uXNILdpSnoQPe1i0vrWRZN5rvoKO8o54=",
+      "manifest.json": "sha256-LgFQz4RiQB3ekRAtotMaEFW17gzG3eMB0UTYbUFPgbg=",
+      "styles.css": "sha256-YG6u6T2HxJItnkri2xAFNahyXmUXjDkhEISgX91RyFM="
     },
     "name": "Vault Dashboard X",
     "repo": "shayher5525/obsidian-vault-dashboard",
-    "version": "0.14.0"
+    "version": "0.16.0"
   },
   "vault-dictionary": {
     "files": {
@@ -65768,13 +66126,13 @@
   },
   "vault-graph": {
     "files": {
-      "main.js": "sha256-bn7aQCC2xyahpysZO7Hm1497qbIS/pUp5y68NVjAAAM=",
-      "manifest.json": "sha256-mXspwNle5+r2n1p2tTCdBZs1kdFm+RDMFdSkcTzKueU=",
-      "styles.css": "sha256-wUMN/CTAwQvY0UUI6sFFuXKHJHk4sK6Cdoxs+Yirwlc="
+      "main.js": "sha256-3zOnMmIenK6HncUs2MX8Gi6pbFMyIqbBKLZBSPf2j0U=",
+      "manifest.json": "sha256-Zw0Mo5sTk+D+jFEBPC0H2xbSaLDDuOmu1PhJfx3tQu8=",
+      "styles.css": "sha256-NTGxQkwgmjDWqH5wTp/iiyLEy96H3eHD5buifZ0nOPQ="
     },
     "name": "Vault Graph",
     "repo": "luke321/vault-graph",
-    "version": "1.8.0"
+    "version": "1.9.0"
   },
   "vault-hub": {
     "files": {
@@ -65788,13 +66146,13 @@
   },
   "vault-inspector": {
     "files": {
-      "main.js": "sha256-OHNYTTYFC61FZXr1Wfd7e/mo4Ka5nT4Mi71IrhL2SdA=",
-      "manifest.json": "sha256-g16pKS4l+E6hPC5fg+9MOrdpkiDi3C15bxDBYOZ5kIs=",
-      "styles.css": "sha256-5fDT2I4IYa1BltcWMBKK5yLzmSYmjQno3DvI1T5iBn0="
+      "main.js": "sha256-MuQpOxphoSm6ooMABM65CjcKmCEuckubWUDhH1L3Rtk=",
+      "manifest.json": "sha256-tZVtTLiqsmZ6Ooa0yoB8CpF5yTw7HLyVMmEM2Eanadw=",
+      "styles.css": "sha256-G9kf8X3KUkULlKwcEUjUBjGFi56A2Wbveu6Be+0mxmk="
     },
     "name": "Vault Inspector",
     "repo": "rogerdigital/vault-inspector",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "vault-intelligence": {
     "files": {
@@ -65926,13 +66284,13 @@
   },
   "vault-orrery": {
     "files": {
-      "main.js": "sha256-55h+BlQ41psRcg7u3DnwtQ5Nb2wUMHMhRiYCq4lzfbs=",
-      "manifest.json": "sha256-sTKk6kSUBHf8i4K/SEo7ytgJWiAdqvttJ+vFpvbWxr8=",
-      "styles.css": "sha256-9GzAR8Pljm+0KME+3nUA5WlVbhoSjTy5vlHESpixFsU="
+      "main.js": "sha256-3X4FGysI1tYy89niCZOXuoPwBnRpgJ35ydGYgY2JWBc=",
+      "manifest.json": "sha256-p0TKGnhRv/+5Mh8NS6QyFH//w5N7/zFQLjICzlPEgFY=",
+      "styles.css": "sha256-3Ac/uRdWwAST4efxwrP/IxNR1MULNROzUK0IezMSMkY="
     },
     "name": "Vault Orrery",
     "repo": "elliott-json-park/obsidian-vault-orrery",
-    "version": "1.12.0"
+    "version": "1.13.1"
   },
   "vault-palette": {
     "files": {
@@ -66055,13 +66413,13 @@
   },
   "vault-searchlight": {
     "files": {
-      "main.js": "sha256-5D94aQcVutX5aVf9UhKTERKRyoVp63NnsQcdR335q18=",
-      "manifest.json": "sha256-FpXz9qY0eEbW3o7qIcUD+u4e/EM2YVYNqERIdhj4+wk=",
-      "styles.css": "sha256-bWEQ8nxkNAr/V39MAFdU42RMgu0j/099fVfp+xxST7U="
+      "main.js": "sha256-bePL9IxoPsdMQJSZcaxHzPn60buqtZDo96Ex6Kt9H+A=",
+      "manifest.json": "sha256-tljVTDWgws6zlq8BOHe7TJEVs83b+G9eaWYzCCUlIKI=",
+      "styles.css": "sha256-RIDrW+2KRjQhoSB6Ro1L0m50M8+GPwEmdc4iDeHY8+Y="
     },
     "name": "Beacon",
     "repo": "bengutteridge1/beacon",
-    "version": "1.4.1"
+    "version": "1.5.0"
   },
   "vault-share": {
     "files": {
@@ -66301,13 +66659,13 @@
   },
   "vaultbox": {
     "files": {
-      "main.js": "sha256-hBpbHhTXzR61K5B80nffCoQRn9a8QMyLuXe8RLWPUtc=",
-      "manifest.json": "sha256-ddHzkR6sXMIlyIrejdWWgZFoRiIsNOLBVpLcTs9b5B4=",
+      "main.js": "sha256-MYDipAfcrHNGINDuLZS6MzAsI+HXDJoYhQswYZa4N3k=",
+      "manifest.json": "sha256-qWndpysJqQfuIJ1SVaVaFFMectDlO7jiMO/xh8Z2wzE=",
       "styles.css": "sha256-AL4UaVgnJ7lG+wQdjjE+2BTf8hU441NlzfAp69KzEBw="
     },
     "name": "Vaultbox",
     "repo": "grumpydev/vaultbox",
-    "version": "1.0.7"
+    "version": "1.0.8"
   },
   "vaultbridge": {
     "files": {
@@ -66835,13 +67193,13 @@
   },
   "vim-motions": {
     "files": {
-      "main.js": "sha256-INdRJFVRmLb6znS3/T8Ttlptfg4ORtqWeNycbNDvCFE=",
-      "manifest.json": "sha256-xsft5TEUHNIMlMZqOvwwJhuKDFViZ5aGyY0WOWENnMI=",
+      "main.js": "sha256-TRoTD1nsG/OaJPjm7AotSxoN5cVG7JD4uMN8rzdd1FE=",
+      "manifest.json": "sha256-2xHJrHrMnpCnUfeMrFG7CWKYcABGYEzLgHM0Djudjew=",
       "styles.css": "sha256-rkM+GHbtr61gsaCcrmfwq23JELFHYDLBtj01cZbeciA="
     },
     "name": "Vim Motions",
     "repo": "saberzero1/motions",
-    "version": "0.138.0"
+    "version": "0.140.0"
   },
   "vim-reading-nav": {
     "files": {
@@ -67360,13 +67718,13 @@
   },
   "voxtral-transcribe": {
     "files": {
-      "main.js": "sha256-2Ud75gaODlonkEQLdFxsX5DHZd7Cq2UOnPGTKBBYUT8=",
-      "manifest.json": "sha256-TxKkgTbdcRXfLq6nla7Uy1kJBTuavfQlqrw8jAJdVjY=",
+      "main.js": "sha256-rmKEkIXricuxmFfMh1UBu4cPFdtcyiFUS4BzU9JEZgU=",
+      "manifest.json": "sha256-KkGn1xrmD5qAOfn0eqIP0ei6AUbG8mFnXzAgjtYYRyw=",
       "styles.css": "sha256-ClOBY/t3bkCMS2CJjaWnO57v3S3sJ4GvqxKc2lGwmNQ="
     },
     "name": "Voxtral Transcribe",
     "repo": "maxonamission/obsidian-voxtral",
-    "version": "1.12.1"
+    "version": "1.13.0"
   },
   "voz-notas": {
     "files": {
@@ -67668,13 +68026,13 @@
   },
   "weave": {
     "files": {
-      "main.js": "sha256-Yj9jbkfjVpz3cQ//qA8Aq2h1pg3/s4S6WImbeKKzLdU=",
-      "manifest.json": "sha256-qESdYgMo2lJZNzTg1ILFnMP8jx3PdxULFcOFZsrrK3A=",
-      "styles.css": "sha256-ndctEevwox26ADfWfitZdsxzfwxGICTgQbverbaSafs="
+      "main.js": "sha256-CHmJ/ZoPt0LUWtZ5HpXFX6Wt0EW3BRcjn65mbq4k05w=",
+      "manifest.json": "sha256-z73UQA4a6LnrRtGQybfrJ6eI2j9S+jEdsT5LRL9Av0M=",
+      "styles.css": "sha256-Aq6cUOQ5UJhFPPdi6AaWZHLDtsUJHl2VnXuvwd51zxQ="
     },
     "name": "Weave Deck",
     "repo": "zhuzhige123/obsidian---Weave",
-    "version": "0.9.10"
+    "version": "0.9.11"
   },
   "weave-epub-ai-reader": {
     "files": {
@@ -67688,23 +68046,23 @@
   },
   "weave-epub-reader": {
     "files": {
-      "main.js": "sha256-Bo3tejZodLmAycepR9XG4W+YkWICdKO54DOhDfCy8i0=",
-      "manifest.json": "sha256-rM6krmHBupWoeRCSLbBY2pDqR3ShJilqQU3XdJqbh4E=",
-      "styles.css": "sha256-Lgb1pFvEh2dBXt6IeHS62bzI4r00l1+00j3j/OZDAkg="
+      "main.js": "sha256-tw+j3G8Pj3V5+LVQSyLJENlIruAlHMmMyiJG9yY6vDc=",
+      "manifest.json": "sha256-MjnERxY+gUbzw8KpefrDnXL+73heANDFuCV/pZ2TX7Q=",
+      "styles.css": "sha256-Z8P2Nhp/Zxy3QVTYRejUQ/VrfYoAwmQ1IgXprKErcKk="
     },
     "name": "Weave EPUB Reader",
     "repo": "zhuzhige123/obsidian-weave-reader",
-    "version": "0.7.29"
+    "version": "0.7.30"
   },
   "weave-incremental-reading": {
     "files": {
-      "main.js": "sha256-cz3Nna+BrytqM5TMo15S2xsUafHusuvUvhsGIn+LIqM=",
-      "manifest.json": "sha256-TmBLYYsJX22TsDb/GPh5JzNP2vkRK2szuKv4KIq5FwA=",
-      "styles.css": "sha256-rHZl8DH+60wy5rTYi5oU5zRFPsA1U2M5yeq7hoT/H1I="
+      "main.js": "sha256-REVe5393dcvibeyOPuftPsDePdL6vWUp4j/Olcsv7pU=",
+      "manifest.json": "sha256-esCMoHim+Js4MuALvZXbhs1O2vNVrxHAXkGFvbL2VCk=",
+      "styles.css": "sha256-ePkQNm4qy0wUjM4iJfXrLjd2WQyzPeO0Wc6Or0PUpns="
     },
     "name": "Weave Incremental Reading",
     "repo": "zhuzhige123/Obsidian-Weave-incremental-reading",
-    "version": "0.5.32"
+    "version": "0.5.33"
   },
   "web-card": {
     "files": {
@@ -67727,13 +68085,13 @@
   },
   "web-novel-assistant": {
     "files": {
-      "main.js": "sha256-a+eiO+qlm4XyMDuhwyi8xDCpZEhtIehieLR4FXCT9VY=",
-      "manifest.json": "sha256-I4NSZoRegn43M8gb6Qf8xFZGFkGoc0fj0IxlP4438wM=",
-      "styles.css": "sha256-p2Dg0SoYFllFDG7AaxWvVqiLuqerqKKO0QEW+IeWR6g="
+      "main.js": "sha256-F8d/Ey4jT//zqZdQ2N+9F6j5+OiBfqgBR7puzmbvWVg=",
+      "manifest.json": "sha256-HAAVNVeJpckfJKHKEtavMkGnvXiKd/vhylCkKewJEbU=",
+      "styles.css": "sha256-9vrfeNtwJJT7pUQ63Q7zA0EnWjITQ0LepwFsExYOaNo="
     },
     "name": "WebNovel Assistant",
     "repo": "hatanochihiro/obsidian-webnovel-assistant",
-    "version": "3.9.2"
+    "version": "3.9.3"
   },
   "web-task-dashboard": {
     "files": {
@@ -67895,13 +68253,13 @@
   },
   "wechat-inbox-sync": {
     "files": {
-      "main.js": "sha256-ztTv+atf4o3uCdHTPb996+3pggWJr8Ji27g91dI/9Qw=",
-      "manifest.json": "sha256-CpocberjW8jDUzpt1qJJsjMqQ5yfjA6B5LuR9px+RyE=",
+      "main.js": "sha256-hpMsqS+fnXM49Pf2D/HuiAzDlvqx9zEejRfBdc6u1uk=",
+      "manifest.json": "sha256-uiHDtSefrmnmV2lPB7TtjUtreWKikJUuCdVKrUUHvaE=",
       "styles.css": "sha256-3m4PpZ3GKZMki+4rnZcCpMB3Ubvmh7kiqpoWh1/ibT4="
     },
     "name": "WeChat Inbox Sync",
     "repo": "mingjuner123-spec/wechat-inbox-sync",
-    "version": "1.3.132"
+    "version": "1.3.134"
   },
   "wechat-link-sync": {
     "files": {
@@ -68307,13 +68665,13 @@
   },
   "wiki-companion": {
     "files": {
-      "main.js": "sha256-ZxoW/SIm7/hTS1a2luA04TGRYyVz3rFqjUXW0XEoX1A=",
-      "manifest.json": "sha256-9Fq0iT/+Rxo2uc7iG7bPW1MFS7G0mrACB5FzOII42cY=",
-      "styles.css": "sha256-CZ1dXNwp5tNZXFYbc/EwCa25n1hXD6WCY1x79rwwcs8="
+      "main.js": "sha256-k/rODYdfFEVr8BVVkGzwXTg/bFCmHwBYtFqQ6iIcmYE=",
+      "manifest.json": "sha256-rtt/+sZNo8rtf6IC0ltStTC1zliYwE+44QahYHqKC2s=",
+      "styles.css": "sha256-pVeWj/0OP+o/vPv/C7rgsKu8oYnFR2eXatdjUsaBJOU="
     },
     "name": "Wiki Companion",
     "repo": "cityplannermo/companion",
-    "version": "1.23.1"
+    "version": "1.32.0"
   },
   "wiki-copilot": {
     "files": {
@@ -68907,13 +69265,13 @@
   },
   "workout-journal": {
     "files": {
-      "main.js": "sha256-IdMd0n8nLol+hej4CiaxFvY4jqgLqBluCmG9pRe5ARg=",
-      "manifest.json": "sha256-BDSAv9aqfJcrZFwC189Dbwx+ISTT2jleGJAWyoMn2uU=",
-      "styles.css": "sha256-h69zpxZ/enulW+XhlX9JF9y4CRD5KAFlIBLwKPClqZE="
+      "main.js": "sha256-9kSZkzMZGK6aF3y28pa60AbIbVvRl+Ne4Bnd2ifcp88=",
+      "manifest.json": "sha256-rxBRte7vFKbneEjNQD9zfBLGK3ebOpCNADIL4FoJqKc=",
+      "styles.css": "sha256-Tac8TgwhLzPRwa4VmCehzJ8nc8BVuaGf0Ob+Fmxhb+Q="
     },
     "name": "Workout Journal",
     "repo": "i-am-rudi/workout-journal",
-    "version": "0.1.35"
+    "version": "0.1.36"
   },
   "workout-logger": {
     "files": {
@@ -68977,13 +69335,13 @@
   },
   "workspace-plus-plus": {
     "files": {
-      "main.js": "sha256-boDu7Iu6RO79eSqYEsT7gjYdiO9OHHtJa1PJdc/Mfr8=",
-      "manifest.json": "sha256-ju+Xp+xr6GT3nKmu7K4PadbsPoKYGW7k9nALO8cqRXM=",
-      "styles.css": "sha256-ViNo2vpUdjKnvdh2JRxom31eJuRr4VTp+XbO8g8bAqY="
+      "main.js": "sha256-UbHewMgd57GnVgg77UzsLGvIn5fidY8kOnVKxomTdag=",
+      "manifest.json": "sha256-brPdY4cyoy2EPwphjkwz9k+N30IoHwZqPbDdX4NajB0=",
+      "styles.css": "sha256-dmGpYdwRNuiBMfvGhwN74V4WCbkePOYls9VM1mrF26Q="
     },
     "name": "Workspace++",
     "repo": "s1m4ne/obsidian-workspace-plus",
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "workspaces-plus": {
     "files": {
@@ -69313,13 +69671,13 @@
   },
   "xiangqi": {
     "files": {
-      "main.js": "sha256-cE77jaUZuNbQ81h0g3fLgrYR96D/wtaDJFodgFLEO+s=",
-      "manifest.json": "sha256-mlm84wKZ9lYG6a9KLxSIeesEpPVd8736herDPzVv3CQ=",
+      "main.js": "sha256-z6xIfAgnvjobXW8gGSUOOczX2VQVczsDoosW1XOWK1A=",
+      "manifest.json": "sha256-eiVIDL1DZN+e/vPbkw92nkWHzzOGwMp2Jur7CrfnbJE=",
       "styles.css": "sha256-a1h94iKNXZsDdpeol8794OOu461jaH7TuYSg9zpOmCg="
     },
     "name": "Chinese Chess",
     "repo": "west-shell/obsidian-xiangqi",
-    "version": "4.7.6"
+    "version": "4.7.7"
   },
   "xiaohongshu-importer": {
     "files": {
@@ -69472,13 +69830,13 @@
   },
   "yaml-properties": {
     "files": {
-      "main.js": "sha256-viZmIMg/zfMM313lZrylYA20Cdnp/NAHlgD5rG6QbrA=",
-      "manifest.json": "sha256-GYMKtPa+PbuiXpbNQTteRBo59YdeKPRhsxjWaLf++Fo=",
-      "styles.css": "sha256-nRFNlLvEbBbS+XUwANAR555t6m4KuYL1O+u67HsyTIg="
+      "main.js": "sha256-yzodUintmvSMigJqDxwW6bqvZ3tXJ8y18Xe/VO3oylQ=",
+      "manifest.json": "sha256-5dVJkhe+dX6/6eQGiUmw6Be3pM/OKj5u8+nO5/iX9DQ=",
+      "styles.css": "sha256-OTHnWItwAqdc24HaDBsDH7kEpjogYFeEerb61oH8S1U="
     },
     "name": "YAML Properties",
     "repo": "haivri/obsidian-yaml-properties",
-    "version": "1.0.2"
+    "version": "1.0.4"
   },
   "yaml-table": {
     "files": {
@@ -69736,6 +70094,16 @@
     "name": "YourPulse - Your Writing Activity Visualised",
     "repo": "jsifalda/obsipulse-plugin",
     "version": "2.4.0"
+  },
+  "youspot": {
+    "files": {
+      "main.js": "sha256-AtfPyzf3/v1Pd0nSYjK7cwzMWDWtY4Lzxo+yReRukLw=",
+      "manifest.json": "sha256-g/oz1xivY9kyoqhzVzP0hcNBtAMHZwzoZ2USPtRWgK8=",
+      "styles.css": "sha256-s+82MsjlOZLbTlYtcnp/RZCv9micKIRsjZzy3PzfMSM="
+    },
+    "name": "YouSpot",
+    "repo": "onstartups/youspot-obsidian",
+    "version": "0.1.3"
   },
   "youtnote": {
     "files": {
@@ -70002,6 +70370,16 @@
     "name": "Zen Mode",
     "repo": "paperbenni/obsidian-zenmode",
     "version": "1.7.0"
+  },
+  "zerocloud-notes": {
+    "files": {
+      "main.js": "sha256-0x1jp2XvGmY0Ts82bpIbSROHG3KThBPhv2TOOkEQZs0=",
+      "manifest.json": "sha256-8jzgNLALEfJJRG81ttZj//4ufwQ5POIFNrAbqK0jJUY=",
+      "styles.css": "sha256-2FlDGEpWl+L8cMOwjBoQAg6oRwo+lN8Dqobqphdi78M="
+    },
+    "name": "Link to Notes",
+    "repo": "lamvanbien65-crypto/obsidian-zerocloud-notes",
+    "version": "0.4.4"
   },
   "zettelcasting": {
     "files": {
