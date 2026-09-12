@@ -21,7 +21,7 @@
       "light"
     ],
     "name": "Abate",
-    "repo": "ricedev10/Abate-theme",
+    "repo": "kai-h1/Abate-theme",
     "rev": "6a5e5920c280eed20c42c7925316c2a0489945f1"
   },
   "abecedarium": {
@@ -505,8 +505,8 @@
   },
   "aubade": {
     "files": {
-      "manifest.json": "sha256-LAvJXoEgDYzsFCSRYxjSiB022iM1XJ0lt93CkNtNR7U=",
-      "theme.css": "sha256-a9lVdOv4zKGqiDKcaBkFOaftgAz9REjuJ3dHV3r/SSE="
+      "manifest.json": "sha256-8UlCNJuvXM895I4N6YXxvi7WGuVvVo9XjCqnZ91Awqg=",
+      "theme.css": "sha256-3xZDRkvmu4m7ytjuSCdVbJKtg5KBSLG2vgsYTAofzUo="
     },
     "modes": [
       "dark",
@@ -514,7 +514,7 @@
     ],
     "name": "Aubade",
     "repo": "ducktapekiller/obsidian-aubade",
-    "rev": "99e3a88df52a24b50c0ca9fbf84629d0711a5738"
+    "rev": "36fd700bded13d5771e5c09d73ef19ccbb92a129"
   },
   "auger": {
     "files": {
@@ -902,7 +902,7 @@
   },
   "bordeaux": {
     "files": {
-      "manifest.json": "sha256-wTx4m7lXvj4b36AvUpGYXh7SoWxTzM2Q8aZOwwT+BLQ=",
+      "manifest.json": "sha256-x8cd5bDI1I2nMZXAEQ9V4EBjpo/SFZDRdXhsO4kgpq4=",
       "theme.css": "sha256-EC6N75C9T0IqGNT8E1Rrg+EA84rKmBua7DpCuUz9Aqk="
     },
     "modes": [
@@ -910,7 +910,7 @@
     ],
     "name": "Bordeaux",
     "repo": "creativemindrito/bordeaux-theme-obsidian",
-    "rev": "ce667624b7ac8650d5e602f4fb82911c6b85b479"
+    "rev": "3bd6868407b10a62b689880f1860f0ca6587cff5"
   },
   "border": {
     "files": {
@@ -2225,6 +2225,19 @@
     "repo": "iammaxim/obsidian-docgen-theme",
     "rev": "e989c37ae823b09a6ac2a569006766ba25e9f843"
   },
+  "dossier": {
+    "files": {
+      "manifest.json": "sha256-pLuTGygBEvyBcDGvxs+VJgBIOUHRbtK7R/HK2ouFsxo=",
+      "theme.css": "sha256-uuTlTUEgDPm9JcpdDjDAjzYO9QQqeW6DEMIYmlOWMEI="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "Dossier",
+    "repo": "real-fruit-snacks/obsidian-dossier",
+    "rev": "4c13a294532f7eac2f0f52fc0e9e4c184e415b66"
+  },
   "dracula-for-obsidian": {
     "files": {
       "obsidian.css": "sha256-hOe/O67cZ1FJu0rUmu6refsviG2buFUes4YEAFXUcwY="
@@ -3186,6 +3199,19 @@
     "repo": "ismailgunacar/gitsidian",
     "rev": "0fd34ca2838bfe2c2a375bf7a64c370366a7137e"
   },
+  "glacial-bloom": {
+    "files": {
+      "manifest.json": "sha256-Mt9xZPdXgtkmsNgAcVOVrt5unL1suJntM1pYt+aTjiI=",
+      "theme.css": "sha256-4IHlt3QhODpf3FYJ+LVRIJQHCJc/s5dvQ+iBjj56/x8="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "Glacial Bloom",
+    "repo": "w-o-debian/glacial-bloom",
+    "rev": "9da7b0e536e3a4290a1bfeae60b731655e94e31c"
+  },
   "glass-robo": {
     "files": {
       "manifest.json": "sha256-xwuMyvDpYxx6cLNH3gFPZenMo1e8heIoCZdZ4Ic8iCo=",
@@ -3224,6 +3250,19 @@
     "name": "Glassmind",
     "repo": "m3hransh/glassmind-obsidian-theme",
     "rev": "983931ad0d8975047ae69be8bacb7bc8dafa46b0"
+  },
+  "glow": {
+    "files": {
+      "manifest.json": "sha256-89v9XwJi1+I4V/j4gIRDXotRcqzMHYu6tpcN8vQZsFk=",
+      "theme.css": "sha256-aaATF7vQYotg3FgC7g/ZD47LH+AI3A8bNpJb/Zx2PYU="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "Glow",
+    "repo": "real-fruit-snacks/obsidian-glow",
+    "rev": "878c48ce59cc471e812c92d17231617c7f7711e2"
   },
   "golden-topaz": {
     "files": {
@@ -3512,15 +3551,15 @@
   },
   "htb-hud": {
     "files": {
-      "manifest.json": "sha256-yZp3t7ylEzIDKnf1vjP5S37SbpV+9NUUHBA+5izDGaU=",
-      "theme.css": "sha256-4X5zl6KVFgXm6RDZzN8g+YJlEEiN8popBC/LupRgu/0="
+      "manifest.json": "sha256-cU+UUGtWQg5kOWIL4f5o0OzrgM/rsPw94iMQ/34MNKo=",
+      "theme.css": "sha256-0qqfLJ1hlEIkRejZbLkjckkvMv65Qy4wwAcVMUYE5cE="
     },
     "modes": [
       "dark"
     ],
     "name": "HTB HUD",
     "repo": "number-zero/obsidian-htb-hud",
-    "rev": "8eb7b31491e5145edb77e39dbe06eaed37f65da7"
+    "rev": "99df7a9bb6f36b3972391ef69787ec4b54aab53c"
   },
   "hulk": {
     "files": {
@@ -3607,7 +3646,7 @@
     ],
     "name": "ICOR for Life - INKLINE",
     "repo": "myicor/icor-for-life-inkline",
-    "rev": "ce5e55fb7437316756a79c11434dbb644db54c74"
+    "rev": "2d412807effd60429c789b2d783d8c0a510f2772"
   },
   "improved-potato": {
     "files": {
@@ -4539,7 +4578,7 @@
   "minimalists-paradise": {
     "files": {
       "manifest.json": "sha256-ylyCSZEtEdF+9g0e67W/KOkoJdQuCOx/poArOJKkpos=",
-      "theme.css": "sha256-7c4LvfrMiG88UNXZULL7+nChHU95d7SIs8fE+5FrNb0="
+      "theme.css": "sha256-3bsD19mYfUkGZ9dDlcKBRNNvcPN5VKwAE71Ui853TX0="
     },
     "modes": [
       "dark",
@@ -4547,7 +4586,7 @@
     ],
     "name": "Minimalists Paradise",
     "repo": "bellebasso/Minimalists-Paradise",
-    "rev": "a8d1cebefec455b2c22dd10ba57b926b19c04bdd"
+    "rev": "e9c1ab023fe36431e7170db21686bfcebc127ff1"
   },
   "mint-breeze": {
     "files": {
@@ -5042,6 +5081,18 @@
     "name": "nerv",
     "repo": "ethanthatonekid/obsidian-nerv",
     "rev": "3a2525f22b8c6535f28078cf941034cd2341e3d8"
+  },
+  "netrunner": {
+    "files": {
+      "manifest.json": "sha256-TIP1fl+v20HzpFrBvhdQrtALczB07dga3VFpHgCwF8M=",
+      "theme.css": "sha256-3dnf4xX1TYSjkyqv4O2hJ9MAvOm50DZa/yOurK0UNFo="
+    },
+    "modes": [
+      "dark"
+    ],
+    "name": "Netrunner",
+    "repo": "ahmadalkfri/netrunner-obsidian",
+    "rev": "891d39701568f7ece57ce29bbe511dacefffff1d"
   },
   "neuborder": {
     "files": {
@@ -5807,6 +5858,19 @@
     "repo": "sunhaloo/OneNice",
     "rev": "5f9971aad8f7017d5651b48a1ad91235e9e7e8a5"
   },
+  "onepage": {
+    "files": {
+      "manifest.json": "sha256-Dk2Xn7VNU2GnQt5ASV07aCLZ6lBSOAKA6eSteBgz9/s=",
+      "theme.css": "sha256-UOa8MGfgr1wakNVbIGeqaP0MPI7VP3S0mcoFRqej8KY="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "OnePage",
+    "repo": "ivaneye/OnePage",
+    "rev": "4226e57d8d33ee4bb0f0bc00405c3762831799bc"
+  },
   "ono-sendai": {
     "files": {
       "obsidian.css": "sha256-1hDFJmQ8KsE+WD2nu6LpqUYEcqqLa/FIjKmj1+rFMhQ="
@@ -5960,6 +6024,19 @@
     "repo": "lemon695/obsidian-theme-ouroboros",
     "rev": "d9342bb9f1cf95e6927b16abd7f07a3eccef4741"
   },
+  "outrun": {
+    "files": {
+      "manifest.json": "sha256-ZB8Juf0JDWZ1yTG4B6dJFW6tYNbseB5HohIqqhMZoyk=",
+      "theme.css": "sha256-FUmIewp+Z6du7LD4Yz8UPYYmkNf07BM5/dGEAKSDX9w="
+    },
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "name": "Outrun",
+    "repo": "real-fruit-snacks/obsidian-outrun",
+    "rev": "8813a2e5b18f0c324bd7ad46534d1dd878cc3f01"
+  },
   "owen-graphite": {
     "files": {
       "manifest.json": "sha256-qWw+dspI+KEVVefPZWtlPvcDBlNb8cutYmbAvBtbPR0=",
@@ -6037,8 +6114,8 @@
   },
   "paper-ember": {
     "files": {
-      "manifest.json": "sha256-bt/awKiVQh9LpUOFVX99ofQ+rpq4335lk/6pQiJUDkU=",
-      "theme.css": "sha256-T4zT3/lQgCGSjquf3lIp8nPW34Y+aAPxVaUrLcjqsyI="
+      "manifest.json": "sha256-gAjp5gV8dTPbtYgf8W254eDwsSSE+yonfisfo6HUMTI=",
+      "theme.css": "sha256-BsCSfYCFXnwICX8MDxPeunjJP4q/Wm4gxrOCdvmdlcU="
     },
     "modes": [
       "dark",
@@ -6046,7 +6123,7 @@
     ],
     "name": "Paper Ember",
     "repo": "eonewg/paper-ember",
-    "rev": "04d7e0ec5a534c4f0ab1a1dfadc9482001e402c1"
+    "rev": "161e584fa8d970616f3fdb9b364494f142ed91dd"
   },
   "paper-source": {
     "files": {
@@ -8580,8 +8657,8 @@
   },
   "verso": {
     "files": {
-      "manifest.json": "sha256-Yr+c7hVm5r3rG/xLhmUyKtVTlRVQmY870pn79AcngpE=",
-      "theme.css": "sha256-uHsOV/t+zDJifdMjmmu+ZgYRUekINJK5EU96uVeteIo="
+      "manifest.json": "sha256-4q2Jx8P4I8Z1uF3ZGqu/btKtAstJepSCvuZtZtCk0i8=",
+      "theme.css": "sha256-kxVnFr3WyHWEZWSRMUGuq0HLt+1ZGRdmwfJF/O/Ub90="
     },
     "modes": [
       "dark",
@@ -8589,7 +8666,7 @@
     ],
     "name": "Verso",
     "repo": "linuz90/obsidian-verso",
-    "rev": "0e27bbae70a1c1a8ac9330369c02e384339aff09"
+    "rev": "dc212f402c620adef5cbf44e2d61ab6b0d9417db"
   },
   "vesnea-vibe": {
     "files": {
